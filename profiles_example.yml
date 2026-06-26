@@ -4,7 +4,7 @@ telavox_mock:
     dev:
       type: bigquery
       method: oauth
-      project: YOUR_GCP_PROJECT_ID
+      project: tvox-500517
       dataset: telavox_mock_dbt
       threads: 4
       location: EU
