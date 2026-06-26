@@ -19,5 +19,14 @@ sources:
       - name: raw_subscriptions
       - name: raw_platform_eventsx
       - name: raw_invoices
+        description: Company invoice data.
+        data_tests:
+        columns:
+          - name: invoice_id,
+            description: Primary key for invoice data. 
+            data_tests:
+              - unique
+              - not_null
+        
       - name: raw_support_tickets
       - name: raw_cdc_subscription_changes
