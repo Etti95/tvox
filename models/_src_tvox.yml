@@ -8,6 +8,13 @@ sources:
 
     tables:
       - name: raw_companies
+        description: Raw company data
+        columns:
+          - name: company_id
+            description: Primary key for company data.
+            data_tests:
+              - unique 
+              - not_null 
       - name: raw_users
       - name: raw_subscriptions
       - name: raw_platform_eventsx
