@@ -1,7 +1,9 @@
+version: 2
+
 sources:
   - name: telavox_raw
     database: tvox-500517
-    schema: telavox-mock-raw
+    schema: telavox_mock_raw
 
 
     tables:
