@@ -1,0 +1,22 @@
+name: 'telavox_mock'
+version: '1.0.0'
+config-version: 2
+
+profile: 'telavox_mock'
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+
+models:
+  telavox_mock:
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: table
+    marts:
+      +materialized: table
+
+seeds:
+  telavox_mock:
+    +schema: seed

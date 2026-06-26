@@ -1,0 +1,121 @@
+company_id,company_name,country,industry,employee_count,sales_segment,account_owner,created_at,is_test_account
+cmp_0001,MockCo 0001,Finland,Manufacturing,40,SMB,Carla,2026-03-13 03:00:00,False
+cmp_0002,MockCo 0002,Norway,Logistics,360,Mid-Market,Alice,2026-04-07 03:00:00,False
+cmp_0003,MockCo 0003,Sweden,Manufacturing,69,SMB,Jonas,2025-10-08 02:00:00,True
+cmp_0004,MockCo 0004,Sweden,Retail,495,Mid-Market,Jonas,2025-11-26 14:00:00,False
+cmp_0005,MockCo 0005,Norway,Healthcare,48,SMB,Jonas,2025-12-27 08:00:00,False
+cmp_0006,MockCo 0006,Germany,Software,390,Mid-Market,Maja,2025-10-25 11:00:00,False
+cmp_0007,MockCo 0007,Norway,Consulting,2051,Enterprise,Farah,2026-02-15 03:00:00,False
+cmp_0008,MockCo 0008,Finland,Consulting,104,Mid-Market,Ben,2026-02-25 06:00:00,False
+cmp_0009,MockCo 0009,Germany,Education,2057,Enterprise,Farah,2026-05-07 07:00:00,False
+cmp_0010,MockCo 0010,Norway,Retail,39,SMB,David,2025-11-11 11:00:00,False
+cmp_0011,MockCo 0011,Finland,Finance,76,SMB,Alice,2025-11-11 14:00:00,False
+cmp_0012,MockCo 0012,Germany,Healthcare,286,Mid-Market,David,2025-11-28 01:00:00,False
+cmp_0013,MockCo 0013,United Kingdom,Education,68,SMB,Carla,2026-02-23 22:00:00,False
+cmp_0014,MockCo 0014,Germany,Logistics,76,SMB,Jonas,2025-12-07 04:00:00,False
+cmp_0015,MockCo 0015,Spain,Healthcare,1067,Enterprise,Alice,2026-01-01 07:00:00,False
+cmp_0016,MockCo 0016,United Kingdom,Healthcare,25,SMB,Jonas,2026-05-09 03:00:00,False
+cmp_0017,MockCo 0017,Germany,Software,2668,Enterprise,Ben,2026-01-06 19:00:00,False
+cmp_0018,MockCo 0018,Netherlands,Healthcare,474,Mid-Market,Elin,2026-03-24 17:00:00,False
+cmp_0019,MockCo 0019,Denmark,Healthcare,38,SMB,Elin,2026-01-20 05:00:00,False
+cmp_0020,MockCo 0020,Denmark,Finance,30,SMB,Carla,2026-05-04 20:00:00,False
+cmp_0021,MockCo 0021,Netherlands,Education,2954,Enterprise,Alice,2026-02-16 16:00:00,False
+cmp_0022,MockCo 0022,Finland,Software,1760,Enterprise,David,2025-10-29 11:00:00,False
+cmp_0023,MockCo 0023,Norway,Retail,67,SMB,Carla,2026-02-23 02:00:00,False
+cmp_0024,MockCo 0024,Germany,Logistics,1177,Enterprise,David,2026-03-18 15:00:00,False
+cmp_0025,MockCo 0025,Germany,Logistics,446,Mid-Market,Farah,2026-02-16 23:00:00,False
+cmp_0026,MockCo 0026,Finland,Healthcare,36,SMB,Farah,2026-01-21 16:00:00,False
+cmp_0027,MockCo 0027,Finland,Software,382,Mid-Market,Ben,2025-10-06 18:00:00,False
+cmp_0028,MockCo 0028,Sweden,Finance,13,SMB,Ben,2026-03-31 20:00:00,False
+cmp_0029,MockCo 0029,Finland,Retail,67,SMB,Maja,2026-02-09 07:00:00,False
+cmp_0030,MockCo 0030,Norway,Healthcare,178,Mid-Market,Jonas,2025-12-02 15:00:00,False
+cmp_0031,MockCo 0031,Norway,Software,11,SMB,Jonas,2025-12-30 13:00:00,False
+cmp_0032,MockCo 0032,Finland,Manufacturing,136,Mid-Market,David,2026-04-05 10:00:00,False
+cmp_0033,MockCo 0033,Germany,Education,28,SMB,David,2026-02-15 14:00:00,False
+cmp_0034,MockCo 0034,Norway,Software,362,Mid-Market,Alice,2025-10-20 14:00:00,False
+cmp_0035,MockCo 0035,Spain,Manufacturing,67,SMB,Jonas,2025-10-24 07:00:00,False
+cmp_0036,MockCo 0036,Germany,Education,54,SMB,Elin,2025-10-16 05:00:00,False
+cmp_0037,MockCo 0037,Spain,Retail,2777,Enterprise,David,2026-01-17 22:00:00,False
+cmp_0038,MockCo 0038,Sweden,Finance,2873,Enterprise,Alice,2025-12-15 06:00:00,False
+cmp_0039,MockCo 0039,Denmark,Software,72,SMB,Ben,2025-10-13 18:00:00,False
+cmp_0040,MockCo 0040,Finland,Logistics,13,SMB,Ben,2026-05-06 05:00:00,False
+cmp_0041,MockCo 0041,Norway,Logistics,101,Mid-Market,Farah,2026-02-23 07:00:00,False
+cmp_0042,MockCo 0042,Finland,Consulting,241,Mid-Market,Jonas,2025-12-06 06:00:00,False
+cmp_0043,MockCo 0043,Netherlands,Healthcare,315,Mid-Market,Alice,2025-11-03 21:00:00,False
+cmp_0044,MockCo 0044,Norway,Manufacturing,910,Enterprise,Elin,2026-01-26 19:00:00,False
+cmp_0045,MockCo 0045,Netherlands,Consulting,1501,Enterprise,Carla,2025-11-03 11:00:00,False
+cmp_0046,MockCo 0046,Sweden,Consulting,394,Mid-Market,Ben,2026-01-21 17:00:00,False
+cmp_0047,MockCo 0047,Denmark,Consulting,18,SMB,Elin,2025-11-04 08:00:00,False
+cmp_0048,MockCo 0048,Germany,Education,185,Mid-Market,Elin,2026-03-04 06:00:00,False
+cmp_0049,MockCo 0049,Germany,Software,59,SMB,Alice,2026-05-05 01:00:00,False
+cmp_0050,MockCo 0050,Denmark,Education,215,Mid-Market,Jonas,2025-12-25 04:00:00,False
+cmp_0051,MockCo 0051,Sweden,Finance,24,SMB,Carla,2026-02-21 00:00:00,False
+cmp_0052,MockCo 0052,Sweden,Finance,51,SMB,David,2026-01-19 04:00:00,False
+cmp_0053,MockCo 0053,United Kingdom,Retail,262,Mid-Market,David,2026-03-24 07:00:00,False
+cmp_0054,MockCo 0054,Denmark,Finance,602,Enterprise,Jonas,2025-11-11 05:00:00,False
+cmp_0055,MockCo 0055,Germany,Retail,1517,Enterprise,Ben,2026-04-24 21:00:00,False
+cmp_0056,MockCo 0056,Finland,Education,1412,Enterprise,Farah,2026-01-06 01:00:00,False
+cmp_0057,MockCo 0057,United Kingdom,Finance,29,SMB,Elin,2025-12-18 07:00:00,False
+cmp_0058,MockCo 0058,United Kingdom,Finance,70,SMB,Alice,2025-10-18 08:00:00,False
+cmp_0059,MockCo 0059,Sweden,Healthcare,38,SMB,Jonas,2025-10-30 08:00:00,False
+cmp_0060,MockCo 0060,Norway,Logistics,304,Mid-Market,David,2025-12-28 23:00:00,False
+cmp_0061,MockCo 0061,Finland,Finance,81,Mid-Market,Jonas,2025-12-05 01:00:00,False
+cmp_0062,MockCo 0062,Netherlands,Healthcare,3053,Enterprise,Elin,2025-10-18 21:00:00,False
+cmp_0063,MockCo 0063,United Kingdom,Consulting,248,Mid-Market,Carla,2026-02-07 09:00:00,False
+cmp_0064,MockCo 0064,Denmark,Consulting,275,Mid-Market,Jonas,2025-11-19 13:00:00,False
+cmp_0065,MockCo 0065,United Kingdom,Finance,31,SMB,Maja,2026-02-18 00:00:00,False
+cmp_0066,MockCo 0066,Spain,Retail,342,Mid-Market,Ben,2026-01-22 14:00:00,False
+cmp_0067,MockCo 0067,Netherlands,Healthcare,398,Mid-Market,David,2025-12-12 16:00:00,False
+cmp_0068,MockCo 0068,Denmark,Software,30,SMB,Alice,2026-03-22 09:00:00,False
+cmp_0069,MockCo 0069,Norway,Education,474,Mid-Market,Jonas,2025-12-02 15:00:00,False
+cmp_0070,MockCo 0070,Spain,Logistics,54,SMB,David,2026-03-11 18:00:00,False
+cmp_0071,MockCo 0071,Norway,Logistics,465,Mid-Market,David,2025-11-07 20:00:00,False
+cmp_0072,MockCo 0072,Finland,Healthcare,11,SMB,Maja,2025-11-15 22:00:00,False
+cmp_0073,MockCo 0073,Netherlands,Education,367,Mid-Market,Jonas,2025-11-04 14:00:00,False
+cmp_0074,MockCo 0074,Spain,Education,25,SMB,Elin,2026-05-01 17:00:00,False
+cmp_0075,MockCo 0075,Spain,Manufacturing,222,Mid-Market,Elin,2026-04-11 07:00:00,False
+cmp_0076,MockCo 0076,Germany,Finance,201,Mid-Market,Farah,2026-01-21 02:00:00,False
+cmp_0077,MockCo 0077,United Kingdom,Retail,34,SMB,David,2026-02-16 02:00:00,True
+cmp_0078,MockCo 0078,Spain,Logistics,74,SMB,Alice,2025-10-17 13:00:00,False
+cmp_0079,MockCo 0079,Sweden,Logistics,79,SMB,Maja,2025-11-22 13:00:00,False
+cmp_0080,MockCo 0080,United Kingdom,Manufacturing,54,SMB,Maja,2025-10-02 11:00:00,False
+cmp_0081,MockCo 0081,United Kingdom,Finance,8,SMB,Jonas,2025-11-26 08:00:00,False
+cmp_0082,MockCo 0082,Sweden,Logistics,146,Mid-Market,Alice,2026-04-04 05:00:00,False
+cmp_0083,MockCo 0083,Denmark,Software,64,SMB,Elin,2025-10-22 20:00:00,False
+cmp_0084,MockCo 0084,Netherlands,Logistics,46,SMB,Elin,2026-01-06 10:00:00,False
+cmp_0085,MockCo 0085,Spain,Software,15,SMB,Alice,2026-04-11 13:00:00,False
+cmp_0086,MockCo 0086,Sweden,Software,480,Mid-Market,David,2025-12-29 07:00:00,False
+cmp_0087,MockCo 0087,Denmark,Education,203,Mid-Market,Ben,2025-11-21 00:00:00,False
+cmp_0088,MockCo 0088,Netherlands,Retail,37,SMB,Ben,2026-02-22 06:00:00,False
+cmp_0089,MockCo 0089,Sweden,Consulting,943,Enterprise,Jonas,2026-04-18 05:00:00,False
+cmp_0090,MockCo 0090,Finland,Healthcare,80,SMB,Elin,2026-01-10 22:00:00,False
+cmp_0091,MockCo 0091,Sweden,Finance,142,Mid-Market,Jonas,2026-05-06 21:00:00,False
+cmp_0092,MockCo 0092,Sweden,Logistics,48,SMB,Maja,2026-03-19 11:00:00,False
+cmp_0093,MockCo 0093,Spain,Retail,3104,Enterprise,Jonas,2025-10-28 13:00:00,False
+cmp_0094,MockCo 0094,Spain,Education,39,SMB,Jonas,2025-11-15 23:00:00,False
+cmp_0095,MockCo 0095,Finland,Healthcare,246,Mid-Market,Elin,2026-04-30 23:00:00,False
+cmp_0096,MockCo 0096,United Kingdom,Finance,372,Mid-Market,Alice,2026-01-24 07:00:00,False
+cmp_0097,MockCo 0097,Netherlands,Consulting,32,SMB,Farah,2026-02-04 10:00:00,False
+cmp_0098,MockCo 0098,Sweden,Manufacturing,222,Mid-Market,Ben,2025-12-11 19:00:00,False
+cmp_0099,MockCo 0099,Finland,Education,76,SMB,Maja,2025-12-01 23:00:00,False
+cmp_0100,MockCo 0100,United Kingdom,Manufacturing,33,SMB,Elin,2026-01-23 00:00:00,False
+cmp_0101,MockCo 0101,Netherlands,Logistics,75,SMB,Farah,2026-03-19 18:00:00,False
+cmp_0102,MockCo 0102,Germany,Manufacturing,44,SMB,Ben,2025-12-30 22:00:00,False
+cmp_0103,MockCo 0103,Denmark,Manufacturing,73,SMB,David,2026-04-03 06:00:00,False
+cmp_0104,MockCo 0104,Germany,Healthcare,80,SMB,David,2026-04-08 15:00:00,False
+cmp_0105,MockCo 0105,Sweden,Retail,43,SMB,Elin,2025-12-15 07:00:00,False
+cmp_0106,MockCo 0106,Denmark,Education,438,Mid-Market,Ben,2025-10-12 01:00:00,False
+cmp_0107,MockCo 0107,Spain,Finance,66,SMB,Carla,2025-10-04 18:00:00,False
+cmp_0108,MockCo 0108,Norway,Healthcare,2457,Enterprise,Jonas,2025-10-14 08:00:00,False
+cmp_0109,MockCo 0109,Sweden,Retail,432,Mid-Market,Carla,2026-02-03 02:00:00,False
+cmp_0110,MockCo 0110,Finland,Healthcare,849,Enterprise,Jonas,2026-04-26 18:00:00,False
+cmp_0111,MockCo 0111,United Kingdom,Education,196,Mid-Market,Maja,2026-03-05 19:00:00,False
+cmp_0112,MockCo 0112,Sweden,Healthcare,1751,Enterprise,David,2025-12-16 18:00:00,False
+cmp_0113,MockCo 0113,Denmark,Manufacturing,15,SMB,Carla,2026-03-10 06:00:00,False
+cmp_0114,MockCo 0114,Spain,Education,57,SMB,Elin,2026-02-19 02:00:00,False
+cmp_0115,MockCo 0115,Spain,Healthcare,41,SMB,David,2025-10-09 07:00:00,False
+cmp_0116,MockCo 0116,Finland,Logistics,492,Mid-Market,Ben,2025-12-07 20:00:00,False
+cmp_0117,MockCo 0117,Denmark,Healthcare,217,Mid-Market,Alice,2026-02-17 07:00:00,False
+cmp_0118,MockCo 0118,Germany,Education,372,Mid-Market,Ben,2025-11-12 09:00:00,False
+cmp_0119,MockCo 0119,Germany,Education,56,SMB,Maja,2026-01-28 22:00:00,False
+cmp_0120,MockCo 0120,Netherlands,Consulting,60,SMB,Alice,2025-10-21 19:00:00,False

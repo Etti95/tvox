@@ -1,0 +1,10 @@
+telavox_mock:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: YOUR_GCP_PROJECT_ID
+      dataset: telavox_mock_dbt
+      threads: 4
+      location: EU

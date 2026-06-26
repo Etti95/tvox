@@ -1,0 +1,2017 @@
+ticket_id,company_id,opened_at,closed_at,priority,category,status
+tkt_0000001,cmp_0001,2026-04-04 14:38:00,2026-04-05 15:38:00,medium,call_quality,closed
+tkt_0000002,cmp_0001,2026-06-13 16:57:00,2026-06-16 05:57:00,low,integration,closed
+tkt_0000003,cmp_0002,2026-04-24 08:57:00,2026-04-24 13:57:00,high,account_admin,closed
+tkt_0000004,cmp_0002,2026-04-29 08:19:00,2026-05-01 15:19:00,medium,bug,closed
+tkt_0000005,cmp_0002,2026-05-01 10:50:00,2026-05-04 10:50:00,low,billing,closed
+tkt_0000006,cmp_0002,2026-05-06 13:06:00,2026-05-09 08:06:00,low,billing,closed
+tkt_0000007,cmp_0002,2026-05-08 10:43:00,2026-05-09 08:43:00,medium,billing,closed
+tkt_0000008,cmp_0002,2026-05-13 11:42:00,,low,account_admin,open
+tkt_0000009,cmp_0002,2026-05-18 13:21:00,2026-05-21 01:21:00,low,call_quality,closed
+tkt_0000010,cmp_0002,2026-05-26 18:34:00,2026-05-26 19:34:00,urgent,account_admin,closed
+tkt_0000011,cmp_0002,2026-06-07 09:25:00,,low,account_admin,open
+tkt_0000012,cmp_0002,2026-06-14 09:56:00,2026-06-16 12:56:00,low,account_admin,closed
+tkt_0000013,cmp_0002,2026-06-15 09:42:00,2026-06-15 19:42:00,urgent,onboarding,closed
+tkt_0000014,cmp_0002,2026-06-20 14:05:00,2026-06-23 08:05:00,low,call_quality,closed
+tkt_0000015,cmp_0004,2025-11-26 14:58:00,2025-11-28 02:58:00,medium,call_quality,closed
+tkt_0000016,cmp_0004,2025-12-04 15:36:00,2025-12-09 06:36:00,low,billing,closed
+tkt_0000017,cmp_0004,2025-12-08 09:51:00,2025-12-10 17:51:00,medium,call_quality,closed
+tkt_0000018,cmp_0004,2025-12-09 12:41:00,2025-12-11 17:41:00,low,call_quality,closed
+tkt_0000019,cmp_0004,2025-12-30 16:55:00,2025-12-30 21:55:00,urgent,feature_request,closed
+tkt_0000020,cmp_0004,2026-01-02 16:28:00,2026-01-03 01:28:00,high,account_admin,closed
+tkt_0000021,cmp_0004,2026-01-06 15:59:00,2026-01-08 10:59:00,low,call_quality,closed
+tkt_0000022,cmp_0004,2026-01-07 16:59:00,2026-01-08 13:59:00,medium,billing,closed
+tkt_0000023,cmp_0004,2026-01-14 18:17:00,2026-01-16 01:17:00,medium,onboarding,closed
+tkt_0000024,cmp_0004,2026-01-22 16:46:00,2026-01-23 03:46:00,medium,account_admin,closed
+tkt_0000025,cmp_0004,2026-01-23 11:48:00,2026-01-25 03:48:00,low,onboarding,closed
+tkt_0000026,cmp_0004,2026-02-05 10:30:00,2026-02-08 07:30:00,low,billing,closed
+tkt_0000027,cmp_0004,2026-02-06 13:12:00,2026-02-08 03:12:00,medium,onboarding,closed
+tkt_0000028,cmp_0004,2026-02-13 10:54:00,2026-02-14 02:54:00,high,bug,closed
+tkt_0000029,cmp_0004,2026-02-18 14:18:00,2026-02-21 05:18:00,low,feature_request,closed
+tkt_0000030,cmp_0004,2026-03-21 12:34:00,2026-03-22 05:34:00,high,bug,closed
+tkt_0000031,cmp_0004,2026-03-22 13:00:00,2026-03-23 04:00:00,urgent,onboarding,closed
+tkt_0000032,cmp_0004,2026-04-02 13:28:00,2026-04-04 15:28:00,low,onboarding,closed
+tkt_0000033,cmp_0004,2026-04-08 16:16:00,2026-04-10 17:16:00,medium,billing,closed
+tkt_0000034,cmp_0004,2026-04-11 17:41:00,2026-04-12 13:41:00,low,call_quality,closed
+tkt_0000035,cmp_0004,2026-04-24 09:20:00,2026-04-25 03:20:00,low,onboarding,closed
+tkt_0000036,cmp_0004,2026-05-09 09:49:00,2026-05-09 22:49:00,low,feature_request,closed
+tkt_0000037,cmp_0004,2026-05-20 15:14:00,2026-05-23 13:14:00,medium,bug,closed
+tkt_0000038,cmp_0004,2026-06-06 13:50:00,,low,call_quality,open
+tkt_0000039,cmp_0004,2026-06-15 18:09:00,,low,onboarding,open
+tkt_0000040,cmp_0004,2026-06-16 18:05:00,2026-06-17 06:05:00,low,feature_request,closed
+tkt_0000041,cmp_0004,2026-06-24 11:29:00,2026-06-26 06:29:00,low,call_quality,closed
+tkt_0000042,cmp_0005,2026-02-08 14:35:00,2026-02-09 12:35:00,medium,bug,closed
+tkt_0000043,cmp_0005,2026-02-08 11:15:00,2026-02-11 05:15:00,low,integration,closed
+tkt_0000044,cmp_0005,2026-02-14 18:10:00,2026-02-15 21:10:00,low,integration,closed
+tkt_0000045,cmp_0005,2026-05-29 11:54:00,2026-06-03 05:54:00,low,onboarding,closed
+tkt_0000046,cmp_0005,2026-06-24 16:00:00,2026-06-26 00:00:00,low,account_admin,closed
+tkt_0000047,cmp_0006,2025-11-01 13:13:00,2025-11-03 13:13:00,low,call_quality,closed
+tkt_0000048,cmp_0006,2025-11-24 16:02:00,2025-11-27 03:02:00,medium,call_quality,closed
+tkt_0000049,cmp_0006,2025-11-28 14:53:00,2025-11-30 22:53:00,low,integration,closed
+tkt_0000050,cmp_0006,2025-12-02 12:46:00,,medium,feature_request,open
+tkt_0000051,cmp_0006,2025-12-06 15:16:00,2025-12-06 23:16:00,medium,bug,closed
+tkt_0000052,cmp_0006,2025-12-07 16:23:00,2025-12-11 05:23:00,low,call_quality,closed
+tkt_0000053,cmp_0006,2025-12-10 18:06:00,2025-12-15 15:06:00,low,bug,closed
+tkt_0000054,cmp_0006,2025-12-13 09:56:00,2025-12-14 21:56:00,medium,onboarding,closed
+tkt_0000055,cmp_0006,2025-12-28 14:25:00,,medium,account_admin,open
+tkt_0000056,cmp_0006,2025-12-28 12:24:00,,low,feature_request,open
+tkt_0000057,cmp_0006,2026-01-01 10:33:00,2026-01-03 14:33:00,medium,bug,closed
+tkt_0000058,cmp_0006,2026-01-07 18:54:00,2026-01-09 03:54:00,high,account_admin,closed
+tkt_0000059,cmp_0006,2026-01-07 13:59:00,2026-01-09 05:59:00,medium,account_admin,closed
+tkt_0000060,cmp_0006,2026-01-24 09:00:00,2026-01-26 08:00:00,medium,feature_request,closed
+tkt_0000061,cmp_0006,2026-02-23 16:36:00,2026-02-24 18:36:00,low,account_admin,closed
+tkt_0000062,cmp_0006,2026-03-01 15:00:00,2026-03-01 22:00:00,medium,feature_request,closed
+tkt_0000063,cmp_0006,2026-03-10 10:53:00,2026-03-10 23:53:00,low,integration,closed
+tkt_0000064,cmp_0006,2026-03-12 08:20:00,2026-03-13 08:20:00,medium,integration,closed
+tkt_0000065,cmp_0006,2026-03-25 18:41:00,2026-03-26 02:41:00,high,billing,closed
+tkt_0000066,cmp_0006,2026-04-04 11:39:00,2026-04-07 00:39:00,medium,call_quality,closed
+tkt_0000067,cmp_0006,2026-04-07 14:00:00,2026-04-10 03:00:00,medium,bug,closed
+tkt_0000068,cmp_0006,2026-04-11 18:23:00,2026-04-12 19:23:00,low,bug,closed
+tkt_0000069,cmp_0006,2026-04-13 14:25:00,,high,billing,open
+tkt_0000070,cmp_0006,2026-04-15 16:38:00,2026-04-16 17:38:00,high,onboarding,closed
+tkt_0000071,cmp_0006,2026-04-19 09:34:00,2026-04-21 13:34:00,low,feature_request,closed
+tkt_0000072,cmp_0006,2026-04-24 12:27:00,2026-04-27 10:27:00,medium,integration,closed
+tkt_0000073,cmp_0006,2026-05-07 09:15:00,2026-05-09 20:15:00,low,billing,closed
+tkt_0000074,cmp_0006,2026-05-08 15:13:00,2026-05-10 14:13:00,medium,integration,closed
+tkt_0000075,cmp_0006,2026-05-15 17:34:00,2026-05-19 11:34:00,low,call_quality,closed
+tkt_0000076,cmp_0006,2026-05-15 10:32:00,2026-05-16 05:32:00,medium,billing,closed
+tkt_0000077,cmp_0006,2026-05-20 12:48:00,2026-05-22 07:48:00,medium,onboarding,closed
+tkt_0000078,cmp_0006,2026-05-27 12:35:00,2026-05-29 07:35:00,low,integration,closed
+tkt_0000079,cmp_0006,2026-06-02 13:50:00,2026-06-03 22:50:00,medium,bug,closed
+tkt_0000080,cmp_0006,2026-06-03 17:06:00,2026-06-04 05:06:00,medium,integration,closed
+tkt_0000081,cmp_0006,2026-06-09 12:24:00,2026-06-13 10:24:00,low,integration,closed
+tkt_0000082,cmp_0007,2026-02-15 09:12:00,2026-02-17 12:12:00,low,feature_request,closed
+tkt_0000083,cmp_0007,2026-02-16 11:41:00,,low,bug,open
+tkt_0000084,cmp_0007,2026-02-16 14:37:00,2026-02-17 02:37:00,urgent,call_quality,closed
+tkt_0000085,cmp_0007,2026-02-17 10:42:00,2026-02-18 21:42:00,medium,onboarding,closed
+tkt_0000086,cmp_0007,2026-02-18 12:10:00,2026-02-21 11:10:00,low,integration,closed
+tkt_0000087,cmp_0007,2026-02-26 15:10:00,2026-03-01 13:10:00,medium,bug,closed
+tkt_0000088,cmp_0007,2026-02-28 11:09:00,2026-03-01 07:09:00,high,onboarding,closed
+tkt_0000089,cmp_0007,2026-03-01 17:23:00,2026-03-04 22:23:00,low,integration,closed
+tkt_0000090,cmp_0007,2026-03-07 18:36:00,2026-03-09 00:36:00,medium,onboarding,closed
+tkt_0000091,cmp_0007,2026-03-09 10:08:00,2026-03-14 02:08:00,low,bug,closed
+tkt_0000092,cmp_0007,2026-03-09 15:01:00,2026-03-12 08:01:00,medium,integration,closed
+tkt_0000093,cmp_0007,2026-03-10 16:39:00,2026-03-13 16:39:00,low,integration,closed
+tkt_0000094,cmp_0007,2026-03-10 12:56:00,2026-03-10 19:56:00,medium,onboarding,closed
+tkt_0000095,cmp_0007,2026-03-11 14:12:00,2026-03-13 11:12:00,high,call_quality,closed
+tkt_0000096,cmp_0007,2026-03-17 14:16:00,2026-03-19 04:16:00,low,call_quality,closed
+tkt_0000097,cmp_0007,2026-03-22 12:35:00,2026-03-23 20:35:00,medium,integration,closed
+tkt_0000098,cmp_0007,2026-03-23 17:28:00,2026-03-24 00:28:00,high,call_quality,closed
+tkt_0000099,cmp_0007,2026-03-28 16:30:00,2026-03-29 13:30:00,low,account_admin,closed
+tkt_0000100,cmp_0007,2026-03-31 13:48:00,,medium,billing,open
+tkt_0000101,cmp_0007,2026-03-31 17:38:00,2026-04-01 01:38:00,high,call_quality,closed
+tkt_0000102,cmp_0007,2026-04-08 14:51:00,2026-04-10 07:51:00,low,integration,closed
+tkt_0000103,cmp_0007,2026-04-09 10:03:00,2026-04-09 12:03:00,high,feature_request,closed
+tkt_0000104,cmp_0007,2026-04-19 09:54:00,2026-04-19 13:54:00,high,feature_request,closed
+tkt_0000105,cmp_0007,2026-04-22 15:26:00,2026-04-24 05:26:00,medium,onboarding,closed
+tkt_0000106,cmp_0007,2026-04-27 13:24:00,2026-04-29 08:24:00,high,feature_request,closed
+tkt_0000107,cmp_0007,2026-04-28 13:51:00,2026-05-02 04:51:00,low,integration,closed
+tkt_0000108,cmp_0007,2026-04-29 16:41:00,2026-05-01 21:41:00,medium,bug,closed
+tkt_0000109,cmp_0007,2026-05-05 11:00:00,2026-05-05 23:00:00,high,onboarding,closed
+tkt_0000110,cmp_0007,2026-05-11 16:37:00,2026-05-12 10:37:00,high,integration,closed
+tkt_0000111,cmp_0007,2026-05-12 13:26:00,2026-05-14 02:26:00,medium,call_quality,closed
+tkt_0000112,cmp_0007,2026-05-13 13:48:00,2026-05-15 11:48:00,high,bug,closed
+tkt_0000113,cmp_0007,2026-05-14 18:48:00,2026-05-17 09:48:00,medium,billing,closed
+tkt_0000114,cmp_0007,2026-05-17 09:22:00,2026-05-21 09:22:00,low,onboarding,closed
+tkt_0000115,cmp_0007,2026-05-23 17:50:00,2026-05-23 23:50:00,medium,feature_request,closed
+tkt_0000116,cmp_0007,2026-05-23 15:43:00,2026-05-25 07:43:00,medium,integration,closed
+tkt_0000117,cmp_0007,2026-05-29 18:45:00,2026-06-01 12:45:00,low,bug,closed
+tkt_0000118,cmp_0007,2026-06-07 11:19:00,,low,bug,open
+tkt_0000119,cmp_0007,2026-06-09 08:15:00,2026-06-11 20:15:00,medium,billing,closed
+tkt_0000120,cmp_0007,2026-06-09 16:10:00,2026-06-14 01:10:00,low,account_admin,closed
+tkt_0000121,cmp_0007,2026-06-16 11:28:00,2026-06-16 22:28:00,medium,onboarding,closed
+tkt_0000122,cmp_0007,2026-06-24 12:03:00,2026-06-27 12:03:00,low,bug,closed
+tkt_0000123,cmp_0008,2026-03-01 11:14:00,2026-03-01 15:14:00,high,integration,closed
+tkt_0000124,cmp_0008,2026-03-01 17:12:00,2026-03-02 20:12:00,high,billing,closed
+tkt_0000125,cmp_0008,2026-03-03 10:51:00,2026-03-04 02:51:00,medium,feature_request,closed
+tkt_0000126,cmp_0008,2026-03-07 17:58:00,2026-03-09 01:58:00,medium,feature_request,closed
+tkt_0000127,cmp_0008,2026-04-03 18:44:00,2026-04-04 09:44:00,medium,account_admin,closed
+tkt_0000128,cmp_0008,2026-05-02 15:39:00,,low,bug,open
+tkt_0000129,cmp_0008,2026-05-21 09:28:00,2026-05-22 17:28:00,medium,bug,closed
+tkt_0000130,cmp_0008,2026-05-26 10:32:00,2026-05-27 18:32:00,medium,account_admin,closed
+tkt_0000131,cmp_0008,2026-06-24 16:24:00,2026-06-27 10:24:00,medium,billing,closed
+tkt_0000132,cmp_0009,2026-05-07 17:46:00,,urgent,bug,open
+tkt_0000133,cmp_0009,2026-05-08 11:42:00,2026-05-12 18:42:00,low,account_admin,closed
+tkt_0000134,cmp_0009,2026-05-14 13:33:00,,low,billing,open
+tkt_0000135,cmp_0009,2026-05-23 09:00:00,2026-05-28 04:00:00,low,feature_request,closed
+tkt_0000136,cmp_0009,2026-06-02 15:05:00,2026-06-04 21:05:00,medium,feature_request,closed
+tkt_0000137,cmp_0009,2026-06-03 12:26:00,2026-06-07 01:26:00,low,bug,closed
+tkt_0000138,cmp_0009,2026-06-04 17:22:00,2026-06-06 02:22:00,high,account_admin,closed
+tkt_0000139,cmp_0009,2026-06-05 15:52:00,2026-06-06 13:52:00,high,billing,closed
+tkt_0000140,cmp_0009,2026-06-09 13:36:00,2026-06-10 13:36:00,low,call_quality,closed
+tkt_0000141,cmp_0009,2026-06-11 10:08:00,2026-06-12 01:08:00,medium,onboarding,closed
+tkt_0000142,cmp_0009,2026-06-13 16:43:00,2026-06-15 18:43:00,medium,onboarding,closed
+tkt_0000143,cmp_0009,2026-06-16 17:37:00,2026-06-17 23:37:00,high,billing,closed
+tkt_0000144,cmp_0009,2026-06-16 12:42:00,2026-06-21 02:42:00,low,call_quality,closed
+tkt_0000145,cmp_0009,2026-06-22 17:28:00,2026-06-23 22:28:00,medium,feature_request,closed
+tkt_0000146,cmp_0009,2026-06-22 10:13:00,2026-06-24 05:13:00,high,account_admin,closed
+tkt_0000147,cmp_0010,2025-11-18 13:14:00,2025-11-19 08:14:00,medium,bug,closed
+tkt_0000148,cmp_0010,2026-02-04 14:53:00,2026-02-05 01:53:00,medium,onboarding,closed
+tkt_0000149,cmp_0010,2026-02-25 10:53:00,2026-02-28 04:53:00,medium,integration,closed
+tkt_0000150,cmp_0010,2026-04-09 10:25:00,2026-04-11 22:25:00,medium,feature_request,closed
+tkt_0000151,cmp_0010,2026-06-02 11:20:00,2026-06-04 02:20:00,medium,bug,closed
+tkt_0000152,cmp_0011,2025-11-20 08:48:00,2025-11-22 16:48:00,medium,onboarding,closed
+tkt_0000153,cmp_0011,2025-11-22 09:40:00,2025-11-24 00:40:00,low,feature_request,closed
+tkt_0000154,cmp_0011,2025-11-24 13:50:00,,medium,bug,open
+tkt_0000155,cmp_0011,2025-11-24 18:19:00,2025-11-29 14:19:00,low,account_admin,closed
+tkt_0000156,cmp_0011,2026-01-06 10:44:00,2026-01-07 10:44:00,high,account_admin,closed
+tkt_0000157,cmp_0011,2026-02-17 09:41:00,2026-02-20 00:41:00,low,bug,closed
+tkt_0000158,cmp_0011,2026-03-14 11:12:00,2026-03-15 13:12:00,medium,feature_request,closed
+tkt_0000159,cmp_0011,2026-03-24 09:07:00,2026-03-26 13:07:00,medium,account_admin,closed
+tkt_0000160,cmp_0011,2026-04-04 17:40:00,2026-04-04 21:40:00,urgent,onboarding,closed
+tkt_0000161,cmp_0011,2026-04-16 08:17:00,2026-04-17 03:17:00,low,bug,closed
+tkt_0000162,cmp_0011,2026-05-17 13:39:00,2026-05-18 04:39:00,low,billing,closed
+tkt_0000163,cmp_0011,2026-06-15 11:31:00,2026-06-16 13:31:00,medium,feature_request,closed
+tkt_0000164,cmp_0012,2025-12-08 12:25:00,2025-12-09 04:25:00,urgent,onboarding,closed
+tkt_0000165,cmp_0012,2025-12-09 16:42:00,2025-12-10 01:42:00,high,bug,closed
+tkt_0000166,cmp_0012,2025-12-10 18:14:00,2025-12-12 01:14:00,medium,integration,closed
+tkt_0000167,cmp_0012,2025-12-18 12:18:00,2025-12-18 23:18:00,urgent,billing,closed
+tkt_0000168,cmp_0012,2025-12-29 16:38:00,2025-12-30 14:38:00,high,bug,closed
+tkt_0000169,cmp_0012,2026-01-05 08:50:00,2026-01-05 16:50:00,medium,account_admin,closed
+tkt_0000170,cmp_0012,2026-01-09 14:12:00,2026-01-11 00:12:00,medium,billing,closed
+tkt_0000171,cmp_0012,2026-01-21 11:59:00,2026-01-25 09:59:00,low,billing,closed
+tkt_0000172,cmp_0012,2026-01-28 10:02:00,2026-01-29 17:02:00,medium,account_admin,closed
+tkt_0000173,cmp_0012,2026-02-01 17:43:00,2026-02-03 02:43:00,high,feature_request,closed
+tkt_0000174,cmp_0012,2026-02-08 16:57:00,,high,feature_request,open
+tkt_0000175,cmp_0012,2026-02-16 11:27:00,2026-02-21 00:27:00,low,integration,closed
+tkt_0000176,cmp_0012,2026-02-21 14:25:00,2026-02-24 09:25:00,low,feature_request,closed
+tkt_0000177,cmp_0012,2026-03-22 08:18:00,2026-03-23 20:18:00,medium,call_quality,closed
+tkt_0000178,cmp_0012,2026-04-09 16:43:00,2026-04-12 05:43:00,low,bug,closed
+tkt_0000179,cmp_0012,2026-04-12 08:05:00,2026-04-15 09:05:00,low,account_admin,closed
+tkt_0000180,cmp_0012,2026-04-12 15:35:00,2026-04-13 08:35:00,medium,onboarding,closed
+tkt_0000181,cmp_0012,2026-04-17 15:47:00,2026-04-21 01:47:00,low,integration,closed
+tkt_0000182,cmp_0012,2026-04-29 17:10:00,2026-05-01 04:10:00,high,account_admin,closed
+tkt_0000183,cmp_0012,2026-05-19 14:56:00,2026-05-20 02:56:00,urgent,call_quality,closed
+tkt_0000184,cmp_0012,2026-05-31 15:15:00,2026-06-03 08:15:00,low,feature_request,closed
+tkt_0000185,cmp_0012,2026-06-15 12:02:00,2026-06-16 11:02:00,high,call_quality,closed
+tkt_0000186,cmp_0013,2026-02-27 14:34:00,2026-02-28 16:34:00,medium,billing,closed
+tkt_0000187,cmp_0013,2026-03-23 18:49:00,2026-03-25 18:49:00,high,bug,closed
+tkt_0000188,cmp_0013,2026-03-31 18:58:00,2026-04-02 23:58:00,medium,feature_request,closed
+tkt_0000189,cmp_0013,2026-04-02 13:05:00,,medium,bug,open
+tkt_0000190,cmp_0013,2026-05-30 16:55:00,2026-06-01 10:55:00,low,integration,closed
+tkt_0000191,cmp_0013,2026-06-02 12:05:00,,medium,onboarding,open
+tkt_0000192,cmp_0013,2026-06-18 14:36:00,2026-06-23 03:36:00,low,integration,closed
+tkt_0000193,cmp_0013,2026-06-23 18:33:00,,high,integration,open
+tkt_0000194,cmp_0014,2025-12-27 10:47:00,2025-12-29 20:47:00,medium,onboarding,closed
+tkt_0000195,cmp_0014,2025-12-31 17:28:00,,low,feature_request,open
+tkt_0000196,cmp_0014,2026-01-15 13:54:00,2026-01-15 18:54:00,high,account_admin,closed
+tkt_0000197,cmp_0014,2026-03-02 09:39:00,2026-03-04 04:39:00,medium,account_admin,closed
+tkt_0000198,cmp_0014,2026-03-24 12:02:00,2026-03-26 17:02:00,medium,feature_request,closed
+tkt_0000199,cmp_0014,2026-04-07 15:24:00,2026-04-08 05:24:00,high,onboarding,closed
+tkt_0000200,cmp_0014,2026-05-14 16:44:00,2026-05-16 11:44:00,low,billing,closed
+tkt_0000201,cmp_0015,2026-01-03 17:11:00,2026-01-06 02:11:00,low,onboarding,closed
+tkt_0000202,cmp_0015,2026-01-09 15:39:00,2026-01-10 23:39:00,medium,integration,closed
+tkt_0000203,cmp_0015,2026-02-04 17:29:00,2026-02-06 05:29:00,high,account_admin,closed
+tkt_0000204,cmp_0015,2026-02-05 12:51:00,,low,billing,open
+tkt_0000205,cmp_0015,2026-02-12 08:57:00,,low,integration,open
+tkt_0000206,cmp_0015,2026-02-14 09:59:00,2026-02-15 18:59:00,low,integration,closed
+tkt_0000207,cmp_0015,2026-02-22 17:43:00,2026-02-24 12:43:00,medium,call_quality,closed
+tkt_0000208,cmp_0015,2026-02-25 08:51:00,2026-02-25 15:51:00,high,billing,closed
+tkt_0000209,cmp_0015,2026-03-05 17:49:00,2026-03-07 03:49:00,medium,account_admin,closed
+tkt_0000210,cmp_0015,2026-03-05 08:45:00,,low,integration,open
+tkt_0000211,cmp_0015,2026-03-09 11:06:00,,high,billing,open
+tkt_0000212,cmp_0015,2026-03-20 12:43:00,2026-03-22 12:43:00,medium,account_admin,closed
+tkt_0000213,cmp_0015,2026-03-26 17:29:00,2026-03-28 09:29:00,high,feature_request,closed
+tkt_0000214,cmp_0015,2026-04-06 18:06:00,2026-04-08 00:06:00,low,onboarding,closed
+tkt_0000215,cmp_0015,2026-04-07 12:20:00,2026-04-09 10:20:00,medium,feature_request,closed
+tkt_0000216,cmp_0015,2026-04-21 08:49:00,2026-04-23 19:49:00,low,integration,closed
+tkt_0000217,cmp_0015,2026-04-23 14:56:00,2026-04-25 06:56:00,medium,billing,closed
+tkt_0000218,cmp_0015,2026-04-26 09:34:00,,low,account_admin,open
+tkt_0000219,cmp_0015,2026-04-28 13:24:00,2026-04-28 16:24:00,urgent,bug,closed
+tkt_0000220,cmp_0015,2026-05-02 13:58:00,2026-05-04 17:58:00,medium,onboarding,closed
+tkt_0000221,cmp_0015,2026-05-05 16:22:00,2026-05-10 06:22:00,low,billing,closed
+tkt_0000222,cmp_0015,2026-05-07 13:11:00,2026-05-08 20:11:00,medium,integration,closed
+tkt_0000223,cmp_0015,2026-05-11 17:47:00,2026-05-12 20:47:00,medium,call_quality,closed
+tkt_0000224,cmp_0015,2026-05-12 12:10:00,,low,bug,open
+tkt_0000225,cmp_0015,2026-05-17 11:53:00,2026-05-18 22:53:00,low,call_quality,closed
+tkt_0000226,cmp_0015,2026-05-21 12:43:00,2026-05-22 11:43:00,medium,billing,closed
+tkt_0000227,cmp_0015,2026-05-23 08:19:00,2026-05-24 11:19:00,high,billing,closed
+tkt_0000228,cmp_0015,2026-05-23 09:51:00,2026-05-24 10:51:00,high,onboarding,closed
+tkt_0000229,cmp_0015,2026-05-23 16:12:00,,low,bug,open
+tkt_0000230,cmp_0015,2026-05-30 18:09:00,,medium,billing,open
+tkt_0000231,cmp_0015,2026-06-02 11:29:00,2026-06-05 06:29:00,medium,onboarding,closed
+tkt_0000232,cmp_0015,2026-06-04 09:25:00,2026-06-06 21:25:00,low,bug,closed
+tkt_0000233,cmp_0015,2026-06-09 11:05:00,2026-06-10 17:05:00,medium,call_quality,closed
+tkt_0000234,cmp_0015,2026-06-22 15:42:00,2026-06-25 16:42:00,low,integration,closed
+tkt_0000235,cmp_0015,2026-06-24 10:08:00,2026-06-27 06:08:00,medium,bug,closed
+tkt_0000236,cmp_0016,2026-05-22 08:10:00,2026-05-22 11:10:00,urgent,integration,closed
+tkt_0000237,cmp_0016,2026-06-06 12:48:00,2026-06-07 07:48:00,low,account_admin,closed
+tkt_0000238,cmp_0017,2026-01-06 09:19:00,2026-01-06 21:19:00,low,bug,closed
+tkt_0000239,cmp_0017,2026-01-15 09:02:00,2026-01-20 02:02:00,low,billing,closed
+tkt_0000240,cmp_0017,2026-01-19 09:12:00,2026-01-20 03:12:00,medium,onboarding,closed
+tkt_0000241,cmp_0017,2026-01-20 12:48:00,2026-01-23 08:48:00,low,call_quality,closed
+tkt_0000242,cmp_0017,2026-02-07 15:19:00,2026-02-11 19:19:00,low,bug,closed
+tkt_0000243,cmp_0017,2026-02-09 09:57:00,2026-02-10 04:57:00,low,account_admin,closed
+tkt_0000244,cmp_0017,2026-02-15 18:24:00,2026-02-18 04:24:00,low,account_admin,closed
+tkt_0000245,cmp_0017,2026-02-25 10:20:00,,medium,billing,open
+tkt_0000246,cmp_0017,2026-02-28 16:27:00,2026-03-01 07:27:00,medium,call_quality,closed
+tkt_0000247,cmp_0017,2026-03-01 18:06:00,2026-03-04 16:06:00,medium,account_admin,closed
+tkt_0000248,cmp_0017,2026-03-02 17:27:00,2026-03-02 23:27:00,medium,integration,closed
+tkt_0000249,cmp_0017,2026-03-03 11:20:00,2026-03-06 05:20:00,medium,call_quality,closed
+tkt_0000250,cmp_0017,2026-03-03 10:19:00,2026-03-06 11:19:00,low,onboarding,closed
+tkt_0000251,cmp_0017,2026-03-08 09:11:00,2026-03-08 21:11:00,low,bug,closed
+tkt_0000252,cmp_0017,2026-03-12 14:47:00,,medium,billing,open
+tkt_0000253,cmp_0017,2026-03-16 15:18:00,2026-03-19 03:18:00,medium,call_quality,closed
+tkt_0000254,cmp_0017,2026-03-16 17:38:00,,low,bug,open
+tkt_0000255,cmp_0017,2026-03-22 10:47:00,2026-03-23 00:47:00,medium,call_quality,closed
+tkt_0000256,cmp_0017,2026-03-24 15:44:00,2026-03-26 07:44:00,high,bug,closed
+tkt_0000257,cmp_0017,2026-04-03 15:47:00,,medium,integration,open
+tkt_0000258,cmp_0017,2026-04-04 14:37:00,,medium,feature_request,open
+tkt_0000259,cmp_0017,2026-04-07 10:07:00,2026-04-08 00:07:00,urgent,bug,closed
+tkt_0000260,cmp_0017,2026-04-10 15:47:00,2026-04-13 21:47:00,low,account_admin,closed
+tkt_0000261,cmp_0017,2026-04-17 12:42:00,2026-04-19 23:42:00,medium,onboarding,closed
+tkt_0000262,cmp_0017,2026-04-18 14:40:00,2026-04-20 00:40:00,medium,billing,closed
+tkt_0000263,cmp_0017,2026-04-18 15:07:00,2026-04-20 04:07:00,medium,billing,closed
+tkt_0000264,cmp_0017,2026-04-30 11:12:00,2026-05-01 09:12:00,low,call_quality,closed
+tkt_0000265,cmp_0017,2026-05-02 10:10:00,2026-05-03 00:10:00,low,bug,closed
+tkt_0000266,cmp_0017,2026-05-04 12:41:00,2026-05-07 03:41:00,medium,bug,closed
+tkt_0000267,cmp_0017,2026-05-17 11:57:00,2026-05-18 13:57:00,medium,feature_request,closed
+tkt_0000268,cmp_0017,2026-05-21 13:57:00,2026-05-21 21:57:00,high,account_admin,closed
+tkt_0000269,cmp_0017,2026-05-24 13:52:00,2026-05-29 01:52:00,low,bug,closed
+tkt_0000270,cmp_0017,2026-06-13 16:17:00,2026-06-17 18:17:00,low,call_quality,closed
+tkt_0000271,cmp_0017,2026-06-17 16:05:00,2026-06-19 23:05:00,medium,call_quality,closed
+tkt_0000272,cmp_0017,2026-06-22 15:17:00,2026-06-24 14:17:00,low,integration,closed
+tkt_0000273,cmp_0018,2026-03-25 18:49:00,2026-03-26 09:49:00,low,feature_request,closed
+tkt_0000274,cmp_0018,2026-04-05 09:46:00,2026-04-08 21:46:00,low,account_admin,closed
+tkt_0000275,cmp_0018,2026-04-08 10:33:00,2026-04-11 06:33:00,low,bug,closed
+tkt_0000276,cmp_0018,2026-04-10 16:07:00,2026-04-13 00:07:00,medium,bug,closed
+tkt_0000277,cmp_0018,2026-04-18 16:35:00,2026-04-19 23:35:00,medium,bug,closed
+tkt_0000278,cmp_0018,2026-04-22 08:09:00,2026-04-24 11:09:00,medium,feature_request,closed
+tkt_0000279,cmp_0018,2026-04-25 16:33:00,2026-04-26 23:33:00,high,feature_request,closed
+tkt_0000280,cmp_0018,2026-05-06 11:25:00,2026-05-08 02:25:00,low,feature_request,closed
+tkt_0000281,cmp_0018,2026-05-10 13:12:00,2026-05-12 09:12:00,high,feature_request,closed
+tkt_0000282,cmp_0018,2026-05-18 15:42:00,2026-05-19 05:42:00,high,feature_request,closed
+tkt_0000283,cmp_0018,2026-05-19 14:18:00,2026-05-21 01:18:00,low,integration,closed
+tkt_0000284,cmp_0018,2026-05-28 16:44:00,2026-06-02 15:44:00,low,bug,closed
+tkt_0000285,cmp_0018,2026-05-30 12:53:00,2026-06-02 11:53:00,medium,bug,closed
+tkt_0000286,cmp_0018,2026-06-12 12:09:00,2026-06-14 06:09:00,low,call_quality,closed
+tkt_0000287,cmp_0018,2026-06-13 15:29:00,2026-06-14 20:29:00,high,onboarding,closed
+tkt_0000288,cmp_0019,2026-01-28 13:25:00,2026-01-30 00:25:00,low,integration,closed
+tkt_0000289,cmp_0019,2026-03-12 11:55:00,2026-03-16 04:55:00,low,integration,closed
+tkt_0000290,cmp_0019,2026-03-22 14:49:00,2026-03-26 17:49:00,low,feature_request,closed
+tkt_0000291,cmp_0019,2026-05-23 13:09:00,2026-05-26 01:09:00,low,integration,closed
+tkt_0000292,cmp_0019,2026-05-30 09:28:00,2026-05-30 15:28:00,high,integration,closed
+tkt_0000293,cmp_0021,2026-02-17 15:39:00,2026-02-21 16:39:00,low,bug,closed
+tkt_0000294,cmp_0021,2026-02-28 13:33:00,2026-03-02 01:33:00,medium,bug,closed
+tkt_0000295,cmp_0021,2026-03-13 09:52:00,2026-03-18 00:52:00,low,feature_request,closed
+tkt_0000296,cmp_0021,2026-03-28 11:57:00,,low,integration,open
+tkt_0000297,cmp_0021,2026-03-29 18:31:00,,low,account_admin,open
+tkt_0000298,cmp_0021,2026-04-11 08:32:00,,medium,call_quality,open
+tkt_0000299,cmp_0021,2026-04-12 15:17:00,2026-04-14 04:17:00,low,integration,closed
+tkt_0000300,cmp_0021,2026-04-12 12:32:00,2026-04-14 02:32:00,medium,feature_request,closed
+tkt_0000301,cmp_0021,2026-04-13 08:22:00,2026-04-14 07:22:00,high,billing,closed
+tkt_0000302,cmp_0021,2026-04-19 14:44:00,2026-04-21 14:44:00,low,account_admin,closed
+tkt_0000303,cmp_0021,2026-04-29 08:54:00,2026-04-30 05:54:00,low,onboarding,closed
+tkt_0000304,cmp_0021,2026-04-29 16:38:00,2026-05-02 13:38:00,medium,billing,closed
+tkt_0000305,cmp_0021,2026-04-30 10:55:00,2026-05-05 00:55:00,low,onboarding,closed
+tkt_0000306,cmp_0021,2026-05-06 10:24:00,2026-05-06 19:24:00,medium,billing,closed
+tkt_0000307,cmp_0021,2026-05-13 08:23:00,2026-05-18 07:23:00,low,billing,closed
+tkt_0000308,cmp_0021,2026-05-14 14:35:00,2026-05-15 00:35:00,medium,integration,closed
+tkt_0000309,cmp_0021,2026-05-21 12:20:00,,medium,onboarding,open
+tkt_0000310,cmp_0021,2026-05-21 11:01:00,2026-05-24 18:01:00,low,feature_request,closed
+tkt_0000311,cmp_0021,2026-05-22 13:14:00,,low,account_admin,open
+tkt_0000312,cmp_0021,2026-05-28 10:21:00,2026-05-31 01:21:00,medium,integration,closed
+tkt_0000313,cmp_0021,2026-06-06 08:56:00,2026-06-11 00:56:00,low,feature_request,closed
+tkt_0000314,cmp_0021,2026-06-08 18:43:00,,high,onboarding,open
+tkt_0000315,cmp_0021,2026-06-09 10:56:00,2026-06-10 21:56:00,high,bug,closed
+tkt_0000316,cmp_0021,2026-06-10 13:50:00,2026-06-14 17:50:00,low,feature_request,closed
+tkt_0000317,cmp_0021,2026-06-13 12:17:00,2026-06-17 20:17:00,low,integration,closed
+tkt_0000318,cmp_0021,2026-06-15 13:16:00,2026-06-17 05:16:00,high,onboarding,closed
+tkt_0000319,cmp_0021,2026-06-21 13:15:00,2026-06-22 04:15:00,medium,feature_request,closed
+tkt_0000320,cmp_0021,2026-06-22 16:07:00,2026-06-22 23:07:00,urgent,bug,closed
+tkt_0000321,cmp_0022,2025-11-08 15:28:00,2025-11-12 22:28:00,low,account_admin,closed
+tkt_0000322,cmp_0022,2025-11-10 09:57:00,2025-11-11 06:57:00,low,account_admin,closed
+tkt_0000323,cmp_0022,2025-11-13 12:26:00,2025-11-16 02:26:00,low,call_quality,closed
+tkt_0000324,cmp_0022,2025-11-13 09:06:00,2025-11-17 18:06:00,low,bug,closed
+tkt_0000325,cmp_0022,2025-11-18 11:22:00,2025-11-18 19:22:00,urgent,call_quality,closed
+tkt_0000326,cmp_0022,2025-11-22 08:23:00,2025-11-23 02:23:00,urgent,account_admin,closed
+tkt_0000327,cmp_0022,2025-11-28 14:47:00,2025-12-01 13:47:00,medium,feature_request,closed
+tkt_0000328,cmp_0022,2025-12-03 13:13:00,2025-12-04 01:13:00,urgent,billing,closed
+tkt_0000329,cmp_0022,2025-12-05 09:37:00,2025-12-06 08:37:00,high,account_admin,closed
+tkt_0000330,cmp_0022,2025-12-05 16:14:00,2025-12-08 13:14:00,medium,account_admin,closed
+tkt_0000331,cmp_0022,2025-12-09 08:15:00,2025-12-10 00:15:00,low,bug,closed
+tkt_0000332,cmp_0022,2025-12-12 09:55:00,2025-12-15 17:55:00,low,account_admin,closed
+tkt_0000333,cmp_0022,2025-12-15 11:17:00,,medium,onboarding,open
+tkt_0000334,cmp_0022,2025-12-17 17:54:00,2025-12-18 07:54:00,high,integration,closed
+tkt_0000335,cmp_0022,2025-12-18 17:56:00,2025-12-21 22:56:00,low,bug,closed
+tkt_0000336,cmp_0022,2025-12-21 11:56:00,2025-12-24 11:56:00,low,call_quality,closed
+tkt_0000337,cmp_0022,2025-12-21 14:18:00,2025-12-23 11:18:00,low,feature_request,closed
+tkt_0000338,cmp_0022,2025-12-24 15:06:00,2025-12-25 13:06:00,high,bug,closed
+tkt_0000339,cmp_0022,2025-12-25 12:33:00,2025-12-30 09:33:00,low,integration,closed
+tkt_0000340,cmp_0022,2025-12-28 15:51:00,2025-12-31 06:51:00,low,onboarding,closed
+tkt_0000341,cmp_0022,2025-12-28 12:58:00,2025-12-29 14:58:00,low,integration,closed
+tkt_0000342,cmp_0022,2026-01-06 08:08:00,2026-01-09 05:08:00,medium,billing,closed
+tkt_0000343,cmp_0022,2026-01-10 08:46:00,2026-01-11 19:46:00,high,bug,closed
+tkt_0000344,cmp_0022,2026-01-15 15:48:00,,high,integration,open
+tkt_0000345,cmp_0022,2026-01-18 08:11:00,2026-01-19 10:11:00,low,account_admin,closed
+tkt_0000346,cmp_0022,2026-01-21 13:50:00,2026-01-24 02:50:00,low,feature_request,closed
+tkt_0000347,cmp_0022,2026-01-22 09:49:00,2026-01-24 06:49:00,low,feature_request,closed
+tkt_0000348,cmp_0022,2026-01-24 12:54:00,2026-01-28 08:54:00,low,integration,closed
+tkt_0000349,cmp_0022,2026-01-26 15:08:00,2026-01-27 04:08:00,medium,account_admin,closed
+tkt_0000350,cmp_0022,2026-02-02 13:03:00,2026-02-03 16:03:00,high,onboarding,closed
+tkt_0000351,cmp_0022,2026-02-02 14:19:00,2026-02-03 18:19:00,high,onboarding,closed
+tkt_0000352,cmp_0022,2026-02-08 17:44:00,2026-02-13 13:44:00,low,feature_request,closed
+tkt_0000353,cmp_0022,2026-02-11 10:37:00,2026-02-16 09:37:00,low,onboarding,closed
+tkt_0000354,cmp_0022,2026-02-11 12:35:00,2026-02-12 15:35:00,low,account_admin,closed
+tkt_0000355,cmp_0022,2026-02-13 12:34:00,2026-02-15 03:34:00,high,call_quality,closed
+tkt_0000356,cmp_0022,2026-02-16 16:04:00,,medium,account_admin,open
+tkt_0000357,cmp_0022,2026-02-22 13:09:00,,medium,feature_request,open
+tkt_0000358,cmp_0022,2026-02-23 17:36:00,2026-02-27 07:36:00,low,integration,closed
+tkt_0000359,cmp_0022,2026-02-24 11:27:00,,medium,bug,open
+tkt_0000360,cmp_0022,2026-02-25 09:22:00,,low,bug,open
+tkt_0000361,cmp_0022,2026-03-03 14:39:00,2026-03-08 11:39:00,low,feature_request,closed
+tkt_0000362,cmp_0022,2026-03-07 16:37:00,2026-03-09 04:37:00,medium,account_admin,closed
+tkt_0000363,cmp_0022,2026-03-07 08:57:00,,medium,bug,open
+tkt_0000364,cmp_0022,2026-03-07 11:43:00,2026-03-10 05:43:00,medium,onboarding,closed
+tkt_0000365,cmp_0022,2026-03-11 15:08:00,2026-03-13 11:08:00,medium,bug,closed
+tkt_0000366,cmp_0022,2026-03-12 16:59:00,2026-03-15 21:59:00,low,onboarding,closed
+tkt_0000367,cmp_0022,2026-03-20 10:29:00,,medium,onboarding,open
+tkt_0000368,cmp_0022,2026-03-20 09:25:00,2026-03-22 22:25:00,medium,call_quality,closed
+tkt_0000369,cmp_0022,2026-03-21 15:30:00,2026-03-23 18:30:00,low,account_admin,closed
+tkt_0000370,cmp_0022,2026-03-26 13:58:00,2026-03-28 21:58:00,medium,bug,closed
+tkt_0000371,cmp_0022,2026-03-28 15:57:00,2026-03-28 22:57:00,high,billing,closed
+tkt_0000372,cmp_0022,2026-03-28 17:58:00,2026-03-30 13:58:00,low,call_quality,closed
+tkt_0000373,cmp_0022,2026-03-30 11:41:00,2026-03-31 18:41:00,low,bug,closed
+tkt_0000374,cmp_0022,2026-04-01 13:10:00,2026-04-06 05:10:00,low,call_quality,closed
+tkt_0000375,cmp_0022,2026-04-03 10:16:00,2026-04-05 04:16:00,medium,billing,closed
+tkt_0000376,cmp_0022,2026-04-08 17:57:00,2026-04-10 15:57:00,medium,billing,closed
+tkt_0000377,cmp_0022,2026-04-18 17:45:00,2026-04-19 22:45:00,high,call_quality,closed
+tkt_0000378,cmp_0022,2026-04-18 14:43:00,2026-04-19 02:43:00,low,billing,closed
+tkt_0000379,cmp_0022,2026-04-22 09:18:00,2026-04-24 21:18:00,low,integration,closed
+tkt_0000380,cmp_0022,2026-04-27 09:30:00,2026-05-01 08:30:00,low,call_quality,closed
+tkt_0000381,cmp_0022,2026-04-29 10:19:00,2026-05-02 06:19:00,low,onboarding,closed
+tkt_0000382,cmp_0022,2026-05-06 09:11:00,2026-05-08 06:11:00,medium,account_admin,closed
+tkt_0000383,cmp_0022,2026-05-06 18:14:00,2026-05-07 13:14:00,high,call_quality,closed
+tkt_0000384,cmp_0022,2026-05-08 08:26:00,2026-05-11 06:26:00,medium,billing,closed
+tkt_0000385,cmp_0022,2026-05-08 14:27:00,,urgent,onboarding,open
+tkt_0000386,cmp_0022,2026-05-08 11:41:00,2026-05-10 10:41:00,low,bug,closed
+tkt_0000387,cmp_0022,2026-05-08 10:25:00,2026-05-10 04:25:00,low,onboarding,closed
+tkt_0000388,cmp_0022,2026-05-11 16:32:00,2026-05-15 06:32:00,low,account_admin,closed
+tkt_0000389,cmp_0022,2026-05-21 11:57:00,2026-05-26 10:57:00,low,account_admin,closed
+tkt_0000390,cmp_0022,2026-05-21 13:35:00,2026-05-21 20:35:00,high,account_admin,closed
+tkt_0000391,cmp_0022,2026-05-24 18:43:00,2026-05-27 02:43:00,low,call_quality,closed
+tkt_0000392,cmp_0022,2026-05-24 18:06:00,2026-05-25 01:06:00,medium,feature_request,closed
+tkt_0000393,cmp_0022,2026-05-27 18:36:00,2026-05-29 21:36:00,medium,feature_request,closed
+tkt_0000394,cmp_0022,2026-05-28 14:20:00,2026-05-30 23:20:00,low,billing,closed
+tkt_0000395,cmp_0022,2026-05-30 12:21:00,2026-05-31 19:21:00,medium,account_admin,closed
+tkt_0000396,cmp_0022,2026-06-09 10:17:00,2026-06-11 00:17:00,high,billing,closed
+tkt_0000397,cmp_0022,2026-06-17 18:15:00,,low,integration,open
+tkt_0000398,cmp_0022,2026-06-19 16:56:00,2026-06-19 22:56:00,urgent,account_admin,closed
+tkt_0000399,cmp_0022,2026-06-19 09:43:00,2026-06-24 08:43:00,low,billing,closed
+tkt_0000400,cmp_0022,2026-06-21 12:07:00,2026-06-22 05:07:00,high,billing,closed
+tkt_0000401,cmp_0022,2026-06-24 15:07:00,2026-06-25 11:07:00,medium,feature_request,closed
+tkt_0000402,cmp_0023,2026-03-02 15:44:00,2026-03-04 01:44:00,high,call_quality,closed
+tkt_0000403,cmp_0023,2026-03-05 09:03:00,2026-03-08 12:03:00,low,onboarding,closed
+tkt_0000404,cmp_0023,2026-03-19 14:39:00,2026-03-19 20:39:00,medium,call_quality,closed
+tkt_0000405,cmp_0023,2026-04-04 12:40:00,2026-04-05 20:40:00,medium,billing,closed
+tkt_0000406,cmp_0023,2026-04-05 17:08:00,2026-04-07 18:08:00,low,bug,closed
+tkt_0000407,cmp_0023,2026-04-08 12:52:00,2026-04-09 01:52:00,urgent,call_quality,closed
+tkt_0000408,cmp_0023,2026-04-18 09:33:00,2026-04-20 18:33:00,medium,billing,closed
+tkt_0000409,cmp_0023,2026-04-20 16:25:00,2026-04-21 09:25:00,urgent,bug,closed
+tkt_0000410,cmp_0023,2026-04-27 18:02:00,2026-04-28 07:02:00,low,bug,closed
+tkt_0000411,cmp_0023,2026-06-10 13:51:00,2026-06-12 06:51:00,medium,account_admin,closed
+tkt_0000412,cmp_0023,2026-06-24 18:42:00,2026-06-25 21:42:00,medium,feature_request,closed
+tkt_0000413,cmp_0024,2026-03-19 13:50:00,2026-03-20 17:50:00,medium,integration,closed
+tkt_0000414,cmp_0024,2026-03-27 16:52:00,,low,call_quality,open
+tkt_0000415,cmp_0024,2026-04-12 12:37:00,2026-04-12 18:37:00,medium,account_admin,closed
+tkt_0000416,cmp_0024,2026-04-14 12:31:00,2026-04-16 19:31:00,low,bug,closed
+tkt_0000417,cmp_0024,2026-04-20 12:14:00,2026-04-21 19:14:00,medium,integration,closed
+tkt_0000418,cmp_0024,2026-04-25 09:26:00,2026-04-28 04:26:00,medium,billing,closed
+tkt_0000419,cmp_0024,2026-04-25 12:16:00,2026-04-26 21:16:00,medium,onboarding,closed
+tkt_0000420,cmp_0024,2026-04-28 18:09:00,2026-04-29 19:09:00,medium,feature_request,closed
+tkt_0000421,cmp_0024,2026-05-06 12:06:00,2026-05-07 20:06:00,medium,account_admin,closed
+tkt_0000422,cmp_0024,2026-05-09 16:10:00,2026-05-12 07:10:00,low,integration,closed
+tkt_0000423,cmp_0024,2026-05-13 10:26:00,2026-05-14 13:26:00,medium,bug,closed
+tkt_0000424,cmp_0024,2026-05-17 17:07:00,2026-05-18 09:07:00,low,call_quality,closed
+tkt_0000425,cmp_0024,2026-05-19 12:50:00,2026-05-23 17:50:00,low,feature_request,closed
+tkt_0000426,cmp_0024,2026-05-23 12:04:00,2026-05-24 21:04:00,medium,integration,closed
+tkt_0000427,cmp_0024,2026-06-08 08:40:00,2026-06-09 15:40:00,medium,billing,closed
+tkt_0000428,cmp_0024,2026-06-09 14:19:00,2026-06-12 22:19:00,low,billing,closed
+tkt_0000429,cmp_0024,2026-06-19 08:13:00,2026-06-20 15:13:00,high,integration,closed
+tkt_0000430,cmp_0024,2026-06-24 15:21:00,2026-06-26 20:21:00,low,account_admin,closed
+tkt_0000431,cmp_0025,2026-02-23 18:02:00,2026-02-24 23:02:00,medium,call_quality,closed
+tkt_0000432,cmp_0025,2026-02-26 10:19:00,2026-02-28 06:19:00,high,billing,closed
+tkt_0000433,cmp_0025,2026-03-05 10:55:00,2026-03-07 12:55:00,medium,account_admin,closed
+tkt_0000434,cmp_0025,2026-03-08 15:06:00,2026-03-12 01:06:00,low,integration,closed
+tkt_0000435,cmp_0025,2026-03-09 10:05:00,2026-03-11 22:05:00,medium,feature_request,closed
+tkt_0000436,cmp_0025,2026-03-12 17:25:00,2026-03-12 21:25:00,urgent,onboarding,closed
+tkt_0000437,cmp_0025,2026-03-17 16:48:00,2026-03-18 11:48:00,low,billing,closed
+tkt_0000438,cmp_0025,2026-04-02 15:19:00,,low,billing,open
+tkt_0000439,cmp_0025,2026-04-06 16:59:00,2026-04-07 03:59:00,medium,feature_request,closed
+tkt_0000440,cmp_0025,2026-04-08 11:01:00,2026-04-10 07:01:00,medium,integration,closed
+tkt_0000441,cmp_0025,2026-04-13 12:02:00,2026-04-15 02:02:00,high,account_admin,closed
+tkt_0000442,cmp_0025,2026-04-17 11:26:00,,low,feature_request,open
+tkt_0000443,cmp_0025,2026-04-25 16:03:00,2026-04-28 13:03:00,low,account_admin,closed
+tkt_0000444,cmp_0025,2026-05-02 13:19:00,2026-05-02 21:19:00,medium,bug,closed
+tkt_0000445,cmp_0025,2026-05-04 13:16:00,2026-05-05 01:16:00,urgent,integration,closed
+tkt_0000446,cmp_0025,2026-05-06 17:25:00,2026-05-07 04:25:00,urgent,feature_request,closed
+tkt_0000447,cmp_0025,2026-05-15 13:05:00,2026-05-20 06:05:00,low,account_admin,closed
+tkt_0000448,cmp_0025,2026-05-23 09:37:00,,low,billing,open
+tkt_0000449,cmp_0025,2026-05-24 18:01:00,2026-05-25 13:01:00,medium,account_admin,closed
+tkt_0000450,cmp_0025,2026-05-25 18:32:00,2026-05-27 11:32:00,low,onboarding,closed
+tkt_0000451,cmp_0026,2026-02-01 18:29:00,2026-02-02 23:29:00,medium,call_quality,closed
+tkt_0000452,cmp_0026,2026-04-08 18:42:00,2026-04-09 04:42:00,medium,billing,closed
+tkt_0000453,cmp_0026,2026-04-17 10:54:00,2026-04-19 07:54:00,low,billing,closed
+tkt_0000454,cmp_0026,2026-05-19 18:14:00,2026-05-19 22:14:00,high,account_admin,closed
+tkt_0000455,cmp_0027,2025-10-23 15:46:00,2025-10-25 08:46:00,medium,billing,closed
+tkt_0000456,cmp_0027,2025-10-27 08:44:00,2025-10-28 16:44:00,medium,feature_request,closed
+tkt_0000457,cmp_0027,2025-11-11 11:15:00,2025-11-12 08:15:00,high,call_quality,closed
+tkt_0000458,cmp_0027,2025-11-19 16:53:00,2025-11-22 12:53:00,low,feature_request,closed
+tkt_0000459,cmp_0027,2025-11-19 16:55:00,2025-11-20 13:55:00,high,bug,closed
+tkt_0000460,cmp_0027,2025-11-28 09:12:00,2025-11-29 20:12:00,medium,call_quality,closed
+tkt_0000461,cmp_0027,2025-12-05 08:16:00,2025-12-08 01:16:00,medium,feature_request,closed
+tkt_0000462,cmp_0027,2025-12-11 09:28:00,2025-12-15 05:28:00,low,bug,closed
+tkt_0000463,cmp_0027,2025-12-13 17:22:00,,low,integration,open
+tkt_0000464,cmp_0027,2025-12-21 11:45:00,2025-12-22 05:45:00,urgent,bug,closed
+tkt_0000465,cmp_0027,2026-01-11 11:00:00,2026-01-16 07:00:00,low,bug,closed
+tkt_0000466,cmp_0027,2026-01-12 08:15:00,2026-01-14 08:15:00,low,account_admin,closed
+tkt_0000467,cmp_0027,2026-01-13 16:44:00,2026-01-15 07:44:00,medium,billing,closed
+tkt_0000468,cmp_0027,2026-01-16 15:34:00,,low,bug,open
+tkt_0000469,cmp_0027,2026-02-11 11:51:00,2026-02-11 21:51:00,high,feature_request,closed
+tkt_0000470,cmp_0027,2026-02-12 14:46:00,2026-02-13 21:46:00,low,account_admin,closed
+tkt_0000471,cmp_0027,2026-02-25 09:14:00,2026-02-28 07:14:00,medium,feature_request,closed
+tkt_0000472,cmp_0027,2026-03-19 09:14:00,2026-03-22 14:14:00,low,billing,closed
+tkt_0000473,cmp_0027,2026-03-26 12:08:00,2026-03-30 03:08:00,low,bug,closed
+tkt_0000474,cmp_0027,2026-04-02 15:40:00,2026-04-02 21:40:00,urgent,bug,closed
+tkt_0000475,cmp_0027,2026-04-16 09:41:00,2026-04-17 18:41:00,medium,integration,closed
+tkt_0000476,cmp_0027,2026-05-10 12:27:00,2026-05-11 11:27:00,medium,onboarding,closed
+tkt_0000477,cmp_0027,2026-05-15 10:10:00,2026-05-20 07:10:00,low,integration,closed
+tkt_0000478,cmp_0027,2026-05-20 09:03:00,2026-05-22 01:03:00,medium,call_quality,closed
+tkt_0000479,cmp_0027,2026-05-24 11:28:00,2026-05-26 10:28:00,medium,billing,closed
+tkt_0000480,cmp_0028,2026-04-14 09:48:00,2026-04-17 02:48:00,low,onboarding,closed
+tkt_0000481,cmp_0028,2026-05-10 11:56:00,2026-05-11 01:56:00,medium,call_quality,closed
+tkt_0000482,cmp_0028,2026-06-12 14:38:00,2026-06-15 01:38:00,medium,integration,closed
+tkt_0000483,cmp_0029,2026-02-12 15:53:00,2026-02-13 00:53:00,medium,feature_request,closed
+tkt_0000484,cmp_0029,2026-02-24 09:00:00,,high,integration,open
+tkt_0000485,cmp_0029,2026-03-02 16:00:00,2026-03-03 05:00:00,medium,feature_request,closed
+tkt_0000486,cmp_0029,2026-03-29 15:33:00,2026-03-31 12:33:00,low,onboarding,closed
+tkt_0000487,cmp_0029,2026-04-05 08:22:00,2026-04-06 22:22:00,high,call_quality,closed
+tkt_0000488,cmp_0029,2026-05-18 13:13:00,2026-05-19 15:13:00,high,billing,closed
+tkt_0000489,cmp_0029,2026-05-26 17:20:00,2026-05-31 07:20:00,low,onboarding,closed
+tkt_0000490,cmp_0029,2026-06-05 16:54:00,2026-06-08 00:54:00,low,bug,closed
+tkt_0000491,cmp_0029,2026-06-24 15:45:00,2026-06-25 19:45:00,medium,account_admin,closed
+tkt_0000492,cmp_0030,2025-12-03 18:29:00,2025-12-06 02:29:00,low,onboarding,closed
+tkt_0000493,cmp_0030,2026-01-03 11:39:00,2026-01-04 00:39:00,urgent,account_admin,closed
+tkt_0000494,cmp_0030,2026-01-07 16:55:00,2026-01-08 18:55:00,low,bug,closed
+tkt_0000495,cmp_0030,2026-01-12 15:14:00,,low,onboarding,open
+tkt_0000496,cmp_0030,2026-01-16 10:08:00,2026-01-17 07:08:00,medium,feature_request,closed
+tkt_0000497,cmp_0030,2026-01-17 17:29:00,2026-01-20 01:29:00,medium,bug,closed
+tkt_0000498,cmp_0030,2026-01-23 09:10:00,2026-01-26 04:10:00,medium,billing,closed
+tkt_0000499,cmp_0030,2026-02-08 12:41:00,2026-02-09 03:41:00,low,account_admin,closed
+tkt_0000500,cmp_0030,2026-02-15 18:25:00,2026-02-16 14:25:00,medium,call_quality,closed
+tkt_0000501,cmp_0030,2026-02-20 15:13:00,2026-02-22 17:13:00,low,bug,closed
+tkt_0000502,cmp_0030,2026-02-28 12:57:00,2026-03-01 03:57:00,medium,onboarding,closed
+tkt_0000503,cmp_0030,2026-03-03 16:51:00,2026-03-05 17:51:00,low,bug,closed
+tkt_0000504,cmp_0030,2026-03-08 12:11:00,,low,bug,open
+tkt_0000505,cmp_0030,2026-03-13 14:21:00,2026-03-15 07:21:00,medium,feature_request,closed
+tkt_0000506,cmp_0030,2026-04-08 09:50:00,,low,feature_request,open
+tkt_0000507,cmp_0030,2026-04-08 17:35:00,2026-04-13 09:35:00,low,billing,closed
+tkt_0000508,cmp_0030,2026-04-16 17:59:00,2026-04-17 16:59:00,medium,account_admin,closed
+tkt_0000509,cmp_0030,2026-04-17 17:43:00,2026-04-18 11:43:00,low,bug,closed
+tkt_0000510,cmp_0030,2026-05-01 16:00:00,2026-05-01 22:00:00,urgent,bug,closed
+tkt_0000511,cmp_0030,2026-05-07 14:30:00,2026-05-12 07:30:00,low,account_admin,closed
+tkt_0000512,cmp_0030,2026-05-19 14:03:00,2026-05-20 16:03:00,medium,bug,closed
+tkt_0000513,cmp_0030,2026-05-25 16:25:00,2026-05-29 00:25:00,low,integration,closed
+tkt_0000514,cmp_0030,2026-06-04 12:50:00,2026-06-06 21:50:00,low,account_admin,closed
+tkt_0000515,cmp_0030,2026-06-09 16:41:00,,medium,onboarding,open
+tkt_0000516,cmp_0031,2026-01-09 15:14:00,2026-01-11 11:14:00,high,bug,closed
+tkt_0000517,cmp_0031,2026-01-11 17:49:00,2026-01-14 23:49:00,low,feature_request,closed
+tkt_0000518,cmp_0031,2026-01-31 11:53:00,,medium,account_admin,open
+tkt_0000519,cmp_0031,2026-02-08 17:17:00,2026-02-11 20:17:00,low,integration,closed
+tkt_0000520,cmp_0031,2026-02-20 08:22:00,2026-02-24 07:22:00,low,account_admin,closed
+tkt_0000521,cmp_0031,2026-04-03 14:53:00,2026-04-05 14:53:00,medium,integration,closed
+tkt_0000522,cmp_0031,2026-04-08 16:14:00,2026-04-10 03:14:00,low,bug,closed
+tkt_0000523,cmp_0031,2026-05-02 15:37:00,2026-05-03 02:37:00,urgent,integration,closed
+tkt_0000524,cmp_0031,2026-05-03 11:54:00,,urgent,bug,open
+tkt_0000525,cmp_0032,2026-04-07 18:22:00,2026-04-08 02:22:00,medium,billing,closed
+tkt_0000526,cmp_0032,2026-04-10 15:42:00,2026-04-12 13:42:00,medium,integration,closed
+tkt_0000527,cmp_0032,2026-04-26 09:07:00,2026-04-27 09:07:00,low,bug,closed
+tkt_0000528,cmp_0032,2026-05-01 09:18:00,2026-05-04 07:18:00,low,bug,closed
+tkt_0000529,cmp_0032,2026-05-01 15:32:00,,low,bug,open
+tkt_0000530,cmp_0032,2026-05-22 15:16:00,2026-05-23 06:16:00,low,call_quality,closed
+tkt_0000531,cmp_0032,2026-05-28 08:17:00,2026-06-01 18:17:00,low,call_quality,closed
+tkt_0000532,cmp_0032,2026-06-02 16:32:00,2026-06-06 11:32:00,low,integration,closed
+tkt_0000533,cmp_0032,2026-06-10 13:53:00,2026-06-11 13:53:00,medium,account_admin,closed
+tkt_0000534,cmp_0032,2026-06-11 13:23:00,2026-06-14 23:23:00,low,call_quality,closed
+tkt_0000535,cmp_0033,2026-04-18 16:02:00,2026-04-20 23:02:00,low,account_admin,closed
+tkt_0000536,cmp_0033,2026-06-09 13:05:00,2026-06-10 23:05:00,medium,integration,closed
+tkt_0000537,cmp_0034,2025-10-21 17:36:00,2025-10-23 08:36:00,medium,account_admin,closed
+tkt_0000538,cmp_0034,2025-10-29 12:05:00,2025-11-03 02:05:00,low,integration,closed
+tkt_0000539,cmp_0034,2025-11-07 09:05:00,2025-11-08 16:05:00,low,onboarding,closed
+tkt_0000540,cmp_0034,2025-11-11 10:57:00,2025-11-15 01:57:00,low,integration,closed
+tkt_0000541,cmp_0034,2025-11-11 09:50:00,2025-11-12 02:50:00,medium,integration,closed
+tkt_0000542,cmp_0034,2025-12-07 10:41:00,2025-12-08 21:41:00,medium,integration,closed
+tkt_0000543,cmp_0034,2025-12-13 13:48:00,2025-12-17 22:48:00,low,feature_request,closed
+tkt_0000544,cmp_0034,2025-12-18 11:43:00,2025-12-19 21:43:00,high,integration,closed
+tkt_0000545,cmp_0034,2026-01-07 13:08:00,,medium,account_admin,open
+tkt_0000546,cmp_0034,2026-01-09 10:04:00,2026-01-10 15:04:00,medium,feature_request,closed
+tkt_0000547,cmp_0034,2026-01-11 14:58:00,2026-01-12 05:58:00,medium,call_quality,closed
+tkt_0000548,cmp_0034,2026-01-18 13:13:00,2026-01-22 17:13:00,low,feature_request,closed
+tkt_0000549,cmp_0034,2026-02-03 17:07:00,2026-02-05 02:07:00,medium,account_admin,closed
+tkt_0000550,cmp_0034,2026-02-05 09:48:00,2026-02-05 23:48:00,urgent,bug,closed
+tkt_0000551,cmp_0034,2026-02-12 15:41:00,2026-02-15 11:41:00,low,integration,closed
+tkt_0000552,cmp_0034,2026-02-20 12:17:00,2026-02-24 04:17:00,low,call_quality,closed
+tkt_0000553,cmp_0034,2026-02-23 10:15:00,,low,feature_request,open
+tkt_0000554,cmp_0034,2026-02-28 13:37:00,2026-02-28 19:37:00,urgent,feature_request,closed
+tkt_0000555,cmp_0034,2026-03-24 14:04:00,2026-03-26 02:04:00,medium,onboarding,closed
+tkt_0000556,cmp_0034,2026-04-19 09:36:00,2026-04-20 17:36:00,medium,onboarding,closed
+tkt_0000557,cmp_0034,2026-05-11 10:42:00,2026-05-12 08:42:00,low,feature_request,closed
+tkt_0000558,cmp_0034,2026-05-31 12:52:00,,high,bug,open
+tkt_0000559,cmp_0034,2026-06-13 15:16:00,,low,account_admin,open
+tkt_0000560,cmp_0034,2026-06-21 17:07:00,2026-06-22 11:07:00,low,onboarding,closed
+tkt_0000561,cmp_0034,2026-06-22 09:57:00,2026-06-24 15:57:00,medium,call_quality,closed
+tkt_0000562,cmp_0035,2025-12-18 18:16:00,2025-12-23 08:16:00,low,account_admin,closed
+tkt_0000563,cmp_0035,2025-12-24 11:06:00,2025-12-26 14:06:00,low,onboarding,closed
+tkt_0000564,cmp_0035,2026-03-13 18:45:00,2026-03-13 21:45:00,high,integration,closed
+tkt_0000565,cmp_0035,2026-04-21 10:54:00,2026-04-23 01:54:00,high,bug,closed
+tkt_0000566,cmp_0035,2026-05-18 10:55:00,2026-05-19 04:55:00,medium,call_quality,closed
+tkt_0000567,cmp_0036,2025-11-22 10:32:00,2025-11-25 02:32:00,low,onboarding,closed
+tkt_0000568,cmp_0036,2025-12-06 12:01:00,2025-12-07 14:01:00,high,account_admin,closed
+tkt_0000569,cmp_0036,2025-12-28 11:30:00,2025-12-28 18:30:00,medium,billing,closed
+tkt_0000570,cmp_0036,2026-01-02 10:29:00,2026-01-05 04:29:00,medium,feature_request,closed
+tkt_0000571,cmp_0036,2026-02-04 17:01:00,2026-02-07 08:01:00,low,feature_request,closed
+tkt_0000572,cmp_0036,2026-02-13 15:53:00,2026-02-14 07:53:00,urgent,account_admin,closed
+tkt_0000573,cmp_0036,2026-02-14 12:34:00,,high,integration,open
+tkt_0000574,cmp_0036,2026-02-20 14:37:00,2026-02-22 00:37:00,medium,onboarding,closed
+tkt_0000575,cmp_0036,2026-03-13 17:19:00,2026-03-14 07:19:00,medium,account_admin,closed
+tkt_0000576,cmp_0036,2026-03-26 18:45:00,2026-03-30 23:45:00,low,integration,closed
+tkt_0000577,cmp_0036,2026-05-29 18:28:00,2026-05-30 23:28:00,low,feature_request,closed
+tkt_0000578,cmp_0037,2026-01-25 18:47:00,2026-01-28 21:47:00,low,account_admin,closed
+tkt_0000579,cmp_0037,2026-02-05 10:32:00,2026-02-09 03:32:00,low,integration,closed
+tkt_0000580,cmp_0037,2026-02-08 17:30:00,2026-02-09 16:30:00,low,feature_request,closed
+tkt_0000581,cmp_0037,2026-02-08 12:40:00,2026-02-09 14:40:00,medium,account_admin,closed
+tkt_0000582,cmp_0037,2026-02-10 16:18:00,2026-02-13 07:18:00,medium,call_quality,closed
+tkt_0000583,cmp_0037,2026-02-12 17:48:00,2026-02-14 02:48:00,high,onboarding,closed
+tkt_0000584,cmp_0037,2026-02-22 15:11:00,2026-02-25 15:11:00,low,bug,closed
+tkt_0000585,cmp_0037,2026-02-24 12:11:00,2026-02-27 10:11:00,medium,bug,closed
+tkt_0000586,cmp_0037,2026-02-24 10:04:00,2026-02-26 02:04:00,low,account_admin,closed
+tkt_0000587,cmp_0037,2026-03-09 11:10:00,2026-03-10 17:10:00,medium,call_quality,closed
+tkt_0000588,cmp_0037,2026-03-09 08:19:00,2026-03-10 05:19:00,medium,bug,closed
+tkt_0000589,cmp_0037,2026-03-10 08:05:00,2026-03-11 20:05:00,medium,bug,closed
+tkt_0000590,cmp_0037,2026-03-10 09:33:00,2026-03-11 13:33:00,medium,billing,closed
+tkt_0000591,cmp_0037,2026-03-16 17:52:00,2026-03-19 00:52:00,low,onboarding,closed
+tkt_0000592,cmp_0037,2026-03-21 18:06:00,,low,call_quality,open
+tkt_0000593,cmp_0037,2026-03-24 14:01:00,2026-03-28 03:01:00,low,feature_request,closed
+tkt_0000594,cmp_0037,2026-03-24 13:38:00,2026-03-27 03:38:00,medium,bug,closed
+tkt_0000595,cmp_0037,2026-03-30 10:24:00,2026-03-31 07:24:00,low,bug,closed
+tkt_0000596,cmp_0037,2026-04-02 11:51:00,2026-04-04 16:51:00,medium,feature_request,closed
+tkt_0000597,cmp_0037,2026-04-12 09:05:00,2026-04-14 18:05:00,low,call_quality,closed
+tkt_0000598,cmp_0037,2026-04-13 14:41:00,2026-04-15 09:41:00,low,billing,closed
+tkt_0000599,cmp_0037,2026-04-21 08:08:00,2026-04-22 13:08:00,low,onboarding,closed
+tkt_0000600,cmp_0037,2026-04-22 10:19:00,2026-04-27 08:19:00,low,bug,closed
+tkt_0000601,cmp_0037,2026-04-23 16:11:00,2026-04-24 00:11:00,high,account_admin,closed
+tkt_0000602,cmp_0037,2026-04-25 08:28:00,2026-04-27 01:28:00,low,integration,closed
+tkt_0000603,cmp_0037,2026-04-28 08:51:00,2026-05-01 01:51:00,low,account_admin,closed
+tkt_0000604,cmp_0037,2026-05-04 16:59:00,2026-05-08 10:59:00,low,feature_request,closed
+tkt_0000605,cmp_0037,2026-05-10 18:48:00,2026-05-14 04:48:00,low,bug,closed
+tkt_0000606,cmp_0037,2026-05-12 13:28:00,2026-05-13 15:28:00,low,onboarding,closed
+tkt_0000607,cmp_0037,2026-05-21 12:06:00,2026-05-25 04:06:00,low,onboarding,closed
+tkt_0000608,cmp_0037,2026-05-26 11:07:00,2026-05-29 16:07:00,low,feature_request,closed
+tkt_0000609,cmp_0037,2026-05-28 11:27:00,2026-05-30 16:27:00,medium,billing,closed
+tkt_0000610,cmp_0037,2026-06-01 12:50:00,2026-06-03 08:50:00,medium,integration,closed
+tkt_0000611,cmp_0037,2026-06-07 13:24:00,2026-06-08 07:24:00,medium,integration,closed
+tkt_0000612,cmp_0037,2026-06-18 16:17:00,2026-06-21 14:17:00,medium,integration,closed
+tkt_0000613,cmp_0038,2025-12-21 17:27:00,2025-12-22 19:27:00,medium,billing,closed
+tkt_0000614,cmp_0038,2025-12-24 16:15:00,2025-12-25 20:15:00,medium,feature_request,closed
+tkt_0000615,cmp_0038,2025-12-30 11:15:00,2025-12-30 18:15:00,urgent,account_admin,closed
+tkt_0000616,cmp_0038,2025-12-30 12:22:00,2026-01-01 12:22:00,medium,feature_request,closed
+tkt_0000617,cmp_0038,2026-01-03 15:19:00,2026-01-03 23:19:00,medium,onboarding,closed
+tkt_0000618,cmp_0038,2026-01-08 15:26:00,2026-01-11 06:26:00,low,account_admin,closed
+tkt_0000619,cmp_0038,2026-01-14 14:20:00,2026-01-15 09:20:00,high,bug,closed
+tkt_0000620,cmp_0038,2026-01-15 12:16:00,2026-01-18 17:16:00,low,bug,closed
+tkt_0000621,cmp_0038,2026-01-17 09:45:00,2026-01-19 04:45:00,low,feature_request,closed
+tkt_0000622,cmp_0038,2026-02-06 09:20:00,2026-02-07 22:20:00,medium,account_admin,closed
+tkt_0000623,cmp_0038,2026-02-14 09:04:00,2026-02-17 20:04:00,low,onboarding,closed
+tkt_0000624,cmp_0038,2026-02-20 09:05:00,2026-02-21 14:05:00,medium,account_admin,closed
+tkt_0000625,cmp_0038,2026-02-23 13:42:00,2026-02-25 10:42:00,high,billing,closed
+tkt_0000626,cmp_0038,2026-02-28 14:33:00,,medium,feature_request,open
+tkt_0000627,cmp_0038,2026-03-03 13:49:00,2026-03-08 08:49:00,low,call_quality,closed
+tkt_0000628,cmp_0038,2026-03-10 17:47:00,2026-03-12 14:47:00,high,bug,closed
+tkt_0000629,cmp_0038,2026-03-10 08:49:00,,low,account_admin,open
+tkt_0000630,cmp_0038,2026-03-16 10:41:00,2026-03-19 13:41:00,low,billing,closed
+tkt_0000631,cmp_0038,2026-03-23 12:13:00,2026-03-24 06:13:00,medium,feature_request,closed
+tkt_0000632,cmp_0038,2026-03-27 15:06:00,2026-03-29 20:06:00,medium,call_quality,closed
+tkt_0000633,cmp_0038,2026-03-30 10:56:00,2026-03-31 17:56:00,low,billing,closed
+tkt_0000634,cmp_0038,2026-03-31 18:00:00,2026-04-03 02:00:00,medium,billing,closed
+tkt_0000635,cmp_0038,2026-04-12 12:52:00,2026-04-12 23:52:00,medium,integration,closed
+tkt_0000636,cmp_0038,2026-04-13 12:02:00,2026-04-14 13:02:00,medium,bug,closed
+tkt_0000637,cmp_0038,2026-04-25 09:50:00,2026-04-25 11:50:00,high,bug,closed
+tkt_0000638,cmp_0038,2026-04-26 12:56:00,2026-05-01 11:56:00,low,integration,closed
+tkt_0000639,cmp_0038,2026-04-30 15:40:00,2026-05-02 15:40:00,medium,feature_request,closed
+tkt_0000640,cmp_0038,2026-05-02 12:04:00,2026-05-02 23:04:00,high,feature_request,closed
+tkt_0000641,cmp_0038,2026-05-03 16:47:00,2026-05-08 13:47:00,low,bug,closed
+tkt_0000642,cmp_0038,2026-05-06 15:44:00,2026-05-07 11:44:00,medium,call_quality,closed
+tkt_0000643,cmp_0038,2026-05-23 18:43:00,2026-05-26 05:43:00,low,integration,closed
+tkt_0000644,cmp_0038,2026-05-24 15:32:00,2026-05-25 08:32:00,urgent,call_quality,closed
+tkt_0000645,cmp_0038,2026-05-26 13:18:00,2026-05-29 11:18:00,low,billing,closed
+tkt_0000646,cmp_0038,2026-05-28 11:06:00,2026-05-29 23:06:00,medium,feature_request,closed
+tkt_0000647,cmp_0038,2026-05-30 11:54:00,2026-06-02 18:54:00,low,onboarding,closed
+tkt_0000648,cmp_0038,2026-06-05 16:13:00,2026-06-06 12:13:00,medium,account_admin,closed
+tkt_0000649,cmp_0038,2026-06-18 08:45:00,2026-06-19 02:45:00,medium,call_quality,closed
+tkt_0000650,cmp_0038,2026-06-19 12:44:00,2026-06-20 22:44:00,low,integration,closed
+tkt_0000651,cmp_0038,2026-06-20 12:22:00,2026-06-21 22:22:00,low,call_quality,closed
+tkt_0000652,cmp_0038,2026-06-24 12:41:00,2026-06-26 16:41:00,medium,billing,closed
+tkt_0000653,cmp_0039,2025-10-17 13:42:00,2025-10-18 03:42:00,medium,bug,closed
+tkt_0000654,cmp_0039,2025-12-01 13:45:00,2025-12-05 21:45:00,low,billing,closed
+tkt_0000655,cmp_0039,2025-12-19 16:53:00,2025-12-20 19:53:00,low,integration,closed
+tkt_0000656,cmp_0039,2025-12-23 10:13:00,2025-12-24 04:13:00,medium,integration,closed
+tkt_0000657,cmp_0039,2026-01-31 16:18:00,2026-02-01 20:18:00,high,bug,closed
+tkt_0000658,cmp_0039,2026-02-06 16:18:00,2026-02-06 21:18:00,urgent,billing,closed
+tkt_0000659,cmp_0039,2026-03-06 12:13:00,2026-03-07 06:13:00,medium,call_quality,closed
+tkt_0000660,cmp_0039,2026-04-05 10:17:00,2026-04-05 23:17:00,medium,onboarding,closed
+tkt_0000661,cmp_0039,2026-04-17 16:23:00,2026-04-18 05:23:00,low,account_admin,closed
+tkt_0000662,cmp_0039,2026-06-13 09:13:00,2026-06-13 18:13:00,medium,integration,closed
+tkt_0000663,cmp_0040,2026-06-06 16:50:00,2026-06-07 12:50:00,high,integration,closed
+tkt_0000664,cmp_0041,2026-02-26 15:21:00,2026-02-28 06:21:00,medium,call_quality,closed
+tkt_0000665,cmp_0041,2026-03-19 12:09:00,2026-03-23 11:09:00,low,billing,closed
+tkt_0000666,cmp_0041,2026-03-20 17:36:00,2026-03-21 03:36:00,medium,integration,closed
+tkt_0000667,cmp_0041,2026-03-28 08:45:00,2026-03-28 19:45:00,medium,account_admin,closed
+tkt_0000668,cmp_0041,2026-05-15 12:20:00,2026-05-16 03:20:00,high,feature_request,closed
+tkt_0000669,cmp_0041,2026-06-02 09:21:00,2026-06-03 02:21:00,medium,call_quality,closed
+tkt_0000670,cmp_0041,2026-06-03 18:16:00,2026-06-06 09:16:00,medium,integration,closed
+tkt_0000671,cmp_0041,2026-06-14 13:25:00,2026-06-15 15:25:00,low,integration,closed
+tkt_0000672,cmp_0041,2026-06-21 12:34:00,2026-06-23 11:34:00,medium,bug,closed
+tkt_0000673,cmp_0042,2025-12-06 13:27:00,2025-12-06 20:27:00,medium,feature_request,closed
+tkt_0000674,cmp_0042,2025-12-08 15:05:00,2025-12-09 21:05:00,medium,bug,closed
+tkt_0000675,cmp_0042,2025-12-10 15:37:00,,medium,billing,open
+tkt_0000676,cmp_0042,2025-12-21 09:27:00,2025-12-22 22:27:00,high,billing,closed
+tkt_0000677,cmp_0042,2025-12-26 08:44:00,2025-12-28 20:44:00,low,integration,closed
+tkt_0000678,cmp_0042,2025-12-31 16:46:00,2026-01-02 12:46:00,medium,integration,closed
+tkt_0000679,cmp_0042,2026-01-11 09:10:00,2026-01-14 06:10:00,medium,billing,closed
+tkt_0000680,cmp_0042,2026-01-11 09:59:00,2026-01-16 05:59:00,low,onboarding,closed
+tkt_0000681,cmp_0042,2026-01-14 10:32:00,2026-01-15 13:32:00,medium,billing,closed
+tkt_0000682,cmp_0042,2026-01-24 16:31:00,2026-01-26 22:31:00,medium,onboarding,closed
+tkt_0000683,cmp_0042,2026-02-04 13:23:00,2026-02-08 06:23:00,low,account_admin,closed
+tkt_0000684,cmp_0042,2026-03-14 08:56:00,2026-03-15 19:56:00,low,onboarding,closed
+tkt_0000685,cmp_0042,2026-03-26 08:24:00,2026-03-26 18:24:00,medium,call_quality,closed
+tkt_0000686,cmp_0042,2026-03-28 17:16:00,2026-03-29 16:16:00,medium,account_admin,closed
+tkt_0000687,cmp_0042,2026-04-07 09:10:00,2026-04-09 01:10:00,medium,account_admin,closed
+tkt_0000688,cmp_0042,2026-04-15 12:54:00,2026-04-18 15:54:00,low,billing,closed
+tkt_0000689,cmp_0042,2026-04-16 10:31:00,2026-04-18 06:31:00,medium,account_admin,closed
+tkt_0000690,cmp_0042,2026-04-24 15:43:00,2026-04-26 22:43:00,low,integration,closed
+tkt_0000691,cmp_0042,2026-04-29 09:17:00,2026-04-29 18:17:00,medium,integration,closed
+tkt_0000692,cmp_0042,2026-05-07 08:56:00,2026-05-09 10:56:00,low,call_quality,closed
+tkt_0000693,cmp_0042,2026-05-11 14:21:00,2026-05-12 03:21:00,urgent,bug,closed
+tkt_0000694,cmp_0042,2026-05-18 14:18:00,2026-05-19 04:18:00,low,bug,closed
+tkt_0000695,cmp_0042,2026-05-21 18:28:00,2026-05-25 17:28:00,low,integration,closed
+tkt_0000696,cmp_0042,2026-05-27 15:34:00,,medium,billing,open
+tkt_0000697,cmp_0042,2026-06-12 09:29:00,2026-06-14 22:29:00,low,bug,closed
+tkt_0000698,cmp_0042,2026-06-12 14:02:00,2026-06-14 00:02:00,low,account_admin,closed
+tkt_0000699,cmp_0042,2026-06-20 11:38:00,2026-06-25 02:38:00,low,onboarding,closed
+tkt_0000700,cmp_0043,2025-11-03 13:12:00,2025-11-08 02:12:00,low,integration,closed
+tkt_0000701,cmp_0043,2025-11-16 17:35:00,2025-11-21 02:35:00,low,call_quality,closed
+tkt_0000702,cmp_0043,2025-11-18 10:18:00,2025-11-22 11:18:00,low,bug,closed
+tkt_0000703,cmp_0043,2025-11-24 16:20:00,2025-11-25 00:20:00,high,account_admin,closed
+tkt_0000704,cmp_0043,2026-01-10 10:55:00,2026-01-12 22:55:00,medium,onboarding,closed
+tkt_0000705,cmp_0043,2026-01-10 08:49:00,2026-01-11 05:49:00,high,account_admin,closed
+tkt_0000706,cmp_0043,2026-01-11 18:50:00,2026-01-16 15:50:00,low,onboarding,closed
+tkt_0000707,cmp_0043,2026-01-12 12:41:00,2026-01-17 01:41:00,low,account_admin,closed
+tkt_0000708,cmp_0043,2026-01-21 09:52:00,2026-01-22 14:52:00,low,integration,closed
+tkt_0000709,cmp_0043,2026-02-02 14:27:00,2026-02-03 20:27:00,medium,bug,closed
+tkt_0000710,cmp_0043,2026-02-02 17:38:00,2026-02-06 00:38:00,low,feature_request,closed
+tkt_0000711,cmp_0043,2026-02-03 17:05:00,2026-02-05 20:05:00,medium,billing,closed
+tkt_0000712,cmp_0043,2026-02-06 14:25:00,2026-02-11 11:25:00,low,integration,closed
+tkt_0000713,cmp_0043,2026-02-09 10:38:00,2026-02-11 02:38:00,medium,call_quality,closed
+tkt_0000714,cmp_0043,2026-02-10 14:51:00,,medium,call_quality,open
+tkt_0000715,cmp_0043,2026-02-16 08:11:00,2026-02-18 10:11:00,medium,billing,closed
+tkt_0000716,cmp_0043,2026-02-16 12:13:00,2026-02-18 22:13:00,low,call_quality,closed
+tkt_0000717,cmp_0043,2026-02-16 15:21:00,2026-02-20 10:21:00,low,integration,closed
+tkt_0000718,cmp_0043,2026-02-19 09:30:00,,medium,onboarding,open
+tkt_0000719,cmp_0043,2026-02-21 15:53:00,2026-02-23 03:53:00,high,bug,closed
+tkt_0000720,cmp_0043,2026-02-22 17:35:00,2026-02-24 18:35:00,medium,bug,closed
+tkt_0000721,cmp_0043,2026-02-24 11:59:00,2026-02-25 13:59:00,medium,onboarding,closed
+tkt_0000722,cmp_0043,2026-03-08 16:58:00,2026-03-11 18:58:00,low,onboarding,closed
+tkt_0000723,cmp_0043,2026-03-15 11:14:00,2026-03-17 23:14:00,medium,onboarding,closed
+tkt_0000724,cmp_0043,2026-03-28 08:53:00,2026-04-01 12:53:00,low,onboarding,closed
+tkt_0000725,cmp_0043,2026-04-20 12:05:00,2026-04-20 17:05:00,urgent,bug,closed
+tkt_0000726,cmp_0043,2026-05-17 15:24:00,,low,onboarding,open
+tkt_0000727,cmp_0043,2026-05-17 13:42:00,,high,billing,open
+tkt_0000728,cmp_0043,2026-05-31 10:06:00,2026-06-01 03:06:00,high,bug,closed
+tkt_0000729,cmp_0043,2026-06-13 14:49:00,,medium,integration,open
+tkt_0000730,cmp_0044,2026-02-04 08:03:00,2026-02-06 05:03:00,high,billing,closed
+tkt_0000731,cmp_0044,2026-02-04 17:14:00,2026-02-06 15:14:00,medium,feature_request,closed
+tkt_0000732,cmp_0044,2026-02-13 13:22:00,2026-02-17 12:22:00,low,account_admin,closed
+tkt_0000733,cmp_0044,2026-02-20 08:55:00,2026-02-23 11:55:00,low,billing,closed
+tkt_0000734,cmp_0044,2026-02-25 16:54:00,2026-02-27 04:54:00,low,bug,closed
+tkt_0000735,cmp_0044,2026-02-27 15:53:00,2026-02-28 07:53:00,high,feature_request,closed
+tkt_0000736,cmp_0044,2026-03-01 10:25:00,2026-03-02 00:25:00,medium,onboarding,closed
+tkt_0000737,cmp_0044,2026-03-02 10:02:00,2026-03-03 23:02:00,low,call_quality,closed
+tkt_0000738,cmp_0044,2026-03-03 08:35:00,2026-03-06 01:35:00,low,call_quality,closed
+tkt_0000739,cmp_0044,2026-03-09 12:04:00,2026-03-14 01:04:00,low,feature_request,closed
+tkt_0000740,cmp_0044,2026-03-14 14:09:00,2026-03-17 04:09:00,medium,billing,closed
+tkt_0000741,cmp_0044,2026-03-18 08:50:00,2026-03-20 02:50:00,medium,bug,closed
+tkt_0000742,cmp_0044,2026-03-18 13:13:00,2026-03-21 09:13:00,medium,account_admin,closed
+tkt_0000743,cmp_0044,2026-03-25 17:21:00,2026-03-27 22:21:00,low,bug,closed
+tkt_0000744,cmp_0044,2026-03-26 09:09:00,2026-03-26 14:09:00,high,integration,closed
+tkt_0000745,cmp_0044,2026-03-27 16:06:00,2026-04-01 08:06:00,low,feature_request,closed
+tkt_0000746,cmp_0044,2026-03-27 11:36:00,2026-03-28 17:36:00,high,bug,closed
+tkt_0000747,cmp_0044,2026-03-28 09:56:00,,medium,account_admin,open
+tkt_0000748,cmp_0044,2026-03-28 16:04:00,2026-03-29 14:04:00,low,feature_request,closed
+tkt_0000749,cmp_0044,2026-04-06 17:47:00,2026-04-09 05:47:00,low,call_quality,closed
+tkt_0000750,cmp_0044,2026-04-07 15:31:00,,low,integration,open
+tkt_0000751,cmp_0044,2026-04-09 08:12:00,,medium,feature_request,open
+tkt_0000752,cmp_0044,2026-04-14 12:09:00,2026-04-17 03:09:00,medium,bug,closed
+tkt_0000753,cmp_0044,2026-04-17 08:04:00,2026-04-20 11:04:00,low,bug,closed
+tkt_0000754,cmp_0044,2026-04-21 12:19:00,2026-04-22 17:19:00,high,account_admin,closed
+tkt_0000755,cmp_0044,2026-04-21 11:27:00,2026-04-22 13:27:00,low,account_admin,closed
+tkt_0000756,cmp_0044,2026-04-25 12:34:00,2026-04-27 07:34:00,low,call_quality,closed
+tkt_0000757,cmp_0044,2026-04-30 10:06:00,,low,account_admin,open
+tkt_0000758,cmp_0044,2026-04-30 15:59:00,2026-05-04 18:59:00,low,bug,closed
+tkt_0000759,cmp_0044,2026-05-02 08:35:00,2026-05-03 19:35:00,high,bug,closed
+tkt_0000760,cmp_0044,2026-05-11 15:59:00,2026-05-12 04:59:00,urgent,feature_request,closed
+tkt_0000761,cmp_0044,2026-05-16 11:50:00,2026-05-19 08:50:00,medium,feature_request,closed
+tkt_0000762,cmp_0044,2026-05-22 15:06:00,2026-05-22 18:06:00,high,bug,closed
+tkt_0000763,cmp_0044,2026-05-26 13:22:00,2026-05-28 06:22:00,low,account_admin,closed
+tkt_0000764,cmp_0044,2026-06-02 18:40:00,2026-06-03 00:40:00,medium,call_quality,closed
+tkt_0000765,cmp_0044,2026-06-04 18:27:00,2026-06-05 00:27:00,high,billing,closed
+tkt_0000766,cmp_0044,2026-06-05 11:05:00,2026-06-06 15:05:00,medium,call_quality,closed
+tkt_0000767,cmp_0044,2026-06-12 09:52:00,2026-06-13 20:52:00,low,account_admin,closed
+tkt_0000768,cmp_0044,2026-06-14 10:07:00,2026-06-15 12:07:00,medium,account_admin,closed
+tkt_0000769,cmp_0044,2026-06-15 16:13:00,2026-06-17 14:13:00,medium,integration,closed
+tkt_0000770,cmp_0044,2026-06-19 16:28:00,2026-06-21 23:28:00,low,integration,closed
+tkt_0000771,cmp_0044,2026-06-22 16:28:00,2026-06-23 15:28:00,medium,billing,closed
+tkt_0000772,cmp_0045,2025-11-13 13:56:00,2025-11-14 07:56:00,medium,feature_request,closed
+tkt_0000773,cmp_0045,2025-11-26 13:59:00,2025-11-28 07:59:00,medium,account_admin,closed
+tkt_0000774,cmp_0045,2025-11-27 15:41:00,,low,integration,open
+tkt_0000775,cmp_0045,2025-12-06 16:34:00,2025-12-08 22:34:00,medium,onboarding,closed
+tkt_0000776,cmp_0045,2025-12-14 10:46:00,2025-12-16 17:46:00,medium,integration,closed
+tkt_0000777,cmp_0045,2025-12-19 14:19:00,2025-12-20 11:19:00,medium,onboarding,closed
+tkt_0000778,cmp_0045,2025-12-21 08:47:00,2025-12-21 14:47:00,medium,account_admin,closed
+tkt_0000779,cmp_0045,2025-12-31 17:00:00,2026-01-04 00:00:00,low,bug,closed
+tkt_0000780,cmp_0045,2026-01-05 15:50:00,2026-01-07 01:50:00,low,call_quality,closed
+tkt_0000781,cmp_0045,2026-01-14 10:09:00,2026-01-14 14:09:00,high,call_quality,closed
+tkt_0000782,cmp_0045,2026-01-17 13:03:00,,high,call_quality,open
+tkt_0000783,cmp_0045,2026-01-22 08:33:00,,low,call_quality,open
+tkt_0000784,cmp_0045,2026-01-25 18:03:00,,low,feature_request,open
+tkt_0000785,cmp_0045,2026-01-29 12:15:00,2026-01-30 17:15:00,low,feature_request,closed
+tkt_0000786,cmp_0045,2026-02-01 13:46:00,2026-02-04 07:46:00,low,account_admin,closed
+tkt_0000787,cmp_0045,2026-02-01 18:11:00,2026-02-02 11:11:00,low,billing,closed
+tkt_0000788,cmp_0045,2026-02-05 11:23:00,2026-02-09 01:23:00,low,bug,closed
+tkt_0000789,cmp_0045,2026-02-05 13:30:00,2026-02-09 06:30:00,low,billing,closed
+tkt_0000790,cmp_0045,2026-02-14 12:21:00,,low,integration,open
+tkt_0000791,cmp_0045,2026-02-19 17:16:00,2026-02-21 14:16:00,high,feature_request,closed
+tkt_0000792,cmp_0045,2026-02-22 08:04:00,,low,integration,open
+tkt_0000793,cmp_0045,2026-02-22 14:46:00,2026-02-27 02:46:00,low,onboarding,closed
+tkt_0000794,cmp_0045,2026-02-26 08:21:00,2026-02-27 10:21:00,medium,bug,closed
+tkt_0000795,cmp_0045,2026-03-01 08:14:00,2026-03-03 08:14:00,high,integration,closed
+tkt_0000796,cmp_0045,2026-03-02 14:14:00,2026-03-03 04:14:00,high,account_admin,closed
+tkt_0000797,cmp_0045,2026-03-11 11:07:00,,high,feature_request,open
+tkt_0000798,cmp_0045,2026-03-23 09:07:00,2026-03-23 17:07:00,medium,integration,closed
+tkt_0000799,cmp_0045,2026-03-24 08:04:00,2026-03-24 17:04:00,high,onboarding,closed
+tkt_0000800,cmp_0045,2026-03-30 18:43:00,2026-04-02 02:43:00,medium,feature_request,closed
+tkt_0000801,cmp_0045,2026-04-06 18:45:00,2026-04-07 12:45:00,high,integration,closed
+tkt_0000802,cmp_0045,2026-04-08 18:42:00,2026-04-09 17:42:00,low,integration,closed
+tkt_0000803,cmp_0045,2026-04-16 16:52:00,2026-04-17 06:52:00,medium,account_admin,closed
+tkt_0000804,cmp_0045,2026-04-23 11:37:00,2026-04-24 22:37:00,low,billing,closed
+tkt_0000805,cmp_0045,2026-04-23 09:28:00,2026-04-27 11:28:00,low,feature_request,closed
+tkt_0000806,cmp_0045,2026-04-25 08:59:00,2026-04-26 14:59:00,medium,account_admin,closed
+tkt_0000807,cmp_0045,2026-04-26 09:49:00,2026-04-28 08:49:00,medium,account_admin,closed
+tkt_0000808,cmp_0045,2026-04-27 17:49:00,2026-04-30 05:49:00,low,onboarding,closed
+tkt_0000809,cmp_0045,2026-04-29 16:49:00,2026-05-01 23:49:00,low,account_admin,closed
+tkt_0000810,cmp_0045,2026-04-29 11:32:00,2026-05-02 11:32:00,low,bug,closed
+tkt_0000811,cmp_0045,2026-05-04 14:19:00,,urgent,billing,open
+tkt_0000812,cmp_0045,2026-05-04 08:59:00,2026-05-05 10:59:00,high,integration,closed
+tkt_0000813,cmp_0045,2026-05-05 10:17:00,2026-05-08 07:17:00,low,account_admin,closed
+tkt_0000814,cmp_0045,2026-05-06 12:26:00,2026-05-10 16:26:00,low,billing,closed
+tkt_0000815,cmp_0045,2026-05-16 10:51:00,2026-05-20 18:51:00,low,call_quality,closed
+tkt_0000816,cmp_0045,2026-05-17 16:52:00,2026-05-17 18:52:00,high,bug,closed
+tkt_0000817,cmp_0045,2026-05-19 13:58:00,2026-05-20 06:58:00,urgent,billing,closed
+tkt_0000818,cmp_0045,2026-05-25 16:57:00,,low,integration,open
+tkt_0000819,cmp_0045,2026-05-25 12:30:00,2026-05-29 23:30:00,low,integration,closed
+tkt_0000820,cmp_0045,2026-05-28 15:46:00,2026-05-31 19:46:00,low,account_admin,closed
+tkt_0000821,cmp_0045,2026-06-05 11:38:00,2026-06-05 13:38:00,urgent,billing,closed
+tkt_0000822,cmp_0045,2026-06-09 12:13:00,2026-06-10 14:13:00,high,integration,closed
+tkt_0000823,cmp_0045,2026-06-13 14:11:00,2026-06-18 05:11:00,low,onboarding,closed
+tkt_0000824,cmp_0045,2026-06-15 18:53:00,2026-06-17 08:53:00,medium,call_quality,closed
+tkt_0000825,cmp_0045,2026-06-18 08:31:00,2026-06-20 08:31:00,medium,billing,closed
+tkt_0000826,cmp_0045,2026-06-19 15:39:00,2026-06-23 14:39:00,low,call_quality,closed
+tkt_0000827,cmp_0045,2026-06-23 09:46:00,2026-06-23 18:46:00,medium,feature_request,closed
+tkt_0000828,cmp_0046,2026-01-24 14:29:00,2026-01-26 23:29:00,low,integration,closed
+tkt_0000829,cmp_0046,2026-01-29 13:22:00,2026-01-30 11:22:00,high,call_quality,closed
+tkt_0000830,cmp_0046,2026-02-12 10:27:00,2026-02-15 04:27:00,medium,billing,closed
+tkt_0000831,cmp_0046,2026-02-13 17:03:00,2026-02-15 10:03:00,medium,integration,closed
+tkt_0000832,cmp_0046,2026-02-27 16:20:00,2026-03-02 18:20:00,low,onboarding,closed
+tkt_0000833,cmp_0046,2026-03-05 13:11:00,2026-03-09 04:11:00,low,onboarding,closed
+tkt_0000834,cmp_0046,2026-03-12 08:05:00,2026-03-13 01:05:00,urgent,account_admin,closed
+tkt_0000835,cmp_0046,2026-03-18 08:16:00,2026-03-23 05:16:00,low,feature_request,closed
+tkt_0000836,cmp_0046,2026-03-22 12:11:00,2026-03-26 18:11:00,low,billing,closed
+tkt_0000837,cmp_0046,2026-04-30 08:45:00,2026-05-04 18:45:00,low,onboarding,closed
+tkt_0000838,cmp_0046,2026-05-10 16:13:00,2026-05-12 13:13:00,high,onboarding,closed
+tkt_0000839,cmp_0046,2026-05-18 10:19:00,2026-05-19 00:19:00,low,onboarding,closed
+tkt_0000840,cmp_0046,2026-05-24 11:13:00,2026-05-24 16:13:00,high,bug,closed
+tkt_0000841,cmp_0046,2026-05-29 14:09:00,2026-05-31 21:09:00,medium,account_admin,closed
+tkt_0000842,cmp_0046,2026-05-31 16:04:00,2026-06-02 11:04:00,low,account_admin,closed
+tkt_0000843,cmp_0046,2026-06-03 13:12:00,2026-06-04 02:12:00,low,account_admin,closed
+tkt_0000844,cmp_0046,2026-06-21 13:51:00,2026-06-24 03:51:00,low,integration,closed
+tkt_0000845,cmp_0046,2026-06-22 08:21:00,,medium,billing,open
+tkt_0000846,cmp_0047,2025-11-09 09:03:00,2025-11-14 04:03:00,low,onboarding,closed
+tkt_0000847,cmp_0047,2025-12-12 11:26:00,2025-12-17 10:26:00,low,bug,closed
+tkt_0000848,cmp_0047,2025-12-23 16:54:00,2025-12-26 05:54:00,low,account_admin,closed
+tkt_0000849,cmp_0047,2026-01-25 13:45:00,2026-01-27 10:45:00,medium,account_admin,closed
+tkt_0000850,cmp_0047,2026-03-03 08:08:00,2026-03-05 04:08:00,low,call_quality,closed
+tkt_0000851,cmp_0047,2026-03-18 12:15:00,2026-03-20 10:15:00,medium,billing,closed
+tkt_0000852,cmp_0047,2026-04-01 15:40:00,2026-04-01 18:40:00,high,billing,closed
+tkt_0000853,cmp_0047,2026-05-07 09:12:00,,urgent,integration,open
+tkt_0000854,cmp_0047,2026-06-03 17:35:00,,low,call_quality,open
+tkt_0000855,cmp_0048,2026-03-15 09:13:00,2026-03-18 09:13:00,low,account_admin,closed
+tkt_0000856,cmp_0048,2026-03-20 18:24:00,2026-03-24 23:24:00,low,account_admin,closed
+tkt_0000857,cmp_0048,2026-03-23 14:50:00,2026-03-24 13:50:00,low,billing,closed
+tkt_0000858,cmp_0048,2026-04-19 09:24:00,2026-04-21 07:24:00,low,bug,closed
+tkt_0000859,cmp_0048,2026-05-02 16:38:00,2026-05-03 07:38:00,medium,account_admin,closed
+tkt_0000860,cmp_0048,2026-05-06 12:07:00,2026-05-07 11:07:00,medium,feature_request,closed
+tkt_0000861,cmp_0048,2026-05-15 15:44:00,2026-05-17 02:44:00,low,call_quality,closed
+tkt_0000862,cmp_0048,2026-05-28 13:01:00,2026-05-29 18:01:00,medium,bug,closed
+tkt_0000863,cmp_0048,2026-06-17 18:46:00,2026-06-20 12:46:00,low,billing,closed
+tkt_0000864,cmp_0049,2026-06-02 14:03:00,2026-06-05 03:03:00,medium,feature_request,closed
+tkt_0000865,cmp_0050,2025-12-29 18:21:00,2026-01-03 14:21:00,low,bug,closed
+tkt_0000866,cmp_0050,2026-02-01 11:14:00,2026-02-04 23:14:00,low,feature_request,closed
+tkt_0000867,cmp_0050,2026-02-07 11:56:00,2026-02-08 07:56:00,low,bug,closed
+tkt_0000868,cmp_0050,2026-02-19 16:06:00,2026-02-21 01:06:00,low,feature_request,closed
+tkt_0000869,cmp_0050,2026-02-25 11:40:00,2026-02-26 14:40:00,medium,account_admin,closed
+tkt_0000870,cmp_0050,2026-03-08 09:56:00,2026-03-11 16:56:00,low,call_quality,closed
+tkt_0000871,cmp_0050,2026-03-16 14:49:00,,high,feature_request,open
+tkt_0000872,cmp_0050,2026-03-27 15:15:00,2026-03-29 18:15:00,medium,integration,closed
+tkt_0000873,cmp_0050,2026-03-27 17:35:00,2026-03-28 18:35:00,medium,billing,closed
+tkt_0000874,cmp_0050,2026-04-01 18:54:00,2026-04-02 08:54:00,low,feature_request,closed
+tkt_0000875,cmp_0050,2026-04-13 08:29:00,2026-04-17 04:29:00,low,call_quality,closed
+tkt_0000876,cmp_0050,2026-04-14 16:43:00,2026-04-15 07:43:00,high,call_quality,closed
+tkt_0000877,cmp_0050,2026-04-27 16:57:00,2026-05-02 11:57:00,low,bug,closed
+tkt_0000878,cmp_0050,2026-05-01 12:31:00,2026-05-03 04:31:00,low,integration,closed
+tkt_0000879,cmp_0050,2026-05-12 16:25:00,2026-05-16 16:25:00,low,onboarding,closed
+tkt_0000880,cmp_0050,2026-05-13 09:06:00,2026-05-15 17:06:00,medium,feature_request,closed
+tkt_0000881,cmp_0050,2026-05-18 13:13:00,2026-05-19 10:13:00,low,onboarding,closed
+tkt_0000882,cmp_0050,2026-05-19 08:14:00,2026-05-22 03:14:00,low,account_admin,closed
+tkt_0000883,cmp_0050,2026-05-21 13:53:00,2026-05-25 02:53:00,low,onboarding,closed
+tkt_0000884,cmp_0050,2026-06-17 10:56:00,2026-06-20 00:56:00,low,bug,closed
+tkt_0000885,cmp_0051,2026-03-11 15:22:00,2026-03-14 13:22:00,medium,billing,closed
+tkt_0000886,cmp_0052,2026-01-28 13:21:00,2026-01-31 13:21:00,medium,feature_request,closed
+tkt_0000887,cmp_0052,2026-02-23 12:17:00,2026-02-25 15:17:00,low,billing,closed
+tkt_0000888,cmp_0052,2026-03-16 16:46:00,2026-03-21 12:46:00,low,billing,closed
+tkt_0000889,cmp_0052,2026-04-23 16:27:00,2026-04-23 19:27:00,urgent,feature_request,closed
+tkt_0000890,cmp_0052,2026-05-30 13:42:00,2026-05-31 13:42:00,high,billing,closed
+tkt_0000891,cmp_0052,2026-06-09 17:13:00,2026-06-11 09:13:00,high,billing,closed
+tkt_0000892,cmp_0053,2026-03-31 17:23:00,,low,onboarding,open
+tkt_0000893,cmp_0053,2026-04-12 14:43:00,2026-04-12 18:43:00,urgent,bug,closed
+tkt_0000894,cmp_0053,2026-04-16 10:52:00,2026-04-17 01:52:00,low,onboarding,closed
+tkt_0000895,cmp_0053,2026-04-19 14:05:00,,medium,feature_request,open
+tkt_0000896,cmp_0053,2026-04-22 10:30:00,2026-04-23 03:30:00,urgent,call_quality,closed
+tkt_0000897,cmp_0053,2026-05-04 18:21:00,2026-05-06 15:21:00,medium,account_admin,closed
+tkt_0000898,cmp_0053,2026-05-10 18:27:00,2026-05-11 04:27:00,medium,feature_request,closed
+tkt_0000899,cmp_0053,2026-05-11 16:39:00,2026-05-12 05:39:00,low,bug,closed
+tkt_0000900,cmp_0053,2026-05-12 12:50:00,2026-05-15 22:50:00,low,account_admin,closed
+tkt_0000901,cmp_0053,2026-06-14 15:31:00,2026-06-18 07:31:00,low,call_quality,closed
+tkt_0000902,cmp_0054,2025-11-18 17:59:00,2025-11-20 19:59:00,medium,call_quality,closed
+tkt_0000903,cmp_0054,2025-11-24 17:25:00,2025-11-28 05:25:00,low,integration,closed
+tkt_0000904,cmp_0054,2025-11-26 17:14:00,2025-11-27 06:14:00,medium,call_quality,closed
+tkt_0000905,cmp_0054,2025-11-26 11:31:00,2025-11-29 13:31:00,low,account_admin,closed
+tkt_0000906,cmp_0054,2025-11-28 12:07:00,2025-12-02 20:07:00,low,call_quality,closed
+tkt_0000907,cmp_0054,2025-11-30 16:27:00,,low,billing,open
+tkt_0000908,cmp_0054,2025-12-01 13:10:00,2025-12-03 21:10:00,medium,onboarding,closed
+tkt_0000909,cmp_0054,2025-12-04 11:53:00,2025-12-05 10:53:00,high,feature_request,closed
+tkt_0000910,cmp_0054,2025-12-05 08:41:00,2025-12-08 05:41:00,medium,bug,closed
+tkt_0000911,cmp_0054,2025-12-14 10:16:00,2025-12-14 16:16:00,medium,integration,closed
+tkt_0000912,cmp_0054,2025-12-20 15:55:00,2025-12-23 04:55:00,low,integration,closed
+tkt_0000913,cmp_0054,2025-12-21 16:23:00,2025-12-22 23:23:00,medium,feature_request,closed
+tkt_0000914,cmp_0054,2025-12-25 15:54:00,2025-12-26 16:54:00,high,bug,closed
+tkt_0000915,cmp_0054,2025-12-25 11:54:00,2025-12-25 19:54:00,urgent,billing,closed
+tkt_0000916,cmp_0054,2025-12-27 13:23:00,2025-12-29 06:23:00,high,call_quality,closed
+tkt_0000917,cmp_0054,2025-12-28 11:07:00,2025-12-30 19:07:00,medium,feature_request,closed
+tkt_0000918,cmp_0054,2025-12-29 12:43:00,2025-12-31 13:43:00,medium,integration,closed
+tkt_0000919,cmp_0054,2025-12-29 15:13:00,2025-12-30 19:13:00,medium,call_quality,closed
+tkt_0000920,cmp_0054,2025-12-30 16:17:00,2026-01-04 14:17:00,low,bug,closed
+tkt_0000921,cmp_0054,2026-01-02 17:34:00,2026-01-05 06:34:00,low,account_admin,closed
+tkt_0000922,cmp_0054,2026-01-07 10:11:00,,low,bug,open
+tkt_0000923,cmp_0054,2026-01-21 17:45:00,2026-01-23 07:45:00,medium,bug,closed
+tkt_0000924,cmp_0054,2026-01-21 15:56:00,2026-01-24 12:56:00,medium,billing,closed
+tkt_0000925,cmp_0054,2026-01-26 08:08:00,2026-01-28 15:08:00,medium,billing,closed
+tkt_0000926,cmp_0054,2026-01-27 14:20:00,2026-01-28 04:20:00,medium,account_admin,closed
+tkt_0000927,cmp_0054,2026-02-14 08:10:00,2026-02-17 12:10:00,low,onboarding,closed
+tkt_0000928,cmp_0054,2026-02-19 13:21:00,2026-02-19 20:21:00,high,billing,closed
+tkt_0000929,cmp_0054,2026-02-22 09:03:00,2026-02-26 06:03:00,low,call_quality,closed
+tkt_0000930,cmp_0054,2026-02-25 12:09:00,2026-02-27 12:09:00,medium,call_quality,closed
+tkt_0000931,cmp_0054,2026-02-26 09:38:00,2026-02-26 15:38:00,urgent,call_quality,closed
+tkt_0000932,cmp_0054,2026-03-04 14:48:00,,medium,integration,open
+tkt_0000933,cmp_0054,2026-03-08 09:37:00,2026-03-12 14:37:00,low,integration,closed
+tkt_0000934,cmp_0054,2026-03-12 08:02:00,2026-03-12 20:02:00,urgent,account_admin,closed
+tkt_0000935,cmp_0054,2026-03-12 13:02:00,2026-03-16 23:02:00,low,billing,closed
+tkt_0000936,cmp_0054,2026-03-16 09:52:00,2026-03-16 16:52:00,high,billing,closed
+tkt_0000937,cmp_0054,2026-03-17 18:09:00,2026-03-19 03:09:00,high,call_quality,closed
+tkt_0000938,cmp_0054,2026-03-31 08:01:00,2026-03-31 18:01:00,urgent,onboarding,closed
+tkt_0000939,cmp_0054,2026-04-03 09:47:00,2026-04-04 12:47:00,medium,bug,closed
+tkt_0000940,cmp_0054,2026-04-10 10:29:00,2026-04-11 01:29:00,medium,account_admin,closed
+tkt_0000941,cmp_0054,2026-04-16 12:01:00,2026-04-19 00:01:00,low,onboarding,closed
+tkt_0000942,cmp_0054,2026-04-16 09:31:00,2026-04-17 21:31:00,low,call_quality,closed
+tkt_0000943,cmp_0054,2026-04-19 18:00:00,,medium,integration,open
+tkt_0000944,cmp_0054,2026-04-28 13:45:00,2026-04-29 16:45:00,low,feature_request,closed
+tkt_0000945,cmp_0054,2026-04-30 17:22:00,2026-05-01 03:22:00,medium,bug,closed
+tkt_0000946,cmp_0054,2026-05-06 17:26:00,2026-05-09 00:26:00,low,billing,closed
+tkt_0000947,cmp_0054,2026-05-06 16:45:00,2026-05-07 18:45:00,low,onboarding,closed
+tkt_0000948,cmp_0054,2026-05-16 15:40:00,2026-05-17 16:40:00,high,call_quality,closed
+tkt_0000949,cmp_0054,2026-05-18 09:49:00,2026-05-22 10:49:00,low,account_admin,closed
+tkt_0000950,cmp_0054,2026-05-23 12:00:00,2026-05-27 09:00:00,low,bug,closed
+tkt_0000951,cmp_0054,2026-05-26 13:12:00,2026-05-30 23:12:00,low,call_quality,closed
+tkt_0000952,cmp_0054,2026-05-26 18:03:00,2026-05-27 04:03:00,medium,account_admin,closed
+tkt_0000953,cmp_0054,2026-05-29 08:36:00,2026-06-01 01:36:00,medium,call_quality,closed
+tkt_0000954,cmp_0054,2026-05-30 13:44:00,2026-06-03 16:44:00,low,account_admin,closed
+tkt_0000955,cmp_0054,2026-05-31 15:05:00,2026-06-01 17:05:00,high,call_quality,closed
+tkt_0000956,cmp_0054,2026-06-05 10:27:00,2026-06-06 11:27:00,medium,integration,closed
+tkt_0000957,cmp_0054,2026-06-07 18:40:00,2026-06-10 18:40:00,medium,account_admin,closed
+tkt_0000958,cmp_0054,2026-06-08 09:24:00,2026-06-09 22:24:00,low,bug,closed
+tkt_0000959,cmp_0054,2026-06-13 16:28:00,2026-06-14 12:28:00,low,account_admin,closed
+tkt_0000960,cmp_0054,2026-06-18 11:49:00,2026-06-23 09:49:00,low,feature_request,closed
+tkt_0000961,cmp_0054,2026-06-18 13:03:00,2026-06-22 22:03:00,low,integration,closed
+tkt_0000962,cmp_0054,2026-06-19 16:45:00,2026-06-20 05:45:00,medium,account_admin,closed
+tkt_0000963,cmp_0054,2026-06-21 16:03:00,2026-06-23 04:03:00,low,bug,closed
+tkt_0000964,cmp_0055,2026-04-28 17:07:00,,low,onboarding,open
+tkt_0000965,cmp_0055,2026-05-03 16:40:00,2026-05-08 05:40:00,low,bug,closed
+tkt_0000966,cmp_0055,2026-05-07 17:31:00,,low,onboarding,open
+tkt_0000967,cmp_0055,2026-05-09 11:19:00,2026-05-11 03:19:00,medium,onboarding,closed
+tkt_0000968,cmp_0055,2026-05-11 10:29:00,2026-05-12 01:29:00,medium,account_admin,closed
+tkt_0000969,cmp_0055,2026-05-11 17:49:00,2026-05-15 10:49:00,low,feature_request,closed
+tkt_0000970,cmp_0055,2026-05-13 16:06:00,2026-05-16 04:06:00,medium,account_admin,closed
+tkt_0000971,cmp_0055,2026-05-22 11:28:00,2026-05-23 00:28:00,medium,bug,closed
+tkt_0000972,cmp_0055,2026-05-28 17:24:00,2026-06-02 08:24:00,low,account_admin,closed
+tkt_0000973,cmp_0055,2026-06-07 11:13:00,2026-06-08 20:13:00,high,integration,closed
+tkt_0000974,cmp_0055,2026-06-08 15:24:00,,high,account_admin,open
+tkt_0000975,cmp_0055,2026-06-09 13:13:00,2026-06-11 04:13:00,low,bug,closed
+tkt_0000976,cmp_0055,2026-06-11 14:59:00,2026-06-13 03:59:00,medium,onboarding,closed
+tkt_0000977,cmp_0055,2026-06-12 16:46:00,2026-06-16 00:46:00,low,account_admin,closed
+tkt_0000978,cmp_0055,2026-06-13 08:59:00,2026-06-15 06:59:00,low,bug,closed
+tkt_0000979,cmp_0055,2026-06-14 18:52:00,2026-06-15 23:52:00,high,account_admin,closed
+tkt_0000980,cmp_0055,2026-06-18 12:35:00,2026-06-19 02:35:00,low,call_quality,closed
+tkt_0000981,cmp_0055,2026-06-20 08:18:00,2026-06-21 13:18:00,high,onboarding,closed
+tkt_0000982,cmp_0056,2026-01-10 15:41:00,2026-01-12 00:41:00,low,bug,closed
+tkt_0000983,cmp_0056,2026-01-13 14:44:00,2026-01-16 07:44:00,low,feature_request,closed
+tkt_0000984,cmp_0056,2026-01-15 18:12:00,2026-01-18 02:12:00,medium,billing,closed
+tkt_0000985,cmp_0056,2026-01-17 09:31:00,2026-01-18 22:31:00,low,feature_request,closed
+tkt_0000986,cmp_0056,2026-01-18 18:49:00,2026-01-20 04:49:00,medium,call_quality,closed
+tkt_0000987,cmp_0056,2026-01-18 16:45:00,2026-01-19 12:45:00,low,integration,closed
+tkt_0000988,cmp_0056,2026-01-20 09:44:00,2026-01-22 15:44:00,low,account_admin,closed
+tkt_0000989,cmp_0056,2026-01-20 15:19:00,2026-01-23 15:19:00,low,integration,closed
+tkt_0000990,cmp_0056,2026-01-22 11:02:00,2026-01-24 20:02:00,medium,onboarding,closed
+tkt_0000991,cmp_0056,2026-01-25 12:42:00,2026-01-28 19:42:00,low,bug,closed
+tkt_0000992,cmp_0056,2026-02-06 10:08:00,2026-02-07 09:08:00,medium,bug,closed
+tkt_0000993,cmp_0056,2026-02-11 10:55:00,2026-02-11 19:55:00,urgent,feature_request,closed
+tkt_0000994,cmp_0056,2026-02-18 09:59:00,2026-02-19 00:59:00,medium,onboarding,closed
+tkt_0000995,cmp_0056,2026-02-20 14:30:00,2026-02-24 08:30:00,low,account_admin,closed
+tkt_0000996,cmp_0056,2026-02-26 12:10:00,2026-02-27 09:10:00,low,bug,closed
+tkt_0000997,cmp_0056,2026-03-02 11:55:00,,high,feature_request,open
+tkt_0000998,cmp_0056,2026-03-05 13:04:00,2026-03-06 07:04:00,medium,billing,closed
+tkt_0000999,cmp_0056,2026-03-05 17:50:00,2026-03-07 14:50:00,high,bug,closed
+tkt_0001000,cmp_0056,2026-03-09 16:47:00,,medium,onboarding,open
+tkt_0001001,cmp_0056,2026-03-10 09:06:00,2026-03-11 02:06:00,medium,feature_request,closed
+tkt_0001002,cmp_0056,2026-03-11 13:59:00,2026-03-12 14:59:00,high,integration,closed
+tkt_0001003,cmp_0056,2026-03-12 17:29:00,2026-03-14 06:29:00,medium,integration,closed
+tkt_0001004,cmp_0056,2026-03-15 18:21:00,2026-03-17 14:21:00,medium,feature_request,closed
+tkt_0001005,cmp_0056,2026-03-20 17:33:00,2026-03-22 19:33:00,medium,integration,closed
+tkt_0001006,cmp_0056,2026-03-21 10:53:00,,high,account_admin,open
+tkt_0001007,cmp_0056,2026-03-22 18:01:00,2026-03-23 18:01:00,low,account_admin,closed
+tkt_0001008,cmp_0056,2026-03-23 16:50:00,,low,onboarding,open
+tkt_0001009,cmp_0056,2026-03-31 09:26:00,2026-04-05 04:26:00,low,bug,closed
+tkt_0001010,cmp_0056,2026-03-31 17:06:00,2026-04-05 01:06:00,low,billing,closed
+tkt_0001011,cmp_0056,2026-04-07 11:38:00,2026-04-09 10:38:00,medium,integration,closed
+tkt_0001012,cmp_0056,2026-04-08 12:14:00,2026-04-09 05:14:00,medium,account_admin,closed
+tkt_0001013,cmp_0056,2026-04-17 16:29:00,2026-04-18 00:29:00,medium,onboarding,closed
+tkt_0001014,cmp_0056,2026-04-19 14:58:00,,high,feature_request,open
+tkt_0001015,cmp_0056,2026-04-19 15:12:00,2026-04-20 01:12:00,urgent,feature_request,closed
+tkt_0001016,cmp_0056,2026-04-20 13:13:00,,medium,integration,open
+tkt_0001017,cmp_0056,2026-04-20 09:42:00,2026-04-21 20:42:00,high,bug,closed
+tkt_0001018,cmp_0056,2026-04-27 11:39:00,2026-04-29 12:39:00,low,integration,closed
+tkt_0001019,cmp_0056,2026-04-29 12:29:00,2026-04-30 13:29:00,low,bug,closed
+tkt_0001020,cmp_0056,2026-05-02 18:06:00,2026-05-04 03:06:00,medium,account_admin,closed
+tkt_0001021,cmp_0056,2026-05-02 17:07:00,2026-05-02 19:07:00,urgent,call_quality,closed
+tkt_0001022,cmp_0056,2026-05-02 16:14:00,2026-05-05 13:14:00,medium,billing,closed
+tkt_0001023,cmp_0056,2026-05-05 11:17:00,2026-05-06 02:17:00,medium,onboarding,closed
+tkt_0001024,cmp_0056,2026-05-06 08:06:00,2026-05-11 07:06:00,low,account_admin,closed
+tkt_0001025,cmp_0056,2026-05-12 12:03:00,2026-05-15 20:03:00,low,feature_request,closed
+tkt_0001026,cmp_0056,2026-05-12 16:12:00,2026-05-15 01:12:00,low,feature_request,closed
+tkt_0001027,cmp_0056,2026-05-14 18:26:00,2026-05-15 12:26:00,high,account_admin,closed
+tkt_0001028,cmp_0056,2026-05-18 11:52:00,2026-05-19 01:52:00,urgent,onboarding,closed
+tkt_0001029,cmp_0056,2026-05-19 17:17:00,2026-05-21 05:17:00,low,call_quality,closed
+tkt_0001030,cmp_0056,2026-05-21 16:37:00,2026-05-24 13:37:00,low,bug,closed
+tkt_0001031,cmp_0056,2026-05-22 15:54:00,2026-05-24 07:54:00,low,onboarding,closed
+tkt_0001032,cmp_0056,2026-05-23 10:08:00,2026-05-27 11:08:00,low,onboarding,closed
+tkt_0001033,cmp_0056,2026-06-03 08:17:00,,medium,bug,open
+tkt_0001034,cmp_0056,2026-06-16 16:58:00,,low,account_admin,open
+tkt_0001035,cmp_0056,2026-06-17 08:17:00,2026-06-18 20:17:00,high,integration,closed
+tkt_0001036,cmp_0056,2026-06-21 10:26:00,2026-06-23 05:26:00,high,feature_request,closed
+tkt_0001037,cmp_0057,2026-01-08 10:08:00,2026-01-09 17:08:00,medium,call_quality,closed
+tkt_0001038,cmp_0057,2026-02-13 08:51:00,2026-02-15 06:51:00,high,billing,closed
+tkt_0001039,cmp_0057,2026-04-04 14:25:00,,urgent,integration,open
+tkt_0001040,cmp_0057,2026-04-05 13:54:00,2026-04-05 21:54:00,medium,billing,closed
+tkt_0001041,cmp_0057,2026-04-18 18:17:00,,low,integration,open
+tkt_0001042,cmp_0057,2026-05-23 09:29:00,2026-05-26 23:29:00,low,billing,closed
+tkt_0001043,cmp_0058,2025-11-16 16:55:00,2025-11-18 19:55:00,medium,onboarding,closed
+tkt_0001044,cmp_0058,2025-12-28 14:33:00,2025-12-31 07:33:00,low,call_quality,closed
+tkt_0001045,cmp_0058,2026-01-07 08:01:00,2026-01-09 15:01:00,low,billing,closed
+tkt_0001046,cmp_0058,2026-01-31 12:07:00,2026-02-04 07:07:00,low,feature_request,closed
+tkt_0001047,cmp_0058,2026-02-15 13:51:00,2026-02-17 17:51:00,low,call_quality,closed
+tkt_0001048,cmp_0058,2026-03-01 15:55:00,2026-03-03 06:55:00,high,billing,closed
+tkt_0001049,cmp_0058,2026-04-03 17:33:00,2026-04-07 04:33:00,low,call_quality,closed
+tkt_0001050,cmp_0058,2026-05-10 08:15:00,,medium,billing,open
+tkt_0001051,cmp_0058,2026-05-15 16:30:00,,urgent,billing,open
+tkt_0001052,cmp_0059,2025-11-13 18:24:00,2025-11-14 21:24:00,medium,onboarding,closed
+tkt_0001053,cmp_0059,2025-11-23 10:15:00,,medium,account_admin,open
+tkt_0001054,cmp_0059,2025-12-30 14:46:00,2026-01-02 21:46:00,low,bug,closed
+tkt_0001055,cmp_0059,2026-01-10 10:54:00,,medium,account_admin,open
+tkt_0001056,cmp_0059,2026-02-12 14:00:00,2026-02-17 03:00:00,low,onboarding,closed
+tkt_0001057,cmp_0059,2026-03-18 15:52:00,2026-03-20 02:52:00,high,call_quality,closed
+tkt_0001058,cmp_0059,2026-04-07 15:00:00,2026-04-08 19:00:00,low,onboarding,closed
+tkt_0001059,cmp_0059,2026-05-12 08:56:00,2026-05-12 10:56:00,urgent,account_admin,closed
+tkt_0001060,cmp_0059,2026-05-22 14:32:00,,low,account_admin,open
+tkt_0001061,cmp_0059,2026-06-01 18:52:00,2026-06-03 05:52:00,low,billing,closed
+tkt_0001062,cmp_0059,2026-06-11 12:28:00,2026-06-13 03:28:00,medium,integration,closed
+tkt_0001063,cmp_0060,2026-01-03 16:26:00,2026-01-05 09:26:00,medium,account_admin,closed
+tkt_0001064,cmp_0060,2026-01-04 11:11:00,2026-01-06 17:11:00,medium,bug,closed
+tkt_0001065,cmp_0060,2026-01-04 12:29:00,2026-01-05 08:29:00,low,account_admin,closed
+tkt_0001066,cmp_0060,2026-01-09 12:06:00,2026-01-13 20:06:00,low,call_quality,closed
+tkt_0001067,cmp_0060,2026-03-02 10:45:00,2026-03-02 21:45:00,medium,billing,closed
+tkt_0001068,cmp_0060,2026-03-02 17:46:00,2026-03-06 18:46:00,low,account_admin,closed
+tkt_0001069,cmp_0060,2026-03-03 15:09:00,2026-03-04 07:09:00,urgent,call_quality,closed
+tkt_0001070,cmp_0060,2026-03-13 15:20:00,2026-03-14 03:20:00,low,integration,closed
+tkt_0001071,cmp_0060,2026-03-23 12:18:00,2026-03-25 23:18:00,medium,account_admin,closed
+tkt_0001072,cmp_0060,2026-04-01 16:04:00,2026-04-02 08:04:00,medium,call_quality,closed
+tkt_0001073,cmp_0060,2026-04-09 15:00:00,2026-04-10 23:00:00,high,bug,closed
+tkt_0001074,cmp_0060,2026-04-23 12:36:00,2026-04-24 15:36:00,medium,bug,closed
+tkt_0001075,cmp_0060,2026-04-26 18:17:00,2026-04-28 03:17:00,high,integration,closed
+tkt_0001076,cmp_0060,2026-04-28 18:45:00,,low,account_admin,open
+tkt_0001077,cmp_0060,2026-05-04 16:58:00,2026-05-05 19:58:00,low,integration,closed
+tkt_0001078,cmp_0060,2026-05-17 11:41:00,2026-05-18 22:41:00,low,onboarding,closed
+tkt_0001079,cmp_0060,2026-05-26 17:16:00,2026-05-29 11:16:00,medium,account_admin,closed
+tkt_0001080,cmp_0060,2026-06-24 14:32:00,2026-06-28 02:32:00,low,call_quality,closed
+tkt_0001081,cmp_0061,2026-01-07 18:05:00,2026-01-09 14:05:00,medium,integration,closed
+tkt_0001082,cmp_0061,2026-01-11 13:40:00,2026-01-13 00:40:00,high,feature_request,closed
+tkt_0001083,cmp_0061,2026-01-27 13:27:00,2026-01-29 10:27:00,high,onboarding,closed
+tkt_0001084,cmp_0061,2026-03-03 09:41:00,2026-03-03 21:41:00,medium,bug,closed
+tkt_0001085,cmp_0061,2026-03-05 10:28:00,2026-03-05 16:28:00,medium,account_admin,closed
+tkt_0001086,cmp_0061,2026-03-06 11:58:00,2026-03-10 22:58:00,low,feature_request,closed
+tkt_0001087,cmp_0061,2026-03-06 08:55:00,2026-03-06 16:55:00,medium,bug,closed
+tkt_0001088,cmp_0061,2026-03-08 09:13:00,2026-03-10 00:13:00,medium,account_admin,closed
+tkt_0001089,cmp_0061,2026-03-22 12:07:00,2026-03-24 20:07:00,medium,call_quality,closed
+tkt_0001090,cmp_0061,2026-03-24 13:47:00,2026-03-24 21:47:00,urgent,feature_request,closed
+tkt_0001091,cmp_0061,2026-04-05 10:05:00,2026-04-07 07:05:00,medium,feature_request,closed
+tkt_0001092,cmp_0061,2026-05-04 16:41:00,2026-05-08 12:41:00,low,account_admin,closed
+tkt_0001093,cmp_0061,2026-05-11 15:11:00,2026-05-15 16:11:00,low,integration,closed
+tkt_0001094,cmp_0061,2026-05-14 17:19:00,2026-05-18 12:19:00,low,call_quality,closed
+tkt_0001095,cmp_0061,2026-05-27 14:30:00,2026-05-28 22:30:00,medium,call_quality,closed
+tkt_0001096,cmp_0061,2026-06-09 15:08:00,2026-06-10 08:08:00,low,call_quality,closed
+tkt_0001097,cmp_0062,2025-10-20 12:29:00,2025-10-22 01:29:00,low,billing,closed
+tkt_0001098,cmp_0062,2025-10-21 16:46:00,2025-10-24 20:46:00,low,feature_request,closed
+tkt_0001099,cmp_0062,2025-11-03 09:54:00,2025-11-04 23:54:00,medium,call_quality,closed
+tkt_0001100,cmp_0062,2025-11-04 10:33:00,2025-11-05 17:33:00,high,billing,closed
+tkt_0001101,cmp_0062,2025-11-06 16:51:00,2025-11-07 23:51:00,medium,feature_request,closed
+tkt_0001102,cmp_0062,2025-11-08 18:37:00,,medium,feature_request,open
+tkt_0001103,cmp_0062,2025-11-08 15:02:00,,low,account_admin,open
+tkt_0001104,cmp_0062,2025-11-15 15:00:00,2025-11-17 18:00:00,medium,onboarding,closed
+tkt_0001105,cmp_0062,2025-11-24 14:21:00,2025-11-25 03:21:00,low,account_admin,closed
+tkt_0001106,cmp_0062,2025-11-25 14:57:00,2025-11-26 21:57:00,low,integration,closed
+tkt_0001107,cmp_0062,2025-12-03 14:22:00,2025-12-06 07:22:00,low,billing,closed
+tkt_0001108,cmp_0062,2025-12-06 09:29:00,2025-12-11 05:29:00,low,call_quality,closed
+tkt_0001109,cmp_0062,2025-12-07 08:34:00,2025-12-10 05:34:00,medium,onboarding,closed
+tkt_0001110,cmp_0062,2025-12-07 09:54:00,2025-12-07 11:54:00,high,bug,closed
+tkt_0001111,cmp_0062,2025-12-10 13:28:00,2025-12-12 00:28:00,high,onboarding,closed
+tkt_0001112,cmp_0062,2025-12-12 13:05:00,,low,bug,open
+tkt_0001113,cmp_0062,2025-12-15 17:09:00,2025-12-18 06:09:00,low,account_admin,closed
+tkt_0001114,cmp_0062,2025-12-20 16:55:00,2025-12-22 05:55:00,high,integration,closed
+tkt_0001115,cmp_0062,2025-12-22 10:58:00,2025-12-25 12:58:00,low,integration,closed
+tkt_0001116,cmp_0062,2025-12-23 16:04:00,2025-12-25 03:04:00,medium,call_quality,closed
+tkt_0001117,cmp_0062,2025-12-28 15:08:00,2025-12-29 11:08:00,low,account_admin,closed
+tkt_0001118,cmp_0062,2025-12-30 09:26:00,2026-01-01 00:26:00,medium,call_quality,closed
+tkt_0001119,cmp_0062,2026-01-10 11:46:00,2026-01-14 12:46:00,low,billing,closed
+tkt_0001120,cmp_0062,2026-01-13 17:26:00,2026-01-15 05:26:00,high,billing,closed
+tkt_0001121,cmp_0062,2026-01-14 12:00:00,2026-01-16 07:00:00,low,integration,closed
+tkt_0001122,cmp_0062,2026-01-17 16:53:00,2026-01-19 13:53:00,high,billing,closed
+tkt_0001123,cmp_0062,2026-01-18 17:40:00,2026-01-21 09:40:00,medium,account_admin,closed
+tkt_0001124,cmp_0062,2026-01-19 12:54:00,2026-01-21 10:54:00,medium,feature_request,closed
+tkt_0001125,cmp_0062,2026-01-20 18:11:00,,high,integration,open
+tkt_0001126,cmp_0062,2026-01-22 08:59:00,2026-01-24 06:59:00,medium,feature_request,closed
+tkt_0001127,cmp_0062,2026-01-31 16:40:00,,medium,call_quality,open
+tkt_0001128,cmp_0062,2026-02-01 12:55:00,2026-02-04 02:55:00,low,billing,closed
+tkt_0001129,cmp_0062,2026-02-07 08:37:00,2026-02-09 05:37:00,low,bug,closed
+tkt_0001130,cmp_0062,2026-02-07 12:05:00,2026-02-09 18:05:00,low,integration,closed
+tkt_0001131,cmp_0062,2026-02-07 11:29:00,2026-02-08 05:29:00,low,call_quality,closed
+tkt_0001132,cmp_0062,2026-02-08 11:15:00,2026-02-09 14:15:00,medium,account_admin,closed
+tkt_0001133,cmp_0062,2026-02-11 11:22:00,2026-02-11 19:22:00,medium,call_quality,closed
+tkt_0001134,cmp_0062,2026-02-14 08:17:00,2026-02-17 16:17:00,low,onboarding,closed
+tkt_0001135,cmp_0062,2026-02-17 10:25:00,2026-02-18 19:25:00,high,bug,closed
+tkt_0001136,cmp_0062,2026-02-19 14:26:00,2026-02-23 10:26:00,low,account_admin,closed
+tkt_0001137,cmp_0062,2026-02-19 14:36:00,2026-02-22 03:36:00,medium,call_quality,closed
+tkt_0001138,cmp_0062,2026-02-22 13:55:00,2026-02-26 07:55:00,low,account_admin,closed
+tkt_0001139,cmp_0062,2026-03-05 18:48:00,2026-03-07 21:48:00,medium,account_admin,closed
+tkt_0001140,cmp_0062,2026-03-05 14:45:00,2026-03-06 09:45:00,low,bug,closed
+tkt_0001141,cmp_0062,2026-03-08 13:35:00,,low,integration,open
+tkt_0001142,cmp_0062,2026-03-10 09:31:00,2026-03-11 18:31:00,medium,feature_request,closed
+tkt_0001143,cmp_0062,2026-03-11 15:51:00,2026-03-13 00:51:00,low,integration,closed
+tkt_0001144,cmp_0062,2026-03-29 08:45:00,2026-03-29 23:45:00,urgent,account_admin,closed
+tkt_0001145,cmp_0062,2026-03-31 13:38:00,2026-04-01 00:38:00,medium,integration,closed
+tkt_0001146,cmp_0062,2026-04-02 08:18:00,2026-04-04 14:18:00,low,feature_request,closed
+tkt_0001147,cmp_0062,2026-04-04 17:49:00,2026-04-07 08:49:00,low,bug,closed
+tkt_0001148,cmp_0062,2026-04-05 16:33:00,,medium,integration,open
+tkt_0001149,cmp_0062,2026-04-05 11:51:00,,medium,feature_request,open
+tkt_0001150,cmp_0062,2026-04-12 16:22:00,,high,billing,open
+tkt_0001151,cmp_0062,2026-04-15 13:21:00,2026-04-18 08:21:00,medium,account_admin,closed
+tkt_0001152,cmp_0062,2026-04-17 10:55:00,2026-04-19 12:55:00,low,billing,closed
+tkt_0001153,cmp_0062,2026-04-19 15:20:00,2026-04-21 05:20:00,low,billing,closed
+tkt_0001154,cmp_0062,2026-04-20 17:53:00,2026-04-22 07:53:00,high,call_quality,closed
+tkt_0001155,cmp_0062,2026-04-23 08:27:00,2026-04-26 05:27:00,medium,onboarding,closed
+tkt_0001156,cmp_0062,2026-04-23 08:14:00,2026-04-25 06:14:00,medium,billing,closed
+tkt_0001157,cmp_0062,2026-04-27 17:33:00,2026-04-28 11:33:00,high,integration,closed
+tkt_0001158,cmp_0062,2026-05-05 16:07:00,2026-05-07 15:07:00,medium,bug,closed
+tkt_0001159,cmp_0062,2026-05-13 08:20:00,,medium,account_admin,open
+tkt_0001160,cmp_0062,2026-05-13 14:20:00,,low,integration,open
+tkt_0001161,cmp_0062,2026-05-15 15:26:00,2026-05-18 16:26:00,low,account_admin,closed
+tkt_0001162,cmp_0062,2026-05-19 09:15:00,,high,billing,open
+tkt_0001163,cmp_0062,2026-05-20 12:38:00,,medium,bug,open
+tkt_0001164,cmp_0062,2026-06-10 08:36:00,2026-06-11 10:36:00,medium,integration,closed
+tkt_0001165,cmp_0062,2026-06-20 12:49:00,2026-06-22 14:49:00,low,billing,closed
+tkt_0001166,cmp_0062,2026-06-23 10:43:00,2026-06-26 09:43:00,medium,onboarding,closed
+tkt_0001167,cmp_0062,2026-06-24 10:05:00,2026-06-24 18:05:00,high,billing,closed
+tkt_0001168,cmp_0063,2026-02-26 15:53:00,2026-02-28 23:53:00,low,bug,closed
+tkt_0001169,cmp_0063,2026-02-27 18:35:00,2026-03-01 04:35:00,high,integration,closed
+tkt_0001170,cmp_0063,2026-03-09 15:45:00,,low,onboarding,open
+tkt_0001171,cmp_0063,2026-03-12 18:21:00,2026-03-13 09:21:00,high,integration,closed
+tkt_0001172,cmp_0063,2026-03-16 11:07:00,2026-03-17 04:07:00,medium,integration,closed
+tkt_0001173,cmp_0063,2026-03-22 10:36:00,2026-03-23 07:36:00,medium,call_quality,closed
+tkt_0001174,cmp_0063,2026-04-04 13:15:00,2026-04-05 13:15:00,low,account_admin,closed
+tkt_0001175,cmp_0063,2026-04-05 17:48:00,2026-04-06 21:48:00,high,onboarding,closed
+tkt_0001176,cmp_0063,2026-04-06 13:48:00,2026-04-08 14:48:00,medium,billing,closed
+tkt_0001177,cmp_0063,2026-04-10 14:39:00,2026-04-10 21:39:00,medium,integration,closed
+tkt_0001178,cmp_0063,2026-04-12 10:23:00,2026-04-13 01:23:00,medium,call_quality,closed
+tkt_0001179,cmp_0063,2026-04-25 18:56:00,2026-04-27 02:56:00,high,feature_request,closed
+tkt_0001180,cmp_0063,2026-05-13 09:06:00,2026-05-14 03:06:00,high,billing,closed
+tkt_0001181,cmp_0063,2026-05-21 18:21:00,2026-05-23 11:21:00,high,feature_request,closed
+tkt_0001182,cmp_0063,2026-06-02 13:52:00,2026-06-03 00:52:00,medium,call_quality,closed
+tkt_0001183,cmp_0063,2026-06-07 12:19:00,2026-06-07 18:19:00,medium,integration,closed
+tkt_0001184,cmp_0063,2026-06-07 11:15:00,,low,billing,open
+tkt_0001185,cmp_0063,2026-06-09 09:53:00,2026-06-11 01:53:00,medium,feature_request,closed
+tkt_0001186,cmp_0063,2026-06-23 17:11:00,2026-06-26 00:11:00,low,bug,closed
+tkt_0001187,cmp_0064,2025-12-06 13:02:00,2025-12-08 13:02:00,high,call_quality,closed
+tkt_0001188,cmp_0064,2025-12-08 13:24:00,2025-12-10 08:24:00,medium,feature_request,closed
+tkt_0001189,cmp_0064,2025-12-13 09:33:00,2025-12-16 00:33:00,medium,onboarding,closed
+tkt_0001190,cmp_0064,2025-12-16 13:04:00,2025-12-18 22:04:00,low,billing,closed
+tkt_0001191,cmp_0064,2025-12-26 17:54:00,2025-12-26 21:54:00,high,bug,closed
+tkt_0001192,cmp_0064,2025-12-28 14:11:00,2025-12-31 07:11:00,medium,integration,closed
+tkt_0001193,cmp_0064,2025-12-30 18:58:00,2026-01-03 13:58:00,low,call_quality,closed
+tkt_0001194,cmp_0064,2025-12-31 18:45:00,2026-01-04 17:45:00,low,feature_request,closed
+tkt_0001195,cmp_0064,2026-01-16 11:57:00,2026-01-20 03:57:00,low,feature_request,closed
+tkt_0001196,cmp_0064,2026-02-01 17:05:00,2026-02-03 23:05:00,medium,integration,closed
+tkt_0001197,cmp_0064,2026-02-07 09:05:00,2026-02-08 15:05:00,low,integration,closed
+tkt_0001198,cmp_0064,2026-02-15 14:19:00,2026-02-17 12:19:00,medium,call_quality,closed
+tkt_0001199,cmp_0064,2026-02-24 15:39:00,2026-02-27 13:39:00,low,feature_request,closed
+tkt_0001200,cmp_0064,2026-03-03 11:54:00,2026-03-06 03:54:00,low,billing,closed
+tkt_0001201,cmp_0064,2026-03-22 11:30:00,2026-03-23 07:30:00,medium,onboarding,closed
+tkt_0001202,cmp_0064,2026-03-24 18:32:00,2026-03-25 09:32:00,high,billing,closed
+tkt_0001203,cmp_0064,2026-04-05 08:24:00,2026-04-06 13:24:00,high,billing,closed
+tkt_0001204,cmp_0064,2026-04-08 15:09:00,,low,onboarding,open
+tkt_0001205,cmp_0064,2026-04-11 08:55:00,2026-04-14 23:55:00,low,integration,closed
+tkt_0001206,cmp_0064,2026-04-19 18:38:00,2026-04-21 05:38:00,high,feature_request,closed
+tkt_0001207,cmp_0064,2026-04-21 10:08:00,2026-04-22 23:08:00,medium,call_quality,closed
+tkt_0001208,cmp_0064,2026-04-25 10:28:00,2026-04-30 00:28:00,low,integration,closed
+tkt_0001209,cmp_0064,2026-05-08 12:48:00,2026-05-11 21:48:00,low,call_quality,closed
+tkt_0001210,cmp_0064,2026-05-10 10:58:00,2026-05-12 21:58:00,low,call_quality,closed
+tkt_0001211,cmp_0064,2026-05-10 10:20:00,2026-05-12 01:20:00,medium,call_quality,closed
+tkt_0001212,cmp_0064,2026-05-11 16:23:00,2026-05-16 13:23:00,low,billing,closed
+tkt_0001213,cmp_0064,2026-05-13 13:31:00,2026-05-14 21:31:00,low,feature_request,closed
+tkt_0001214,cmp_0064,2026-05-18 10:55:00,2026-05-19 12:55:00,medium,account_admin,closed
+tkt_0001215,cmp_0064,2026-06-10 16:36:00,2026-06-10 21:36:00,urgent,billing,closed
+tkt_0001216,cmp_0064,2026-06-16 13:34:00,2026-06-17 16:34:00,medium,onboarding,closed
+tkt_0001217,cmp_0064,2026-06-20 14:03:00,2026-06-21 10:03:00,low,integration,closed
+tkt_0001218,cmp_0065,2026-03-04 14:36:00,2026-03-07 01:36:00,low,integration,closed
+tkt_0001219,cmp_0065,2026-04-02 17:01:00,2026-04-03 04:01:00,medium,bug,closed
+tkt_0001220,cmp_0065,2026-04-06 14:49:00,2026-04-07 19:49:00,low,onboarding,closed
+tkt_0001221,cmp_0065,2026-04-25 18:31:00,2026-04-29 19:31:00,low,account_admin,closed
+tkt_0001222,cmp_0066,2026-01-31 16:39:00,2026-02-01 15:39:00,low,call_quality,closed
+tkt_0001223,cmp_0066,2026-02-09 11:21:00,2026-02-10 22:21:00,low,onboarding,closed
+tkt_0001224,cmp_0066,2026-02-21 08:29:00,2026-02-23 02:29:00,medium,billing,closed
+tkt_0001225,cmp_0066,2026-03-13 17:28:00,2026-03-14 17:28:00,medium,billing,closed
+tkt_0001226,cmp_0066,2026-03-17 14:13:00,2026-03-17 21:13:00,medium,bug,closed
+tkt_0001227,cmp_0066,2026-03-22 14:07:00,2026-03-27 02:07:00,low,feature_request,closed
+tkt_0001228,cmp_0066,2026-04-03 16:29:00,,medium,call_quality,open
+tkt_0001229,cmp_0066,2026-04-05 10:08:00,2026-04-05 22:08:00,medium,feature_request,closed
+tkt_0001230,cmp_0066,2026-04-06 13:53:00,2026-04-06 22:53:00,urgent,onboarding,closed
+tkt_0001231,cmp_0066,2026-04-20 11:54:00,2026-04-22 22:54:00,medium,feature_request,closed
+tkt_0001232,cmp_0066,2026-04-28 10:03:00,2026-05-02 02:03:00,low,call_quality,closed
+tkt_0001233,cmp_0066,2026-04-28 09:20:00,2026-05-01 02:20:00,medium,bug,closed
+tkt_0001234,cmp_0066,2026-05-13 15:43:00,2026-05-14 07:43:00,low,integration,closed
+tkt_0001235,cmp_0066,2026-05-27 13:55:00,2026-05-27 21:55:00,urgent,bug,closed
+tkt_0001236,cmp_0066,2026-05-27 08:36:00,2026-05-30 11:36:00,low,feature_request,closed
+tkt_0001237,cmp_0066,2026-05-27 09:57:00,2026-05-28 11:57:00,high,billing,closed
+tkt_0001238,cmp_0066,2026-06-04 16:07:00,2026-06-04 23:07:00,urgent,call_quality,closed
+tkt_0001239,cmp_0066,2026-06-13 18:16:00,2026-06-14 16:16:00,medium,bug,closed
+tkt_0001240,cmp_0066,2026-06-16 09:39:00,2026-06-20 02:39:00,low,integration,closed
+tkt_0001241,cmp_0067,2025-12-17 13:34:00,,high,billing,open
+tkt_0001242,cmp_0067,2025-12-17 10:06:00,2025-12-18 07:06:00,high,feature_request,closed
+tkt_0001243,cmp_0067,2025-12-17 16:26:00,2025-12-19 04:26:00,low,account_admin,closed
+tkt_0001244,cmp_0067,2025-12-23 10:14:00,,urgent,billing,open
+tkt_0001245,cmp_0067,2026-01-01 11:11:00,2026-01-04 15:11:00,low,bug,closed
+tkt_0001246,cmp_0067,2026-01-05 18:20:00,2026-01-05 19:20:00,urgent,onboarding,closed
+tkt_0001247,cmp_0067,2026-01-06 13:37:00,2026-01-09 06:37:00,medium,call_quality,closed
+tkt_0001248,cmp_0067,2026-01-17 09:25:00,2026-01-18 12:25:00,low,bug,closed
+tkt_0001249,cmp_0067,2026-01-21 15:19:00,,low,call_quality,open
+tkt_0001250,cmp_0067,2026-01-27 11:58:00,2026-01-29 19:58:00,low,integration,closed
+tkt_0001251,cmp_0067,2026-01-28 12:43:00,2026-01-31 08:43:00,low,feature_request,closed
+tkt_0001252,cmp_0067,2026-02-06 18:10:00,2026-02-06 21:10:00,high,billing,closed
+tkt_0001253,cmp_0067,2026-02-08 17:26:00,2026-02-09 07:26:00,urgent,call_quality,closed
+tkt_0001254,cmp_0067,2026-02-09 14:36:00,2026-02-12 12:36:00,medium,onboarding,closed
+tkt_0001255,cmp_0067,2026-02-14 10:57:00,2026-02-15 18:57:00,medium,integration,closed
+tkt_0001256,cmp_0067,2026-03-23 15:08:00,2026-03-25 13:08:00,high,billing,closed
+tkt_0001257,cmp_0067,2026-04-08 10:19:00,2026-04-08 23:19:00,high,account_admin,closed
+tkt_0001258,cmp_0067,2026-04-16 12:29:00,2026-04-17 10:29:00,medium,integration,closed
+tkt_0001259,cmp_0067,2026-05-06 18:39:00,2026-05-08 17:39:00,medium,bug,closed
+tkt_0001260,cmp_0067,2026-05-12 15:00:00,,low,onboarding,open
+tkt_0001261,cmp_0067,2026-05-25 09:39:00,2026-05-26 12:39:00,high,call_quality,closed
+tkt_0001262,cmp_0067,2026-05-27 15:04:00,2026-05-27 16:04:00,urgent,call_quality,closed
+tkt_0001263,cmp_0068,2026-03-24 11:26:00,2026-03-26 13:26:00,low,feature_request,closed
+tkt_0001264,cmp_0068,2026-03-29 13:39:00,2026-04-01 00:39:00,medium,call_quality,closed
+tkt_0001265,cmp_0068,2026-04-15 08:58:00,2026-04-18 07:58:00,low,feature_request,closed
+tkt_0001266,cmp_0068,2026-04-24 12:11:00,2026-04-28 11:11:00,low,bug,closed
+tkt_0001267,cmp_0068,2026-04-24 15:38:00,2026-04-27 06:38:00,low,integration,closed
+tkt_0001268,cmp_0068,2026-05-13 12:15:00,2026-05-14 10:15:00,medium,integration,closed
+tkt_0001269,cmp_0068,2026-06-06 18:19:00,2026-06-07 12:19:00,urgent,feature_request,closed
+tkt_0001270,cmp_0069,2025-12-03 15:14:00,2025-12-05 20:14:00,low,call_quality,closed
+tkt_0001271,cmp_0069,2025-12-09 14:25:00,2025-12-11 09:25:00,medium,onboarding,closed
+tkt_0001272,cmp_0069,2025-12-20 09:58:00,,medium,bug,open
+tkt_0001273,cmp_0069,2025-12-23 09:47:00,2025-12-23 19:47:00,high,billing,closed
+tkt_0001274,cmp_0069,2025-12-29 11:24:00,2025-12-30 00:24:00,low,integration,closed
+tkt_0001275,cmp_0069,2026-01-15 16:48:00,2026-01-20 11:48:00,low,feature_request,closed
+tkt_0001276,cmp_0069,2026-01-15 09:35:00,2026-01-17 16:35:00,medium,bug,closed
+tkt_0001277,cmp_0069,2026-01-20 14:53:00,2026-01-22 01:53:00,medium,integration,closed
+tkt_0001278,cmp_0069,2026-01-21 08:32:00,2026-01-21 20:32:00,medium,integration,closed
+tkt_0001279,cmp_0069,2026-02-01 17:06:00,2026-02-03 10:06:00,medium,bug,closed
+tkt_0001280,cmp_0069,2026-02-04 17:32:00,2026-02-06 05:32:00,low,feature_request,closed
+tkt_0001281,cmp_0069,2026-02-13 17:38:00,2026-02-13 23:38:00,urgent,onboarding,closed
+tkt_0001282,cmp_0069,2026-02-20 18:54:00,2026-02-25 14:54:00,low,bug,closed
+tkt_0001283,cmp_0069,2026-02-28 10:18:00,2026-02-28 17:18:00,medium,billing,closed
+tkt_0001284,cmp_0069,2026-03-16 18:58:00,2026-03-20 04:58:00,low,integration,closed
+tkt_0001285,cmp_0069,2026-03-20 10:16:00,2026-03-21 21:16:00,high,onboarding,closed
+tkt_0001286,cmp_0069,2026-04-09 11:32:00,2026-04-09 19:32:00,high,integration,closed
+tkt_0001287,cmp_0069,2026-04-16 16:03:00,2026-04-18 14:03:00,medium,call_quality,closed
+tkt_0001288,cmp_0069,2026-04-19 11:35:00,2026-04-22 10:35:00,medium,bug,closed
+tkt_0001289,cmp_0069,2026-04-21 14:03:00,2026-04-25 03:03:00,low,bug,closed
+tkt_0001290,cmp_0069,2026-04-21 14:56:00,2026-04-23 04:56:00,high,account_admin,closed
+tkt_0001291,cmp_0069,2026-04-22 16:38:00,2026-04-23 09:38:00,high,integration,closed
+tkt_0001292,cmp_0069,2026-06-04 12:55:00,2026-06-05 07:55:00,high,call_quality,closed
+tkt_0001293,cmp_0069,2026-06-04 08:49:00,2026-06-05 12:49:00,high,billing,closed
+tkt_0001294,cmp_0069,2026-06-14 13:59:00,2026-06-14 19:59:00,high,call_quality,closed
+tkt_0001295,cmp_0069,2026-06-16 08:24:00,2026-06-19 09:24:00,low,onboarding,closed
+tkt_0001296,cmp_0070,2026-03-13 12:31:00,2026-03-14 10:31:00,low,feature_request,closed
+tkt_0001297,cmp_0070,2026-03-25 10:16:00,2026-03-28 19:16:00,low,call_quality,closed
+tkt_0001298,cmp_0070,2026-06-05 18:45:00,2026-06-10 05:45:00,low,integration,closed
+tkt_0001299,cmp_0071,2025-11-09 08:57:00,,urgent,bug,open
+tkt_0001300,cmp_0071,2025-11-19 18:11:00,2025-11-24 15:11:00,low,call_quality,closed
+tkt_0001301,cmp_0071,2025-12-11 15:00:00,,medium,account_admin,open
+tkt_0001302,cmp_0071,2025-12-14 11:15:00,2025-12-15 12:15:00,high,integration,closed
+tkt_0001303,cmp_0071,2025-12-18 10:47:00,2025-12-23 08:47:00,low,feature_request,closed
+tkt_0001304,cmp_0071,2025-12-22 17:47:00,2025-12-26 16:47:00,low,onboarding,closed
+tkt_0001305,cmp_0071,2026-01-10 12:47:00,2026-01-12 07:47:00,high,feature_request,closed
+tkt_0001306,cmp_0071,2026-01-11 09:19:00,2026-01-14 15:19:00,low,account_admin,closed
+tkt_0001307,cmp_0071,2026-01-23 11:33:00,2026-01-24 01:33:00,low,account_admin,closed
+tkt_0001308,cmp_0071,2026-02-09 17:10:00,2026-02-11 05:10:00,medium,account_admin,closed
+tkt_0001309,cmp_0071,2026-02-11 10:35:00,2026-02-13 03:35:00,low,billing,closed
+tkt_0001310,cmp_0071,2026-02-16 15:32:00,2026-02-18 14:32:00,low,bug,closed
+tkt_0001311,cmp_0071,2026-02-17 09:01:00,2026-02-19 08:01:00,high,account_admin,closed
+tkt_0001312,cmp_0071,2026-02-28 18:05:00,2026-03-03 20:05:00,low,integration,closed
+tkt_0001313,cmp_0071,2026-02-28 15:49:00,2026-03-03 09:49:00,medium,bug,closed
+tkt_0001314,cmp_0071,2026-03-06 08:02:00,,low,onboarding,open
+tkt_0001315,cmp_0071,2026-03-09 17:36:00,2026-03-12 02:36:00,low,bug,closed
+tkt_0001316,cmp_0071,2026-03-10 13:35:00,,medium,integration,open
+tkt_0001317,cmp_0071,2026-03-28 14:18:00,2026-03-29 19:18:00,medium,integration,closed
+tkt_0001318,cmp_0071,2026-04-09 11:04:00,2026-04-12 10:04:00,medium,bug,closed
+tkt_0001319,cmp_0071,2026-05-04 10:14:00,2026-05-05 23:14:00,medium,onboarding,closed
+tkt_0001320,cmp_0071,2026-05-05 18:36:00,2026-05-07 08:36:00,low,call_quality,closed
+tkt_0001321,cmp_0071,2026-05-25 12:44:00,2026-05-29 10:44:00,low,call_quality,closed
+tkt_0001322,cmp_0071,2026-06-20 13:52:00,2026-06-25 01:52:00,low,billing,closed
+tkt_0001323,cmp_0072,2025-11-24 16:41:00,2025-11-25 21:41:00,high,bug,closed
+tkt_0001324,cmp_0072,2026-01-09 18:29:00,,low,bug,open
+tkt_0001325,cmp_0072,2026-02-13 17:59:00,2026-02-14 00:59:00,high,call_quality,closed
+tkt_0001326,cmp_0072,2026-03-18 14:18:00,2026-03-19 19:18:00,low,feature_request,closed
+tkt_0001327,cmp_0072,2026-04-29 08:49:00,2026-05-01 13:49:00,medium,billing,closed
+tkt_0001328,cmp_0072,2026-05-21 11:50:00,2026-05-23 06:50:00,high,integration,closed
+tkt_0001329,cmp_0072,2026-05-27 18:22:00,2026-05-30 05:22:00,low,feature_request,closed
+tkt_0001330,cmp_0072,2026-05-31 14:26:00,2026-06-04 05:26:00,low,account_admin,closed
+tkt_0001331,cmp_0072,2026-06-16 14:05:00,2026-06-17 04:05:00,low,account_admin,closed
+tkt_0001332,cmp_0072,2026-06-21 12:33:00,2026-06-25 00:33:00,low,account_admin,closed
+tkt_0001333,cmp_0073,2025-11-13 14:54:00,2025-11-14 05:54:00,urgent,billing,closed
+tkt_0001334,cmp_0073,2025-11-18 17:09:00,2025-11-20 23:09:00,low,account_admin,closed
+tkt_0001335,cmp_0073,2025-11-19 14:41:00,2025-11-19 19:41:00,urgent,account_admin,closed
+tkt_0001336,cmp_0073,2025-11-27 12:56:00,2025-11-28 11:56:00,medium,feature_request,closed
+tkt_0001337,cmp_0073,2025-11-28 10:36:00,2025-11-29 00:36:00,high,billing,closed
+tkt_0001338,cmp_0073,2025-12-02 17:14:00,2025-12-02 22:14:00,high,integration,closed
+tkt_0001339,cmp_0073,2025-12-03 17:10:00,2025-12-04 17:10:00,medium,onboarding,closed
+tkt_0001340,cmp_0073,2025-12-15 13:55:00,2025-12-16 02:55:00,medium,billing,closed
+tkt_0001341,cmp_0073,2025-12-24 15:58:00,2025-12-29 15:58:00,low,account_admin,closed
+tkt_0001342,cmp_0073,2026-01-01 12:23:00,2026-01-03 07:23:00,medium,integration,closed
+tkt_0001343,cmp_0073,2026-01-11 14:00:00,2026-01-15 13:00:00,low,feature_request,closed
+tkt_0001344,cmp_0073,2026-01-14 14:10:00,2026-01-17 23:10:00,low,integration,closed
+tkt_0001345,cmp_0073,2026-01-21 14:18:00,2026-01-22 09:18:00,low,onboarding,closed
+tkt_0001346,cmp_0073,2026-01-28 13:59:00,2026-01-30 07:59:00,medium,call_quality,closed
+tkt_0001347,cmp_0073,2026-01-30 10:20:00,2026-02-02 10:20:00,medium,bug,closed
+tkt_0001348,cmp_0073,2026-02-09 12:04:00,,medium,bug,open
+tkt_0001349,cmp_0073,2026-03-04 17:34:00,,medium,bug,open
+tkt_0001350,cmp_0073,2026-03-07 14:01:00,2026-03-12 12:01:00,low,onboarding,closed
+tkt_0001351,cmp_0073,2026-03-08 18:01:00,2026-03-09 02:01:00,high,account_admin,closed
+tkt_0001352,cmp_0073,2026-03-19 09:46:00,2026-03-21 12:46:00,low,integration,closed
+tkt_0001353,cmp_0073,2026-04-04 17:47:00,2026-04-05 04:47:00,high,onboarding,closed
+tkt_0001354,cmp_0073,2026-04-04 18:32:00,2026-04-04 20:32:00,high,billing,closed
+tkt_0001355,cmp_0073,2026-05-27 14:52:00,2026-06-01 01:52:00,low,account_admin,closed
+tkt_0001356,cmp_0073,2026-05-31 18:27:00,2026-06-05 00:27:00,low,call_quality,closed
+tkt_0001357,cmp_0073,2026-06-05 13:34:00,2026-06-09 07:34:00,low,onboarding,closed
+tkt_0001358,cmp_0073,2026-06-17 10:50:00,2026-06-22 02:50:00,low,call_quality,closed
+tkt_0001359,cmp_0073,2026-06-19 08:15:00,2026-06-21 03:15:00,low,account_admin,closed
+tkt_0001360,cmp_0074,2026-05-20 09:58:00,2026-05-20 12:58:00,urgent,account_admin,closed
+tkt_0001361,cmp_0074,2026-06-14 12:55:00,2026-06-15 16:55:00,high,integration,closed
+tkt_0001362,cmp_0074,2026-06-20 09:41:00,2026-06-21 17:41:00,medium,billing,closed
+tkt_0001363,cmp_0075,2026-04-13 15:09:00,2026-04-14 08:09:00,low,bug,closed
+tkt_0001364,cmp_0075,2026-04-13 09:32:00,2026-04-14 16:32:00,high,account_admin,closed
+tkt_0001365,cmp_0075,2026-05-03 12:42:00,2026-05-04 06:42:00,low,account_admin,closed
+tkt_0001366,cmp_0075,2026-05-04 13:31:00,2026-05-05 17:31:00,low,bug,closed
+tkt_0001367,cmp_0075,2026-05-17 13:07:00,2026-05-20 04:07:00,low,integration,closed
+tkt_0001368,cmp_0075,2026-05-19 11:55:00,2026-05-20 21:55:00,medium,account_admin,closed
+tkt_0001369,cmp_0075,2026-05-21 14:38:00,2026-05-26 08:38:00,low,bug,closed
+tkt_0001370,cmp_0075,2026-05-21 16:58:00,2026-05-24 10:58:00,medium,billing,closed
+tkt_0001371,cmp_0075,2026-06-18 15:46:00,,medium,call_quality,open
+tkt_0001372,cmp_0076,2026-01-21 17:12:00,2026-01-25 20:12:00,low,integration,closed
+tkt_0001373,cmp_0076,2026-01-26 08:34:00,2026-01-27 02:34:00,low,bug,closed
+tkt_0001374,cmp_0076,2026-02-25 15:59:00,,urgent,feature_request,open
+tkt_0001375,cmp_0076,2026-02-28 08:48:00,2026-03-03 18:48:00,low,onboarding,closed
+tkt_0001376,cmp_0076,2026-02-28 17:47:00,2026-03-01 00:47:00,medium,account_admin,closed
+tkt_0001377,cmp_0076,2026-03-04 16:10:00,2026-03-08 14:10:00,low,account_admin,closed
+tkt_0001378,cmp_0076,2026-03-15 09:27:00,2026-03-16 08:27:00,high,call_quality,closed
+tkt_0001379,cmp_0076,2026-03-23 11:58:00,2026-03-28 10:58:00,low,onboarding,closed
+tkt_0001380,cmp_0076,2026-03-25 09:15:00,2026-03-27 15:15:00,low,billing,closed
+tkt_0001381,cmp_0076,2026-03-28 17:12:00,2026-03-29 18:12:00,high,account_admin,closed
+tkt_0001382,cmp_0076,2026-03-29 15:40:00,2026-03-30 12:40:00,low,billing,closed
+tkt_0001383,cmp_0076,2026-04-01 16:44:00,2026-04-02 14:44:00,low,account_admin,closed
+tkt_0001384,cmp_0076,2026-04-15 18:16:00,2026-04-16 04:16:00,high,onboarding,closed
+tkt_0001385,cmp_0076,2026-04-23 08:17:00,2026-04-25 22:17:00,medium,account_admin,closed
+tkt_0001386,cmp_0076,2026-04-26 14:13:00,2026-04-26 20:13:00,urgent,call_quality,closed
+tkt_0001387,cmp_0076,2026-04-29 09:39:00,2026-04-30 19:39:00,medium,call_quality,closed
+tkt_0001388,cmp_0076,2026-05-11 18:12:00,2026-05-13 10:12:00,low,account_admin,closed
+tkt_0001389,cmp_0076,2026-05-15 18:01:00,2026-05-19 08:01:00,low,account_admin,closed
+tkt_0001390,cmp_0076,2026-05-15 12:08:00,2026-05-17 22:08:00,low,account_admin,closed
+tkt_0001391,cmp_0076,2026-05-25 15:26:00,2026-05-27 04:26:00,high,account_admin,closed
+tkt_0001392,cmp_0076,2026-05-27 09:17:00,,low,call_quality,open
+tkt_0001393,cmp_0076,2026-05-31 10:49:00,2026-06-03 02:49:00,medium,call_quality,closed
+tkt_0001394,cmp_0076,2026-06-13 12:47:00,2026-06-15 06:47:00,medium,billing,closed
+tkt_0001395,cmp_0078,2025-10-21 12:45:00,2025-10-21 18:45:00,medium,account_admin,closed
+tkt_0001396,cmp_0078,2025-10-30 12:51:00,2025-11-04 12:51:00,low,account_admin,closed
+tkt_0001397,cmp_0078,2025-11-02 08:35:00,2025-11-03 02:35:00,urgent,onboarding,closed
+tkt_0001398,cmp_0078,2026-01-05 09:49:00,2026-01-06 03:49:00,medium,billing,closed
+tkt_0001399,cmp_0078,2026-01-05 09:33:00,2026-01-05 19:33:00,medium,call_quality,closed
+tkt_0001400,cmp_0078,2026-01-25 10:12:00,2026-01-26 00:12:00,medium,onboarding,closed
+tkt_0001401,cmp_0078,2026-02-28 08:08:00,2026-03-02 13:08:00,medium,feature_request,closed
+tkt_0001402,cmp_0078,2026-04-16 11:53:00,2026-04-18 12:53:00,medium,onboarding,closed
+tkt_0001403,cmp_0078,2026-05-12 09:48:00,2026-05-15 07:48:00,low,feature_request,closed
+tkt_0001404,cmp_0078,2026-05-16 17:51:00,2026-05-17 09:51:00,urgent,feature_request,closed
+tkt_0001405,cmp_0078,2026-05-17 17:14:00,2026-05-21 15:14:00,low,integration,closed
+tkt_0001406,cmp_0078,2026-05-19 09:09:00,2026-05-22 07:09:00,medium,call_quality,closed
+tkt_0001407,cmp_0079,2025-12-07 10:00:00,2025-12-10 02:00:00,medium,call_quality,closed
+tkt_0001408,cmp_0079,2026-02-03 13:03:00,2026-02-03 20:03:00,medium,bug,closed
+tkt_0001409,cmp_0079,2026-02-09 15:34:00,2026-02-13 14:34:00,low,call_quality,closed
+tkt_0001410,cmp_0079,2026-02-13 10:05:00,2026-02-14 04:05:00,low,account_admin,closed
+tkt_0001411,cmp_0079,2026-02-20 11:42:00,2026-02-22 05:42:00,low,call_quality,closed
+tkt_0001412,cmp_0079,2026-03-01 14:49:00,2026-03-02 08:49:00,low,account_admin,closed
+tkt_0001413,cmp_0079,2026-03-20 10:09:00,2026-03-21 17:09:00,medium,billing,closed
+tkt_0001414,cmp_0079,2026-03-30 16:51:00,2026-04-01 22:51:00,medium,bug,closed
+tkt_0001415,cmp_0079,2026-06-03 12:35:00,2026-06-04 23:35:00,high,feature_request,closed
+tkt_0001416,cmp_0079,2026-06-17 09:28:00,2026-06-17 16:28:00,urgent,integration,closed
+tkt_0001417,cmp_0080,2025-10-07 16:48:00,2025-10-11 20:48:00,low,account_admin,closed
+tkt_0001418,cmp_0080,2026-01-11 08:02:00,2026-01-13 02:02:00,medium,billing,closed
+tkt_0001419,cmp_0080,2026-01-20 17:09:00,2026-01-22 20:09:00,medium,bug,closed
+tkt_0001420,cmp_0080,2026-01-22 18:33:00,2026-01-25 21:33:00,low,billing,closed
+tkt_0001421,cmp_0080,2026-02-20 13:54:00,2026-02-24 20:54:00,low,account_admin,closed
+tkt_0001422,cmp_0080,2026-03-25 13:26:00,2026-03-25 15:26:00,urgent,onboarding,closed
+tkt_0001423,cmp_0080,2026-04-18 16:54:00,2026-04-20 22:54:00,medium,feature_request,closed
+tkt_0001424,cmp_0080,2026-04-22 15:16:00,2026-04-24 09:16:00,medium,account_admin,closed
+tkt_0001425,cmp_0080,2026-04-24 14:01:00,2026-04-26 00:01:00,medium,account_admin,closed
+tkt_0001426,cmp_0080,2026-05-15 12:43:00,2026-05-16 20:43:00,low,call_quality,closed
+tkt_0001427,cmp_0080,2026-05-16 11:36:00,2026-05-19 07:36:00,medium,call_quality,closed
+tkt_0001428,cmp_0080,2026-05-18 16:38:00,2026-05-22 01:38:00,low,billing,closed
+tkt_0001429,cmp_0080,2026-05-27 15:21:00,2026-05-29 11:21:00,high,account_admin,closed
+tkt_0001430,cmp_0081,2025-12-17 15:07:00,2025-12-18 10:07:00,medium,billing,closed
+tkt_0001431,cmp_0081,2026-03-06 10:30:00,2026-03-08 03:30:00,high,call_quality,closed
+tkt_0001432,cmp_0081,2026-04-07 10:27:00,2026-04-09 05:27:00,low,integration,closed
+tkt_0001433,cmp_0081,2026-06-07 09:05:00,2026-06-10 23:05:00,low,integration,closed
+tkt_0001434,cmp_0082,2026-04-08 09:41:00,2026-04-09 17:41:00,low,onboarding,closed
+tkt_0001435,cmp_0082,2026-04-24 08:06:00,2026-04-28 03:06:00,low,feature_request,closed
+tkt_0001436,cmp_0082,2026-04-27 11:50:00,,medium,call_quality,open
+tkt_0001437,cmp_0082,2026-04-28 17:10:00,2026-05-01 01:10:00,medium,account_admin,closed
+tkt_0001438,cmp_0082,2026-05-11 12:27:00,2026-05-12 01:27:00,low,integration,closed
+tkt_0001439,cmp_0082,2026-05-16 15:55:00,2026-05-18 05:55:00,high,feature_request,closed
+tkt_0001440,cmp_0082,2026-05-26 12:09:00,2026-05-29 02:09:00,medium,onboarding,closed
+tkt_0001441,cmp_0082,2026-06-02 11:07:00,2026-06-04 08:07:00,low,billing,closed
+tkt_0001442,cmp_0082,2026-06-07 16:47:00,2026-06-09 04:47:00,high,feature_request,closed
+tkt_0001443,cmp_0083,2025-10-25 15:11:00,2025-10-27 09:11:00,low,integration,closed
+tkt_0001444,cmp_0083,2025-11-11 13:43:00,2025-11-14 07:43:00,medium,call_quality,closed
+tkt_0001445,cmp_0083,2025-11-29 12:13:00,2025-12-01 01:13:00,low,onboarding,closed
+tkt_0001446,cmp_0083,2025-12-08 14:57:00,2025-12-10 17:57:00,medium,onboarding,closed
+tkt_0001447,cmp_0083,2026-01-21 18:20:00,2026-01-24 21:20:00,low,onboarding,closed
+tkt_0001448,cmp_0083,2026-02-02 08:49:00,2026-02-02 14:49:00,medium,bug,closed
+tkt_0001449,cmp_0083,2026-04-01 15:01:00,2026-04-02 15:01:00,high,feature_request,closed
+tkt_0001450,cmp_0084,2026-02-09 09:11:00,2026-02-11 01:11:00,high,integration,closed
+tkt_0001451,cmp_0084,2026-02-15 09:02:00,2026-02-19 22:02:00,low,billing,closed
+tkt_0001452,cmp_0084,2026-03-13 13:52:00,,urgent,onboarding,open
+tkt_0001453,cmp_0084,2026-04-14 10:10:00,2026-04-16 00:10:00,medium,account_admin,closed
+tkt_0001454,cmp_0084,2026-05-19 10:46:00,,low,integration,open
+tkt_0001455,cmp_0084,2026-06-01 14:57:00,2026-06-02 22:57:00,low,onboarding,closed
+tkt_0001456,cmp_0085,2026-04-14 15:33:00,2026-04-17 03:33:00,low,feature_request,closed
+tkt_0001457,cmp_0085,2026-04-23 09:21:00,2026-04-26 08:21:00,medium,feature_request,closed
+tkt_0001458,cmp_0085,2026-05-22 14:49:00,2026-05-23 11:49:00,medium,bug,closed
+tkt_0001459,cmp_0085,2026-05-24 15:06:00,2026-05-26 06:06:00,medium,bug,closed
+tkt_0001460,cmp_0085,2026-06-03 12:04:00,2026-06-04 23:04:00,medium,call_quality,closed
+tkt_0001461,cmp_0085,2026-06-08 13:52:00,2026-06-10 03:52:00,medium,billing,closed
+tkt_0001462,cmp_0085,2026-06-20 11:08:00,2026-06-23 07:08:00,low,call_quality,closed
+tkt_0001463,cmp_0086,2026-01-06 18:03:00,2026-01-07 17:03:00,high,feature_request,closed
+tkt_0001464,cmp_0086,2026-01-07 12:08:00,2026-01-10 08:08:00,low,call_quality,closed
+tkt_0001465,cmp_0086,2026-01-08 17:40:00,2026-01-12 16:40:00,low,call_quality,closed
+tkt_0001466,cmp_0086,2026-01-11 12:51:00,2026-01-14 10:51:00,medium,feature_request,closed
+tkt_0001467,cmp_0086,2026-01-12 14:44:00,2026-01-14 23:44:00,medium,onboarding,closed
+tkt_0001468,cmp_0086,2026-02-02 13:54:00,,low,billing,open
+tkt_0001469,cmp_0086,2026-02-06 08:32:00,2026-02-07 21:32:00,high,bug,closed
+tkt_0001470,cmp_0086,2026-02-16 12:49:00,2026-02-18 18:49:00,medium,onboarding,closed
+tkt_0001471,cmp_0086,2026-02-22 13:42:00,2026-02-22 23:42:00,urgent,account_admin,closed
+tkt_0001472,cmp_0086,2026-02-25 09:13:00,,medium,onboarding,open
+tkt_0001473,cmp_0086,2026-02-28 13:39:00,2026-03-02 04:39:00,medium,bug,closed
+tkt_0001474,cmp_0086,2026-03-03 08:02:00,2026-03-07 04:02:00,low,account_admin,closed
+tkt_0001475,cmp_0086,2026-03-07 13:13:00,2026-03-09 20:13:00,low,integration,closed
+tkt_0001476,cmp_0086,2026-03-09 12:35:00,2026-03-10 04:35:00,urgent,onboarding,closed
+tkt_0001477,cmp_0086,2026-03-26 13:52:00,2026-03-27 06:52:00,urgent,call_quality,closed
+tkt_0001478,cmp_0086,2026-03-28 16:02:00,2026-03-30 14:02:00,medium,billing,closed
+tkt_0001479,cmp_0086,2026-04-02 13:00:00,2026-04-05 04:00:00,medium,call_quality,closed
+tkt_0001480,cmp_0086,2026-04-09 16:11:00,2026-04-09 22:11:00,medium,integration,closed
+tkt_0001481,cmp_0086,2026-04-22 12:46:00,2026-04-23 17:46:00,high,feature_request,closed
+tkt_0001482,cmp_0086,2026-04-23 12:37:00,2026-04-25 01:37:00,high,bug,closed
+tkt_0001483,cmp_0086,2026-05-02 16:31:00,2026-05-05 10:31:00,medium,call_quality,closed
+tkt_0001484,cmp_0086,2026-05-23 16:10:00,,low,integration,open
+tkt_0001485,cmp_0086,2026-05-31 16:53:00,2026-06-03 01:53:00,low,bug,closed
+tkt_0001486,cmp_0086,2026-06-03 17:27:00,2026-06-07 20:27:00,low,bug,closed
+tkt_0001487,cmp_0086,2026-06-13 14:49:00,2026-06-13 21:49:00,medium,bug,closed
+tkt_0001488,cmp_0086,2026-06-19 13:54:00,2026-06-19 20:54:00,urgent,billing,closed
+tkt_0001489,cmp_0086,2026-06-22 18:43:00,,high,onboarding,open
+tkt_0001490,cmp_0087,2025-11-23 13:28:00,,low,onboarding,open
+tkt_0001491,cmp_0087,2025-12-03 13:49:00,2025-12-04 11:49:00,medium,feature_request,closed
+tkt_0001492,cmp_0087,2025-12-08 12:42:00,2025-12-11 16:42:00,low,billing,closed
+tkt_0001493,cmp_0087,2025-12-26 18:29:00,2025-12-28 23:29:00,medium,feature_request,closed
+tkt_0001494,cmp_0087,2025-12-29 10:43:00,2025-12-30 19:43:00,low,integration,closed
+tkt_0001495,cmp_0087,2026-01-05 18:55:00,2026-01-06 00:55:00,high,billing,closed
+tkt_0001496,cmp_0087,2026-01-05 11:01:00,2026-01-06 17:01:00,high,call_quality,closed
+tkt_0001497,cmp_0087,2026-01-05 13:52:00,2026-01-09 15:52:00,low,billing,closed
+tkt_0001498,cmp_0087,2026-01-12 16:09:00,,low,billing,open
+tkt_0001499,cmp_0087,2026-01-27 16:25:00,2026-01-30 10:25:00,medium,integration,closed
+tkt_0001500,cmp_0087,2026-02-01 18:24:00,2026-02-03 16:24:00,medium,feature_request,closed
+tkt_0001501,cmp_0087,2026-02-09 13:49:00,2026-02-11 16:49:00,medium,call_quality,closed
+tkt_0001502,cmp_0087,2026-02-10 14:26:00,2026-02-10 20:26:00,medium,call_quality,closed
+tkt_0001503,cmp_0087,2026-02-14 09:26:00,2026-02-16 05:26:00,high,feature_request,closed
+tkt_0001504,cmp_0087,2026-02-17 08:58:00,2026-02-20 21:58:00,low,bug,closed
+tkt_0001505,cmp_0087,2026-02-17 18:21:00,,low,feature_request,open
+tkt_0001506,cmp_0087,2026-03-07 13:24:00,2026-03-09 06:24:00,high,onboarding,closed
+tkt_0001507,cmp_0087,2026-03-09 13:08:00,2026-03-11 06:08:00,high,integration,closed
+tkt_0001508,cmp_0087,2026-03-12 12:44:00,,medium,bug,open
+tkt_0001509,cmp_0087,2026-03-24 18:46:00,2026-03-28 16:46:00,low,call_quality,closed
+tkt_0001510,cmp_0087,2026-04-26 16:06:00,2026-04-28 12:06:00,medium,call_quality,closed
+tkt_0001511,cmp_0087,2026-05-10 08:43:00,2026-05-11 13:43:00,low,feature_request,closed
+tkt_0001512,cmp_0087,2026-05-13 13:59:00,2026-05-18 13:59:00,low,bug,closed
+tkt_0001513,cmp_0087,2026-05-30 15:49:00,2026-05-31 04:49:00,medium,integration,closed
+tkt_0001514,cmp_0087,2026-05-30 10:12:00,2026-05-31 00:12:00,high,onboarding,closed
+tkt_0001515,cmp_0087,2026-06-01 12:12:00,2026-06-04 08:12:00,low,billing,closed
+tkt_0001516,cmp_0087,2026-06-08 15:37:00,2026-06-10 20:37:00,medium,account_admin,closed
+tkt_0001517,cmp_0087,2026-06-19 15:25:00,2026-06-20 16:25:00,low,call_quality,closed
+tkt_0001518,cmp_0088,2026-03-12 13:33:00,2026-03-13 15:33:00,low,feature_request,closed
+tkt_0001519,cmp_0088,2026-03-29 12:30:00,2026-03-31 11:30:00,low,call_quality,closed
+tkt_0001520,cmp_0088,2026-04-20 13:07:00,2026-04-22 00:07:00,high,bug,closed
+tkt_0001521,cmp_0088,2026-04-29 10:07:00,,low,billing,open
+tkt_0001522,cmp_0088,2026-05-26 10:23:00,2026-05-29 21:23:00,low,billing,closed
+tkt_0001523,cmp_0088,2026-05-27 08:04:00,2026-05-28 18:04:00,low,call_quality,closed
+tkt_0001524,cmp_0089,2026-04-19 13:50:00,2026-04-20 01:50:00,low,onboarding,closed
+tkt_0001525,cmp_0089,2026-04-26 13:26:00,2026-04-29 04:26:00,low,call_quality,closed
+tkt_0001526,cmp_0089,2026-05-05 13:26:00,2026-05-05 19:26:00,urgent,feature_request,closed
+tkt_0001527,cmp_0089,2026-05-08 11:45:00,2026-05-09 15:45:00,low,bug,closed
+tkt_0001528,cmp_0089,2026-05-12 10:40:00,2026-05-13 22:40:00,high,integration,closed
+tkt_0001529,cmp_0089,2026-05-13 18:28:00,2026-05-16 06:28:00,medium,billing,closed
+tkt_0001530,cmp_0089,2026-05-17 09:22:00,2026-05-18 10:22:00,high,bug,closed
+tkt_0001531,cmp_0089,2026-05-19 13:14:00,2026-05-19 22:14:00,medium,bug,closed
+tkt_0001532,cmp_0089,2026-05-22 10:35:00,2026-05-25 04:35:00,low,feature_request,closed
+tkt_0001533,cmp_0089,2026-05-23 16:58:00,2026-05-24 12:58:00,high,bug,closed
+tkt_0001534,cmp_0089,2026-05-28 16:08:00,,medium,onboarding,open
+tkt_0001535,cmp_0089,2026-06-01 11:46:00,2026-06-02 18:46:00,low,account_admin,closed
+tkt_0001536,cmp_0089,2026-06-06 17:14:00,2026-06-08 21:14:00,medium,billing,closed
+tkt_0001537,cmp_0089,2026-06-06 15:17:00,,medium,account_admin,open
+tkt_0001538,cmp_0089,2026-06-07 11:43:00,2026-06-10 12:43:00,low,account_admin,closed
+tkt_0001539,cmp_0089,2026-06-07 14:40:00,,low,integration,open
+tkt_0001540,cmp_0089,2026-06-11 11:26:00,2026-06-12 21:26:00,medium,account_admin,closed
+tkt_0001541,cmp_0089,2026-06-12 16:03:00,,low,billing,open
+tkt_0001542,cmp_0089,2026-06-14 13:15:00,2026-06-16 13:15:00,medium,onboarding,closed
+tkt_0001543,cmp_0089,2026-06-22 09:25:00,2026-06-22 20:25:00,medium,call_quality,closed
+tkt_0001544,cmp_0090,2026-01-24 16:59:00,2026-01-27 17:59:00,low,account_admin,closed
+tkt_0001545,cmp_0090,2026-02-21 12:07:00,2026-02-23 10:07:00,low,feature_request,closed
+tkt_0001546,cmp_0090,2026-03-04 13:34:00,2026-03-09 08:34:00,low,bug,closed
+tkt_0001547,cmp_0090,2026-04-16 09:53:00,2026-04-17 04:53:00,low,billing,closed
+tkt_0001548,cmp_0090,2026-04-17 12:25:00,,low,integration,open
+tkt_0001549,cmp_0090,2026-05-15 15:44:00,2026-05-17 05:44:00,medium,feature_request,closed
+tkt_0001550,cmp_0091,2026-05-06 14:20:00,2026-05-07 01:20:00,high,call_quality,closed
+tkt_0001551,cmp_0091,2026-05-06 18:41:00,2026-05-08 14:41:00,high,account_admin,closed
+tkt_0001552,cmp_0091,2026-05-14 10:06:00,,high,integration,open
+tkt_0001553,cmp_0091,2026-05-15 17:36:00,,low,onboarding,open
+tkt_0001554,cmp_0091,2026-05-20 10:34:00,2026-05-21 09:34:00,medium,call_quality,closed
+tkt_0001555,cmp_0091,2026-06-07 12:21:00,2026-06-09 19:21:00,low,feature_request,closed
+tkt_0001556,cmp_0091,2026-06-13 10:03:00,2026-06-18 04:03:00,low,account_admin,closed
+tkt_0001557,cmp_0091,2026-06-16 15:32:00,,high,account_admin,open
+tkt_0001558,cmp_0091,2026-06-16 10:37:00,2026-06-18 16:37:00,medium,integration,closed
+tkt_0001559,cmp_0091,2026-06-16 15:30:00,2026-06-20 18:30:00,low,billing,closed
+tkt_0001560,cmp_0092,2026-03-24 16:08:00,2026-03-28 23:08:00,low,feature_request,closed
+tkt_0001561,cmp_0092,2026-03-30 11:38:00,2026-04-04 02:38:00,low,feature_request,closed
+tkt_0001562,cmp_0092,2026-04-01 11:16:00,,low,billing,open
+tkt_0001563,cmp_0092,2026-04-10 08:16:00,2026-04-11 04:16:00,low,feature_request,closed
+tkt_0001564,cmp_0092,2026-04-26 16:24:00,2026-04-27 14:24:00,low,feature_request,closed
+tkt_0001565,cmp_0092,2026-05-10 14:39:00,2026-05-11 08:39:00,urgent,integration,closed
+tkt_0001566,cmp_0092,2026-05-31 08:51:00,2026-06-04 01:51:00,low,onboarding,closed
+tkt_0001567,cmp_0093,2025-11-06 09:07:00,2025-11-08 15:07:00,low,account_admin,closed
+tkt_0001568,cmp_0093,2025-11-11 08:34:00,2025-11-12 23:34:00,medium,feature_request,closed
+tkt_0001569,cmp_0093,2025-11-14 17:00:00,2025-11-16 10:00:00,medium,account_admin,closed
+tkt_0001570,cmp_0093,2025-11-15 08:45:00,,low,billing,open
+tkt_0001571,cmp_0093,2025-11-16 10:28:00,2025-11-17 21:28:00,high,integration,closed
+tkt_0001572,cmp_0093,2025-11-17 11:48:00,2025-11-19 10:48:00,high,integration,closed
+tkt_0001573,cmp_0093,2025-11-21 08:28:00,2025-11-23 06:28:00,medium,account_admin,closed
+tkt_0001574,cmp_0093,2025-11-23 08:32:00,2025-11-27 05:32:00,low,integration,closed
+tkt_0001575,cmp_0093,2025-11-25 09:29:00,2025-11-28 08:29:00,low,bug,closed
+tkt_0001576,cmp_0093,2025-11-26 15:44:00,2025-11-29 11:44:00,low,feature_request,closed
+tkt_0001577,cmp_0093,2025-11-29 18:57:00,,medium,call_quality,open
+tkt_0001578,cmp_0093,2025-11-29 14:35:00,,low,billing,open
+tkt_0001579,cmp_0093,2025-12-06 18:02:00,2025-12-08 09:02:00,high,account_admin,closed
+tkt_0001580,cmp_0093,2025-12-09 09:56:00,2025-12-09 12:56:00,high,call_quality,closed
+tkt_0001581,cmp_0093,2025-12-10 13:22:00,,medium,feature_request,open
+tkt_0001582,cmp_0093,2025-12-12 14:06:00,2025-12-13 02:06:00,medium,bug,closed
+tkt_0001583,cmp_0093,2025-12-17 11:21:00,2025-12-22 08:21:00,low,billing,closed
+tkt_0001584,cmp_0093,2025-12-21 10:25:00,2025-12-22 23:25:00,medium,integration,closed
+tkt_0001585,cmp_0093,2025-12-30 18:11:00,2026-01-03 05:11:00,low,feature_request,closed
+tkt_0001586,cmp_0093,2026-01-02 12:41:00,,low,bug,open
+tkt_0001587,cmp_0093,2026-01-03 13:54:00,,medium,feature_request,open
+tkt_0001588,cmp_0093,2026-01-11 15:01:00,2026-01-14 12:01:00,medium,billing,closed
+tkt_0001589,cmp_0093,2026-02-03 15:09:00,,medium,bug,open
+tkt_0001590,cmp_0093,2026-02-05 16:50:00,2026-02-10 08:50:00,low,bug,closed
+tkt_0001591,cmp_0093,2026-02-14 10:40:00,2026-02-17 11:40:00,low,onboarding,closed
+tkt_0001592,cmp_0093,2026-02-20 08:46:00,,low,billing,open
+tkt_0001593,cmp_0093,2026-02-24 15:26:00,2026-02-26 17:26:00,low,billing,closed
+tkt_0001594,cmp_0093,2026-03-06 12:06:00,2026-03-06 16:06:00,urgent,integration,closed
+tkt_0001595,cmp_0093,2026-03-09 12:29:00,2026-03-10 02:29:00,low,billing,closed
+tkt_0001596,cmp_0093,2026-03-10 14:16:00,2026-03-12 15:16:00,low,account_admin,closed
+tkt_0001597,cmp_0093,2026-03-16 18:25:00,2026-03-18 00:25:00,medium,billing,closed
+tkt_0001598,cmp_0093,2026-03-19 08:08:00,,medium,feature_request,open
+tkt_0001599,cmp_0093,2026-03-20 10:48:00,2026-03-23 06:48:00,medium,account_admin,closed
+tkt_0001600,cmp_0093,2026-03-23 11:10:00,,medium,billing,open
+tkt_0001601,cmp_0093,2026-03-23 14:34:00,2026-03-26 11:34:00,low,billing,closed
+tkt_0001602,cmp_0093,2026-04-10 16:49:00,2026-04-11 07:49:00,medium,onboarding,closed
+tkt_0001603,cmp_0093,2026-04-11 17:46:00,2026-04-12 20:46:00,low,feature_request,closed
+tkt_0001604,cmp_0093,2026-04-18 17:30:00,2026-04-20 18:30:00,medium,integration,closed
+tkt_0001605,cmp_0093,2026-04-18 13:49:00,2026-04-19 13:49:00,medium,integration,closed
+tkt_0001606,cmp_0093,2026-04-19 09:28:00,2026-04-22 16:28:00,low,bug,closed
+tkt_0001607,cmp_0093,2026-04-22 15:46:00,,medium,feature_request,open
+tkt_0001608,cmp_0093,2026-04-26 12:11:00,,low,call_quality,open
+tkt_0001609,cmp_0093,2026-04-28 16:43:00,2026-04-30 09:43:00,low,call_quality,closed
+tkt_0001610,cmp_0093,2026-04-28 18:25:00,2026-05-02 21:25:00,low,bug,closed
+tkt_0001611,cmp_0093,2026-04-30 11:15:00,2026-04-30 19:15:00,medium,bug,closed
+tkt_0001612,cmp_0093,2026-04-30 12:26:00,2026-05-01 14:26:00,medium,call_quality,closed
+tkt_0001613,cmp_0093,2026-05-08 17:44:00,2026-05-09 19:44:00,medium,integration,closed
+tkt_0001614,cmp_0093,2026-05-12 15:37:00,2026-05-13 07:37:00,medium,onboarding,closed
+tkt_0001615,cmp_0093,2026-05-12 15:31:00,,urgent,onboarding,open
+tkt_0001616,cmp_0093,2026-05-13 16:35:00,2026-05-15 20:35:00,medium,account_admin,closed
+tkt_0001617,cmp_0093,2026-05-13 16:22:00,2026-05-14 06:22:00,urgent,bug,closed
+tkt_0001618,cmp_0093,2026-05-16 18:57:00,2026-05-18 15:57:00,medium,integration,closed
+tkt_0001619,cmp_0093,2026-05-17 13:59:00,2026-05-17 20:59:00,medium,account_admin,closed
+tkt_0001620,cmp_0093,2026-05-24 13:34:00,,medium,bug,open
+tkt_0001621,cmp_0093,2026-05-25 11:05:00,2026-05-30 04:05:00,low,feature_request,closed
+tkt_0001622,cmp_0093,2026-05-26 12:57:00,2026-05-26 21:57:00,medium,account_admin,closed
+tkt_0001623,cmp_0093,2026-06-05 14:49:00,2026-06-06 23:49:00,low,account_admin,closed
+tkt_0001624,cmp_0093,2026-06-06 08:49:00,2026-06-07 16:49:00,high,bug,closed
+tkt_0001625,cmp_0093,2026-06-06 13:44:00,,low,feature_request,open
+tkt_0001626,cmp_0093,2026-06-12 13:03:00,2026-06-13 03:03:00,high,onboarding,closed
+tkt_0001627,cmp_0093,2026-06-22 09:03:00,2026-06-23 17:03:00,low,billing,closed
+tkt_0001628,cmp_0094,2025-12-08 10:54:00,2025-12-09 00:54:00,low,billing,closed
+tkt_0001629,cmp_0094,2026-01-04 08:06:00,2026-01-06 21:06:00,medium,call_quality,closed
+tkt_0001630,cmp_0094,2026-01-19 10:44:00,,medium,integration,open
+tkt_0001631,cmp_0094,2026-01-25 13:51:00,2026-01-27 09:51:00,medium,call_quality,closed
+tkt_0001632,cmp_0094,2026-03-15 14:09:00,2026-03-16 11:09:00,low,call_quality,closed
+tkt_0001633,cmp_0094,2026-03-17 11:06:00,2026-03-18 14:06:00,high,bug,closed
+tkt_0001634,cmp_0094,2026-03-30 16:20:00,2026-04-02 00:20:00,low,account_admin,closed
+tkt_0001635,cmp_0094,2026-04-12 16:10:00,,high,feature_request,open
+tkt_0001636,cmp_0094,2026-04-22 10:19:00,2026-04-25 04:19:00,medium,bug,closed
+tkt_0001637,cmp_0094,2026-05-11 12:18:00,2026-05-14 08:18:00,low,account_admin,closed
+tkt_0001638,cmp_0094,2026-05-14 11:48:00,2026-05-14 20:48:00,high,feature_request,closed
+tkt_0001639,cmp_0094,2026-06-17 13:44:00,2026-06-18 00:44:00,medium,onboarding,closed
+tkt_0001640,cmp_0095,2026-05-02 16:11:00,2026-05-03 23:11:00,high,bug,closed
+tkt_0001641,cmp_0095,2026-05-05 12:28:00,2026-05-06 01:28:00,medium,billing,closed
+tkt_0001642,cmp_0095,2026-05-11 15:08:00,2026-05-12 09:08:00,high,call_quality,closed
+tkt_0001643,cmp_0095,2026-06-01 08:04:00,2026-06-04 05:04:00,medium,bug,closed
+tkt_0001644,cmp_0095,2026-06-21 17:35:00,2026-06-23 19:35:00,low,call_quality,closed
+tkt_0001645,cmp_0096,2026-02-11 09:27:00,,high,feature_request,open
+tkt_0001646,cmp_0096,2026-02-18 16:06:00,2026-02-22 08:06:00,low,onboarding,closed
+tkt_0001647,cmp_0096,2026-02-20 15:41:00,,low,onboarding,open
+tkt_0001648,cmp_0096,2026-02-20 14:21:00,,medium,billing,open
+tkt_0001649,cmp_0096,2026-02-21 17:24:00,2026-02-23 17:24:00,medium,bug,closed
+tkt_0001650,cmp_0096,2026-02-23 15:58:00,2026-02-24 01:58:00,urgent,integration,closed
+tkt_0001651,cmp_0096,2026-02-28 13:53:00,,medium,integration,open
+tkt_0001652,cmp_0096,2026-03-23 17:06:00,2026-03-25 17:06:00,low,onboarding,closed
+tkt_0001653,cmp_0096,2026-03-26 18:51:00,2026-03-27 19:51:00,low,account_admin,closed
+tkt_0001654,cmp_0096,2026-03-27 15:49:00,2026-03-28 19:49:00,low,feature_request,closed
+tkt_0001655,cmp_0096,2026-04-01 09:21:00,,medium,onboarding,open
+tkt_0001656,cmp_0096,2026-04-01 15:02:00,2026-04-02 19:02:00,low,billing,closed
+tkt_0001657,cmp_0096,2026-04-16 14:03:00,2026-04-18 16:03:00,medium,account_admin,closed
+tkt_0001658,cmp_0096,2026-04-22 12:08:00,2026-04-23 08:08:00,medium,feature_request,closed
+tkt_0001659,cmp_0096,2026-06-04 09:11:00,2026-06-06 22:11:00,low,call_quality,closed
+tkt_0001660,cmp_0096,2026-06-07 11:07:00,2026-06-08 02:07:00,medium,call_quality,closed
+tkt_0001661,cmp_0096,2026-06-11 09:09:00,2026-06-12 07:09:00,medium,bug,closed
+tkt_0001662,cmp_0096,2026-06-21 13:04:00,2026-06-22 01:04:00,high,integration,closed
+tkt_0001663,cmp_0096,2026-06-21 18:55:00,2026-06-23 16:55:00,medium,account_admin,closed
+tkt_0001664,cmp_0096,2026-06-23 13:57:00,,high,bug,open
+tkt_0001665,cmp_0097,2026-02-08 10:07:00,2026-02-08 13:07:00,urgent,onboarding,closed
+tkt_0001666,cmp_0097,2026-02-18 15:04:00,2026-02-21 17:04:00,low,onboarding,closed
+tkt_0001667,cmp_0097,2026-03-04 10:53:00,2026-03-06 01:53:00,medium,integration,closed
+tkt_0001668,cmp_0097,2026-04-14 16:35:00,2026-04-15 23:35:00,high,feature_request,closed
+tkt_0001669,cmp_0097,2026-04-22 17:06:00,,high,feature_request,open
+tkt_0001670,cmp_0097,2026-04-23 16:15:00,2026-04-24 11:15:00,medium,integration,closed
+tkt_0001671,cmp_0098,2025-12-13 08:10:00,2025-12-13 18:10:00,high,onboarding,closed
+tkt_0001672,cmp_0098,2025-12-21 16:18:00,2025-12-24 22:18:00,low,billing,closed
+tkt_0001673,cmp_0098,2026-01-17 08:38:00,2026-01-19 22:38:00,low,onboarding,closed
+tkt_0001674,cmp_0098,2026-02-02 10:22:00,2026-02-03 00:22:00,low,bug,closed
+tkt_0001675,cmp_0098,2026-02-12 08:35:00,2026-02-16 07:35:00,low,call_quality,closed
+tkt_0001676,cmp_0098,2026-03-09 12:42:00,2026-03-10 00:42:00,high,account_admin,closed
+tkt_0001677,cmp_0098,2026-03-15 11:23:00,2026-03-18 09:23:00,low,bug,closed
+tkt_0001678,cmp_0098,2026-04-15 11:36:00,2026-04-18 00:36:00,medium,account_admin,closed
+tkt_0001679,cmp_0098,2026-04-16 16:40:00,2026-04-20 15:40:00,low,call_quality,closed
+tkt_0001680,cmp_0098,2026-04-19 08:16:00,2026-04-20 03:16:00,medium,onboarding,closed
+tkt_0001681,cmp_0098,2026-05-03 16:18:00,2026-05-04 05:18:00,high,billing,closed
+tkt_0001682,cmp_0098,2026-05-21 09:03:00,2026-05-23 02:03:00,low,billing,closed
+tkt_0001683,cmp_0098,2026-05-24 14:54:00,2026-05-26 16:54:00,low,call_quality,closed
+tkt_0001684,cmp_0098,2026-06-23 14:29:00,2026-06-25 07:29:00,medium,integration,closed
+tkt_0001685,cmp_0099,2025-12-11 08:41:00,2025-12-14 01:41:00,medium,call_quality,closed
+tkt_0001686,cmp_0099,2026-01-10 13:40:00,,low,bug,open
+tkt_0001687,cmp_0099,2026-01-28 14:44:00,2026-02-02 08:44:00,low,feature_request,closed
+tkt_0001688,cmp_0099,2026-02-22 12:53:00,2026-02-22 22:53:00,medium,bug,closed
+tkt_0001689,cmp_0099,2026-06-13 16:32:00,2026-06-18 08:32:00,low,bug,closed
+tkt_0001690,cmp_0100,2026-01-30 09:36:00,,low,feature_request,open
+tkt_0001691,cmp_0100,2026-02-06 11:16:00,2026-02-10 10:16:00,low,call_quality,closed
+tkt_0001692,cmp_0100,2026-02-23 14:16:00,2026-02-25 11:16:00,medium,onboarding,closed
+tkt_0001693,cmp_0100,2026-03-03 14:18:00,2026-03-08 01:18:00,low,feature_request,closed
+tkt_0001694,cmp_0100,2026-03-29 09:14:00,2026-03-29 15:14:00,urgent,bug,closed
+tkt_0001695,cmp_0100,2026-04-16 12:10:00,2026-04-18 19:10:00,medium,bug,closed
+tkt_0001696,cmp_0100,2026-05-26 14:56:00,2026-05-27 21:56:00,medium,account_admin,closed
+tkt_0001697,cmp_0100,2026-05-31 13:32:00,,medium,billing,open
+tkt_0001698,cmp_0101,2026-03-21 09:59:00,2026-03-24 06:59:00,low,integration,closed
+tkt_0001699,cmp_0101,2026-03-25 09:03:00,2026-03-25 12:03:00,urgent,bug,closed
+tkt_0001700,cmp_0101,2026-05-26 16:55:00,2026-05-30 03:55:00,low,bug,closed
+tkt_0001701,cmp_0102,2026-01-24 08:26:00,2026-01-26 12:26:00,medium,bug,closed
+tkt_0001702,cmp_0102,2026-01-28 10:15:00,2026-01-28 13:15:00,high,onboarding,closed
+tkt_0001703,cmp_0102,2026-02-21 12:05:00,2026-02-24 18:05:00,low,onboarding,closed
+tkt_0001704,cmp_0102,2026-03-15 10:57:00,2026-03-16 23:57:00,high,call_quality,closed
+tkt_0001705,cmp_0102,2026-04-04 18:47:00,2026-04-09 17:47:00,low,account_admin,closed
+tkt_0001706,cmp_0102,2026-04-10 18:53:00,2026-04-12 04:53:00,high,account_admin,closed
+tkt_0001707,cmp_0102,2026-04-18 12:33:00,,high,account_admin,open
+tkt_0001708,cmp_0102,2026-04-25 16:55:00,2026-04-26 00:55:00,medium,call_quality,closed
+tkt_0001709,cmp_0102,2026-05-04 11:55:00,2026-05-05 04:55:00,low,feature_request,closed
+tkt_0001710,cmp_0102,2026-05-15 17:06:00,2026-05-18 15:06:00,low,integration,closed
+tkt_0001711,cmp_0102,2026-05-21 15:21:00,2026-05-26 10:21:00,low,feature_request,closed
+tkt_0001712,cmp_0102,2026-06-21 10:53:00,2026-06-23 15:53:00,low,onboarding,closed
+tkt_0001713,cmp_0103,2026-04-24 18:02:00,2026-04-29 17:02:00,low,billing,closed
+tkt_0001714,cmp_0103,2026-04-29 11:20:00,2026-05-03 05:20:00,low,integration,closed
+tkt_0001715,cmp_0103,2026-05-26 18:34:00,,medium,onboarding,open
+tkt_0001716,cmp_0104,2026-06-12 12:37:00,2026-06-13 20:37:00,high,billing,closed
+tkt_0001717,cmp_0105,2026-01-19 13:54:00,2026-01-23 13:54:00,low,account_admin,closed
+tkt_0001718,cmp_0105,2026-04-14 10:24:00,2026-04-17 02:24:00,medium,integration,closed
+tkt_0001719,cmp_0105,2026-05-13 15:56:00,2026-05-16 14:56:00,medium,feature_request,closed
+tkt_0001720,cmp_0106,2025-10-14 09:06:00,,low,bug,open
+tkt_0001721,cmp_0106,2025-10-20 11:44:00,2025-10-22 00:44:00,high,account_admin,closed
+tkt_0001722,cmp_0106,2025-11-04 14:09:00,2025-11-07 13:09:00,medium,onboarding,closed
+tkt_0001723,cmp_0106,2025-11-24 18:17:00,,low,billing,open
+tkt_0001724,cmp_0106,2025-11-24 11:38:00,2025-11-28 20:38:00,low,bug,closed
+tkt_0001725,cmp_0106,2025-12-07 17:25:00,2025-12-08 15:25:00,medium,onboarding,closed
+tkt_0001726,cmp_0106,2025-12-17 18:09:00,2025-12-20 17:09:00,medium,feature_request,closed
+tkt_0001727,cmp_0106,2025-12-28 13:25:00,2025-12-30 04:25:00,low,onboarding,closed
+tkt_0001728,cmp_0106,2026-01-02 12:24:00,2026-01-04 21:24:00,medium,bug,closed
+tkt_0001729,cmp_0106,2026-01-14 15:26:00,2026-01-18 17:26:00,low,feature_request,closed
+tkt_0001730,cmp_0106,2026-02-04 10:19:00,2026-02-05 13:19:00,high,bug,closed
+tkt_0001731,cmp_0106,2026-02-07 08:04:00,2026-02-09 13:04:00,medium,call_quality,closed
+tkt_0001732,cmp_0106,2026-02-11 10:18:00,,low,bug,open
+tkt_0001733,cmp_0106,2026-02-27 17:33:00,2026-02-27 19:33:00,urgent,onboarding,closed
+tkt_0001734,cmp_0106,2026-03-08 12:44:00,2026-03-10 18:44:00,medium,onboarding,closed
+tkt_0001735,cmp_0106,2026-03-21 10:12:00,2026-03-21 22:12:00,medium,call_quality,closed
+tkt_0001736,cmp_0106,2026-03-25 10:59:00,2026-03-27 03:59:00,high,bug,closed
+tkt_0001737,cmp_0106,2026-03-27 17:19:00,2026-03-31 04:19:00,low,feature_request,closed
+tkt_0001738,cmp_0106,2026-03-30 08:02:00,2026-04-01 04:02:00,low,account_admin,closed
+tkt_0001739,cmp_0106,2026-03-31 10:16:00,2026-04-02 07:16:00,low,bug,closed
+tkt_0001740,cmp_0106,2026-04-03 14:30:00,,high,call_quality,open
+tkt_0001741,cmp_0106,2026-04-10 18:16:00,2026-04-15 08:16:00,low,billing,closed
+tkt_0001742,cmp_0106,2026-04-13 08:08:00,2026-04-15 06:08:00,medium,onboarding,closed
+tkt_0001743,cmp_0106,2026-04-15 11:47:00,2026-04-19 05:47:00,low,call_quality,closed
+tkt_0001744,cmp_0106,2026-04-27 14:59:00,2026-04-29 15:59:00,low,call_quality,closed
+tkt_0001745,cmp_0106,2026-04-27 16:25:00,2026-05-01 02:25:00,low,onboarding,closed
+tkt_0001746,cmp_0106,2026-05-02 08:09:00,2026-05-03 21:09:00,medium,billing,closed
+tkt_0001747,cmp_0106,2026-05-26 12:02:00,2026-05-29 07:02:00,low,billing,closed
+tkt_0001748,cmp_0106,2026-05-29 08:37:00,2026-05-31 06:37:00,medium,bug,closed
+tkt_0001749,cmp_0106,2026-06-04 15:26:00,2026-06-08 04:26:00,low,account_admin,closed
+tkt_0001750,cmp_0106,2026-06-09 13:11:00,2026-06-11 10:11:00,low,account_admin,closed
+tkt_0001751,cmp_0106,2026-06-11 17:12:00,,low,call_quality,open
+tkt_0001752,cmp_0106,2026-06-18 13:52:00,2026-06-19 13:52:00,low,billing,closed
+tkt_0001753,cmp_0107,2025-11-04 18:48:00,2025-11-05 15:48:00,medium,feature_request,closed
+tkt_0001754,cmp_0107,2025-12-01 15:37:00,2025-12-01 23:37:00,high,call_quality,closed
+tkt_0001755,cmp_0107,2026-01-01 12:37:00,,high,feature_request,open
+tkt_0001756,cmp_0107,2026-01-09 16:23:00,2026-01-11 11:23:00,high,account_admin,closed
+tkt_0001757,cmp_0107,2026-03-04 11:19:00,2026-03-05 09:19:00,medium,billing,closed
+tkt_0001758,cmp_0107,2026-04-28 16:01:00,,medium,billing,open
+tkt_0001759,cmp_0107,2026-06-08 08:48:00,2026-06-09 00:48:00,high,bug,closed
+tkt_0001760,cmp_0108,2025-10-14 14:15:00,2025-10-16 18:15:00,low,account_admin,closed
+tkt_0001761,cmp_0108,2025-10-15 14:19:00,2025-10-17 04:19:00,low,billing,closed
+tkt_0001762,cmp_0108,2025-10-21 11:01:00,2025-10-25 15:01:00,low,account_admin,closed
+tkt_0001763,cmp_0108,2025-10-22 09:25:00,2025-10-23 02:25:00,medium,bug,closed
+tkt_0001764,cmp_0108,2025-10-25 17:19:00,2025-10-26 08:19:00,high,bug,closed
+tkt_0001765,cmp_0108,2025-10-25 15:59:00,2025-10-25 21:59:00,urgent,call_quality,closed
+tkt_0001766,cmp_0108,2025-10-26 13:13:00,2025-10-28 04:13:00,low,call_quality,closed
+tkt_0001767,cmp_0108,2025-10-28 17:09:00,,low,onboarding,open
+tkt_0001768,cmp_0108,2025-11-02 18:37:00,2025-11-04 02:37:00,medium,integration,closed
+tkt_0001769,cmp_0108,2025-11-05 15:27:00,2025-11-08 10:27:00,medium,onboarding,closed
+tkt_0001770,cmp_0108,2025-11-09 12:48:00,2025-11-09 17:48:00,high,account_admin,closed
+tkt_0001771,cmp_0108,2025-11-10 09:16:00,2025-11-11 23:16:00,low,feature_request,closed
+tkt_0001772,cmp_0108,2025-12-01 14:20:00,2025-12-05 13:20:00,low,billing,closed
+tkt_0001773,cmp_0108,2025-12-18 13:56:00,2025-12-20 01:56:00,high,call_quality,closed
+tkt_0001774,cmp_0108,2025-12-24 17:17:00,,medium,account_admin,open
+tkt_0001775,cmp_0108,2025-12-31 16:36:00,2026-01-01 11:36:00,medium,bug,closed
+tkt_0001776,cmp_0108,2025-12-31 09:24:00,2025-12-31 19:24:00,urgent,integration,closed
+tkt_0001777,cmp_0108,2026-01-05 16:49:00,2026-01-07 04:49:00,medium,feature_request,closed
+tkt_0001778,cmp_0108,2026-01-07 12:48:00,2026-01-08 10:48:00,medium,integration,closed
+tkt_0001779,cmp_0108,2026-01-10 08:13:00,2026-01-10 19:13:00,urgent,billing,closed
+tkt_0001780,cmp_0108,2026-01-10 09:01:00,2026-01-12 00:01:00,low,call_quality,closed
+tkt_0001781,cmp_0108,2026-01-12 18:39:00,2026-01-14 22:39:00,medium,call_quality,closed
+tkt_0001782,cmp_0108,2026-01-16 16:47:00,2026-01-17 03:47:00,medium,bug,closed
+tkt_0001783,cmp_0108,2026-01-18 08:15:00,,high,account_admin,open
+tkt_0001784,cmp_0108,2026-01-18 15:23:00,2026-01-19 14:23:00,medium,bug,closed
+tkt_0001785,cmp_0108,2026-01-24 10:20:00,,medium,integration,open
+tkt_0001786,cmp_0108,2026-02-01 08:40:00,2026-02-01 17:40:00,medium,bug,closed
+tkt_0001787,cmp_0108,2026-02-02 12:43:00,2026-02-07 09:43:00,low,onboarding,closed
+tkt_0001788,cmp_0108,2026-02-03 15:46:00,2026-02-08 13:46:00,low,integration,closed
+tkt_0001789,cmp_0108,2026-02-07 08:08:00,2026-02-07 20:08:00,high,billing,closed
+tkt_0001790,cmp_0108,2026-02-08 12:23:00,2026-02-09 12:23:00,high,integration,closed
+tkt_0001791,cmp_0108,2026-02-17 18:56:00,2026-02-20 17:56:00,low,account_admin,closed
+tkt_0001792,cmp_0108,2026-02-20 13:37:00,,high,call_quality,open
+tkt_0001793,cmp_0108,2026-02-28 09:30:00,2026-03-02 02:30:00,medium,bug,closed
+tkt_0001794,cmp_0108,2026-03-01 10:05:00,2026-03-04 00:05:00,medium,feature_request,closed
+tkt_0001795,cmp_0108,2026-03-02 14:26:00,2026-03-04 05:26:00,medium,bug,closed
+tkt_0001796,cmp_0108,2026-03-04 12:11:00,,medium,call_quality,open
+tkt_0001797,cmp_0108,2026-03-10 08:03:00,2026-03-10 20:03:00,low,call_quality,closed
+tkt_0001798,cmp_0108,2026-03-16 13:03:00,2026-03-16 22:03:00,medium,account_admin,closed
+tkt_0001799,cmp_0108,2026-03-17 08:57:00,2026-03-18 06:57:00,low,integration,closed
+tkt_0001800,cmp_0108,2026-03-21 14:06:00,2026-03-24 10:06:00,low,call_quality,closed
+tkt_0001801,cmp_0108,2026-03-23 08:29:00,2026-03-23 12:29:00,urgent,onboarding,closed
+tkt_0001802,cmp_0108,2026-03-31 16:37:00,2026-04-02 02:37:00,medium,onboarding,closed
+tkt_0001803,cmp_0108,2026-04-02 08:08:00,2026-04-03 16:08:00,medium,account_admin,closed
+tkt_0001804,cmp_0108,2026-04-06 18:09:00,2026-04-08 17:09:00,medium,account_admin,closed
+tkt_0001805,cmp_0108,2026-04-10 13:08:00,,high,integration,open
+tkt_0001806,cmp_0108,2026-04-12 13:04:00,2026-04-13 18:04:00,medium,feature_request,closed
+tkt_0001807,cmp_0108,2026-04-14 16:32:00,2026-04-17 03:32:00,low,feature_request,closed
+tkt_0001808,cmp_0108,2026-04-21 13:43:00,2026-04-26 04:43:00,low,billing,closed
+tkt_0001809,cmp_0108,2026-04-22 11:18:00,2026-04-23 12:18:00,low,call_quality,closed
+tkt_0001810,cmp_0108,2026-04-25 09:52:00,2026-04-30 09:52:00,low,feature_request,closed
+tkt_0001811,cmp_0108,2026-04-28 09:29:00,2026-05-01 02:29:00,low,account_admin,closed
+tkt_0001812,cmp_0108,2026-05-03 13:55:00,2026-05-04 17:55:00,medium,call_quality,closed
+tkt_0001813,cmp_0108,2026-05-05 13:15:00,2026-05-06 11:15:00,medium,feature_request,closed
+tkt_0001814,cmp_0108,2026-05-09 13:20:00,2026-05-12 09:20:00,medium,integration,closed
+tkt_0001815,cmp_0108,2026-05-10 15:26:00,2026-05-13 11:26:00,medium,integration,closed
+tkt_0001816,cmp_0108,2026-05-11 16:15:00,2026-05-12 04:15:00,medium,bug,closed
+tkt_0001817,cmp_0108,2026-05-11 17:36:00,2026-05-12 15:36:00,high,billing,closed
+tkt_0001818,cmp_0108,2026-05-13 09:27:00,2026-05-16 08:27:00,medium,onboarding,closed
+tkt_0001819,cmp_0108,2026-05-14 10:57:00,2026-05-15 21:57:00,medium,billing,closed
+tkt_0001820,cmp_0108,2026-05-19 09:55:00,2026-05-20 09:55:00,medium,feature_request,closed
+tkt_0001821,cmp_0108,2026-05-28 12:27:00,2026-05-29 10:27:00,high,billing,closed
+tkt_0001822,cmp_0108,2026-06-01 13:30:00,,urgent,call_quality,open
+tkt_0001823,cmp_0108,2026-06-02 17:50:00,,medium,billing,open
+tkt_0001824,cmp_0108,2026-06-03 14:05:00,,medium,account_admin,open
+tkt_0001825,cmp_0108,2026-06-05 11:25:00,2026-06-08 22:25:00,low,feature_request,closed
+tkt_0001826,cmp_0108,2026-06-09 18:07:00,2026-06-11 09:07:00,medium,onboarding,closed
+tkt_0001827,cmp_0108,2026-06-10 15:17:00,2026-06-14 19:17:00,low,feature_request,closed
+tkt_0001828,cmp_0108,2026-06-13 15:58:00,2026-06-16 12:58:00,low,bug,closed
+tkt_0001829,cmp_0108,2026-06-15 10:50:00,2026-06-16 12:50:00,high,call_quality,closed
+tkt_0001830,cmp_0108,2026-06-17 13:09:00,,low,onboarding,open
+tkt_0001831,cmp_0108,2026-06-18 11:07:00,2026-06-18 17:07:00,high,integration,closed
+tkt_0001832,cmp_0108,2026-06-19 17:43:00,,medium,bug,open
+tkt_0001833,cmp_0108,2026-06-23 16:00:00,2026-06-25 14:00:00,medium,integration,closed
+tkt_0001834,cmp_0109,2026-02-09 11:27:00,2026-02-10 02:27:00,medium,integration,closed
+tkt_0001835,cmp_0109,2026-02-14 18:16:00,2026-02-16 05:16:00,high,call_quality,closed
+tkt_0001836,cmp_0109,2026-03-10 13:32:00,,low,account_admin,open
+tkt_0001837,cmp_0109,2026-03-17 14:53:00,,low,onboarding,open
+tkt_0001838,cmp_0109,2026-03-29 15:21:00,2026-04-01 14:21:00,low,feature_request,closed
+tkt_0001839,cmp_0109,2026-04-04 11:12:00,2026-04-06 00:12:00,low,bug,closed
+tkt_0001840,cmp_0109,2026-04-04 08:49:00,2026-04-08 15:49:00,low,billing,closed
+tkt_0001841,cmp_0109,2026-04-07 10:27:00,2026-04-09 02:27:00,high,bug,closed
+tkt_0001842,cmp_0109,2026-04-29 08:57:00,2026-05-01 21:57:00,medium,bug,closed
+tkt_0001843,cmp_0109,2026-05-04 08:11:00,2026-05-05 22:11:00,low,integration,closed
+tkt_0001844,cmp_0109,2026-05-08 17:49:00,2026-05-09 06:49:00,urgent,billing,closed
+tkt_0001845,cmp_0109,2026-05-15 16:25:00,2026-05-17 23:25:00,low,onboarding,closed
+tkt_0001846,cmp_0109,2026-05-18 13:21:00,2026-05-22 20:21:00,low,integration,closed
+tkt_0001847,cmp_0109,2026-05-27 13:51:00,2026-05-31 07:51:00,low,call_quality,closed
+tkt_0001848,cmp_0109,2026-06-18 15:46:00,2026-06-19 17:46:00,medium,bug,closed
+tkt_0001849,cmp_0109,2026-06-21 13:56:00,2026-06-24 01:56:00,low,call_quality,closed
+tkt_0001850,cmp_0110,2026-04-29 17:28:00,2026-05-02 11:28:00,medium,call_quality,closed
+tkt_0001851,cmp_0110,2026-05-02 15:41:00,2026-05-02 20:41:00,high,feature_request,closed
+tkt_0001852,cmp_0110,2026-05-08 17:21:00,2026-05-09 05:21:00,low,feature_request,closed
+tkt_0001853,cmp_0110,2026-05-10 09:17:00,2026-05-14 16:17:00,low,call_quality,closed
+tkt_0001854,cmp_0110,2026-05-14 14:55:00,2026-05-16 01:55:00,low,call_quality,closed
+tkt_0001855,cmp_0110,2026-05-27 11:56:00,,medium,onboarding,open
+tkt_0001856,cmp_0110,2026-05-28 09:17:00,,low,onboarding,open
+tkt_0001857,cmp_0110,2026-06-05 12:57:00,2026-06-05 18:57:00,high,integration,closed
+tkt_0001858,cmp_0110,2026-06-11 15:54:00,2026-06-12 16:54:00,medium,call_quality,closed
+tkt_0001859,cmp_0110,2026-06-16 12:40:00,2026-06-20 16:40:00,low,billing,closed
+tkt_0001860,cmp_0110,2026-06-16 18:08:00,2026-06-21 07:08:00,low,integration,closed
+tkt_0001861,cmp_0111,2026-03-05 16:51:00,2026-03-06 10:51:00,medium,account_admin,closed
+tkt_0001862,cmp_0111,2026-04-01 09:14:00,2026-04-02 11:14:00,high,billing,closed
+tkt_0001863,cmp_0111,2026-04-11 10:25:00,2026-04-12 20:25:00,medium,onboarding,closed
+tkt_0001864,cmp_0111,2026-04-12 14:51:00,2026-04-13 02:51:00,low,account_admin,closed
+tkt_0001865,cmp_0111,2026-05-07 13:15:00,2026-05-08 18:15:00,high,account_admin,closed
+tkt_0001866,cmp_0111,2026-05-26 11:18:00,2026-05-30 20:18:00,low,bug,closed
+tkt_0001867,cmp_0111,2026-05-31 14:12:00,2026-06-02 19:12:00,medium,billing,closed
+tkt_0001868,cmp_0111,2026-06-01 13:10:00,2026-06-02 07:10:00,low,call_quality,closed
+tkt_0001869,cmp_0111,2026-06-02 09:12:00,2026-06-02 18:12:00,medium,integration,closed
+tkt_0001870,cmp_0111,2026-06-03 15:19:00,2026-06-06 00:19:00,medium,call_quality,closed
+tkt_0001871,cmp_0111,2026-06-07 14:26:00,2026-06-08 20:26:00,high,onboarding,closed
+tkt_0001872,cmp_0111,2026-06-10 11:30:00,2026-06-11 14:30:00,low,feature_request,closed
+tkt_0001873,cmp_0111,2026-06-17 08:51:00,2026-06-19 20:51:00,low,call_quality,closed
+tkt_0001874,cmp_0111,2026-06-18 09:59:00,2026-06-18 17:59:00,medium,call_quality,closed
+tkt_0001875,cmp_0111,2026-06-22 08:14:00,2026-06-22 18:14:00,high,account_admin,closed
+tkt_0001876,cmp_0111,2026-06-24 08:23:00,2026-06-26 05:23:00,medium,integration,closed
+tkt_0001877,cmp_0112,2025-12-27 12:19:00,2025-12-29 04:19:00,medium,bug,closed
+tkt_0001878,cmp_0112,2025-12-28 18:53:00,2025-12-31 15:53:00,low,billing,closed
+tkt_0001879,cmp_0112,2025-12-30 11:25:00,2025-12-31 04:25:00,urgent,billing,closed
+tkt_0001880,cmp_0112,2025-12-31 15:42:00,2026-01-01 20:42:00,low,onboarding,closed
+tkt_0001881,cmp_0112,2026-01-02 18:56:00,2026-01-03 22:56:00,high,feature_request,closed
+tkt_0001882,cmp_0112,2026-01-06 15:44:00,2026-01-09 05:44:00,medium,bug,closed
+tkt_0001883,cmp_0112,2026-01-08 16:48:00,,medium,integration,open
+tkt_0001884,cmp_0112,2026-01-14 17:34:00,2026-01-17 04:34:00,medium,account_admin,closed
+tkt_0001885,cmp_0112,2026-01-17 16:53:00,2026-01-21 23:53:00,low,onboarding,closed
+tkt_0001886,cmp_0112,2026-01-17 17:59:00,2026-01-19 05:59:00,high,call_quality,closed
+tkt_0001887,cmp_0112,2026-01-18 12:10:00,2026-01-21 07:10:00,medium,call_quality,closed
+tkt_0001888,cmp_0112,2026-01-24 15:26:00,2026-01-27 04:26:00,medium,call_quality,closed
+tkt_0001889,cmp_0112,2026-02-03 08:54:00,2026-02-04 07:54:00,high,feature_request,closed
+tkt_0001890,cmp_0112,2026-02-06 11:21:00,2026-02-09 05:21:00,medium,account_admin,closed
+tkt_0001891,cmp_0112,2026-02-07 15:08:00,2026-02-07 20:08:00,urgent,call_quality,closed
+tkt_0001892,cmp_0112,2026-02-17 12:17:00,2026-02-20 17:17:00,low,account_admin,closed
+tkt_0001893,cmp_0112,2026-02-21 09:14:00,2026-02-22 10:14:00,medium,account_admin,closed
+tkt_0001894,cmp_0112,2026-02-23 09:49:00,2026-02-25 23:49:00,medium,bug,closed
+tkt_0001895,cmp_0112,2026-02-24 15:17:00,2026-02-26 07:17:00,medium,onboarding,closed
+tkt_0001896,cmp_0112,2026-02-28 12:51:00,2026-03-03 20:51:00,low,bug,closed
+tkt_0001897,cmp_0112,2026-03-02 09:00:00,2026-03-03 10:00:00,low,onboarding,closed
+tkt_0001898,cmp_0112,2026-03-03 09:54:00,2026-03-03 19:54:00,high,feature_request,closed
+tkt_0001899,cmp_0112,2026-03-09 13:07:00,2026-03-09 21:07:00,medium,onboarding,closed
+tkt_0001900,cmp_0112,2026-03-12 16:45:00,2026-03-13 08:45:00,medium,billing,closed
+tkt_0001901,cmp_0112,2026-03-12 15:06:00,2026-03-16 07:06:00,low,call_quality,closed
+tkt_0001902,cmp_0112,2026-03-17 13:47:00,2026-03-19 09:47:00,medium,billing,closed
+tkt_0001903,cmp_0112,2026-03-19 10:20:00,2026-03-22 16:20:00,low,call_quality,closed
+tkt_0001904,cmp_0112,2026-03-26 12:32:00,2026-03-29 06:32:00,medium,integration,closed
+tkt_0001905,cmp_0112,2026-03-27 15:42:00,2026-03-28 13:42:00,low,billing,closed
+tkt_0001906,cmp_0112,2026-04-02 11:22:00,2026-04-03 19:22:00,low,bug,closed
+tkt_0001907,cmp_0112,2026-04-04 12:01:00,,low,feature_request,open
+tkt_0001908,cmp_0112,2026-04-09 17:55:00,2026-04-12 13:55:00,low,call_quality,closed
+tkt_0001909,cmp_0112,2026-04-17 09:51:00,2026-04-19 10:51:00,medium,feature_request,closed
+tkt_0001910,cmp_0112,2026-04-17 14:20:00,,medium,onboarding,open
+tkt_0001911,cmp_0112,2026-04-25 08:26:00,2026-04-25 16:26:00,medium,onboarding,closed
+tkt_0001912,cmp_0112,2026-04-26 14:48:00,2026-04-26 22:48:00,high,onboarding,closed
+tkt_0001913,cmp_0112,2026-05-05 09:21:00,2026-05-05 23:21:00,low,onboarding,closed
+tkt_0001914,cmp_0112,2026-05-09 15:04:00,2026-05-09 17:04:00,high,account_admin,closed
+tkt_0001915,cmp_0112,2026-05-11 18:13:00,2026-05-12 06:13:00,low,call_quality,closed
+tkt_0001916,cmp_0112,2026-05-14 18:46:00,2026-05-18 06:46:00,low,call_quality,closed
+tkt_0001917,cmp_0112,2026-05-15 11:56:00,2026-05-16 20:56:00,medium,call_quality,closed
+tkt_0001918,cmp_0112,2026-05-17 08:34:00,2026-05-18 15:34:00,medium,call_quality,closed
+tkt_0001919,cmp_0112,2026-05-22 08:37:00,2026-05-23 16:37:00,medium,onboarding,closed
+tkt_0001920,cmp_0112,2026-05-26 13:45:00,2026-05-27 22:45:00,high,integration,closed
+tkt_0001921,cmp_0112,2026-05-30 09:47:00,2026-05-31 22:47:00,low,call_quality,closed
+tkt_0001922,cmp_0112,2026-06-10 16:30:00,2026-06-12 08:30:00,medium,integration,closed
+tkt_0001923,cmp_0112,2026-06-13 16:20:00,2026-06-15 04:20:00,medium,integration,closed
+tkt_0001924,cmp_0112,2026-06-17 15:37:00,2026-06-20 03:37:00,low,account_admin,closed
+tkt_0001925,cmp_0112,2026-06-17 17:58:00,2026-06-22 16:58:00,low,integration,closed
+tkt_0001926,cmp_0113,2026-04-03 15:59:00,,low,integration,open
+tkt_0001927,cmp_0113,2026-04-21 10:28:00,2026-04-21 20:28:00,urgent,billing,closed
+tkt_0001928,cmp_0113,2026-04-25 15:43:00,,medium,feature_request,open
+tkt_0001929,cmp_0113,2026-06-07 11:50:00,,high,bug,open
+tkt_0001930,cmp_0113,2026-06-10 13:54:00,,low,account_admin,open
+tkt_0001931,cmp_0114,2026-02-27 14:55:00,2026-03-03 02:55:00,low,integration,closed
+tkt_0001932,cmp_0114,2026-03-30 18:09:00,2026-03-31 00:09:00,medium,onboarding,closed
+tkt_0001933,cmp_0114,2026-04-03 18:32:00,2026-04-05 03:32:00,low,onboarding,closed
+tkt_0001934,cmp_0114,2026-04-10 15:43:00,2026-04-13 10:43:00,medium,feature_request,closed
+tkt_0001935,cmp_0114,2026-04-30 08:39:00,2026-04-30 12:39:00,high,bug,closed
+tkt_0001936,cmp_0114,2026-06-15 17:45:00,2026-06-18 12:45:00,low,call_quality,closed
+tkt_0001937,cmp_0115,2025-10-28 16:38:00,,high,integration,open
+tkt_0001938,cmp_0115,2025-12-14 16:13:00,2025-12-16 06:13:00,medium,billing,closed
+tkt_0001939,cmp_0115,2025-12-30 11:55:00,2026-01-01 14:55:00,low,feature_request,closed
+tkt_0001940,cmp_0115,2026-01-02 11:28:00,2026-01-05 09:28:00,low,feature_request,closed
+tkt_0001941,cmp_0115,2026-01-10 13:49:00,2026-01-14 20:49:00,low,onboarding,closed
+tkt_0001942,cmp_0115,2026-01-18 14:45:00,,medium,bug,open
+tkt_0001943,cmp_0115,2026-01-22 09:27:00,2026-01-23 22:27:00,low,feature_request,closed
+tkt_0001944,cmp_0115,2026-02-11 11:32:00,,low,billing,open
+tkt_0001945,cmp_0115,2026-02-19 17:17:00,2026-02-24 03:17:00,low,onboarding,closed
+tkt_0001946,cmp_0115,2026-05-24 12:11:00,2026-05-25 16:11:00,low,account_admin,closed
+tkt_0001947,cmp_0115,2026-05-29 09:17:00,,medium,integration,open
+tkt_0001948,cmp_0115,2026-06-12 13:02:00,2026-06-14 06:02:00,high,bug,closed
+tkt_0001949,cmp_0116,2025-12-07 14:22:00,,high,billing,open
+tkt_0001950,cmp_0116,2025-12-08 13:11:00,2025-12-10 06:11:00,medium,onboarding,closed
+tkt_0001951,cmp_0116,2025-12-11 14:50:00,,medium,bug,open
+tkt_0001952,cmp_0116,2025-12-14 11:43:00,2025-12-19 02:43:00,low,onboarding,closed
+tkt_0001953,cmp_0116,2026-01-12 10:18:00,2026-01-14 03:18:00,high,integration,closed
+tkt_0001954,cmp_0116,2026-01-17 14:51:00,,low,account_admin,open
+tkt_0001955,cmp_0116,2026-01-24 09:06:00,2026-01-26 03:06:00,high,feature_request,closed
+tkt_0001956,cmp_0116,2026-01-29 17:54:00,2026-01-31 15:54:00,low,bug,closed
+tkt_0001957,cmp_0116,2026-01-30 16:27:00,2026-02-03 03:27:00,low,billing,closed
+tkt_0001958,cmp_0116,2026-02-16 15:53:00,2026-02-17 15:53:00,low,account_admin,closed
+tkt_0001959,cmp_0116,2026-02-23 11:10:00,2026-02-25 13:10:00,low,billing,closed
+tkt_0001960,cmp_0116,2026-02-25 16:27:00,,low,onboarding,open
+tkt_0001961,cmp_0116,2026-03-02 18:33:00,2026-03-03 17:33:00,medium,integration,closed
+tkt_0001962,cmp_0116,2026-03-24 17:49:00,2026-03-24 20:49:00,urgent,onboarding,closed
+tkt_0001963,cmp_0116,2026-04-05 10:31:00,2026-04-06 04:31:00,low,onboarding,closed
+tkt_0001964,cmp_0116,2026-04-10 10:39:00,2026-04-12 02:39:00,low,call_quality,closed
+tkt_0001965,cmp_0116,2026-04-11 10:14:00,2026-04-14 02:14:00,low,feature_request,closed
+tkt_0001966,cmp_0116,2026-04-21 13:30:00,2026-04-22 04:30:00,medium,onboarding,closed
+tkt_0001967,cmp_0116,2026-05-05 13:27:00,2026-05-09 14:27:00,low,onboarding,closed
+tkt_0001968,cmp_0116,2026-05-16 18:20:00,,low,billing,open
+tkt_0001969,cmp_0116,2026-06-02 11:59:00,2026-06-04 05:59:00,low,call_quality,closed
+tkt_0001970,cmp_0116,2026-06-12 12:59:00,2026-06-16 13:59:00,low,integration,closed
+tkt_0001971,cmp_0116,2026-06-17 16:39:00,2026-06-18 18:39:00,medium,bug,closed
+tkt_0001972,cmp_0117,2026-02-18 18:16:00,2026-02-19 10:16:00,medium,integration,closed
+tkt_0001973,cmp_0117,2026-03-01 12:20:00,2026-03-03 16:20:00,medium,account_admin,closed
+tkt_0001974,cmp_0117,2026-03-14 15:40:00,2026-03-17 21:40:00,low,onboarding,closed
+tkt_0001975,cmp_0117,2026-03-21 11:47:00,2026-03-26 09:47:00,low,bug,closed
+tkt_0001976,cmp_0117,2026-04-05 09:13:00,2026-04-06 14:13:00,medium,integration,closed
+tkt_0001977,cmp_0117,2026-04-12 08:39:00,2026-04-13 02:39:00,medium,onboarding,closed
+tkt_0001978,cmp_0117,2026-05-27 14:15:00,2026-05-28 20:15:00,low,onboarding,closed
+tkt_0001979,cmp_0117,2026-05-28 14:32:00,2026-06-01 05:32:00,low,billing,closed
+tkt_0001980,cmp_0117,2026-06-08 11:53:00,2026-06-10 06:53:00,medium,onboarding,closed
+tkt_0001981,cmp_0117,2026-06-08 08:25:00,2026-06-09 14:25:00,low,billing,closed
+tkt_0001982,cmp_0117,2026-06-17 11:13:00,2026-06-19 11:13:00,high,bug,closed
+tkt_0001983,cmp_0118,2025-11-26 08:10:00,2025-12-01 03:10:00,low,call_quality,closed
+tkt_0001984,cmp_0118,2025-11-27 14:56:00,2025-11-28 15:56:00,medium,account_admin,closed
+tkt_0001985,cmp_0118,2025-11-28 14:11:00,2025-12-03 08:11:00,low,feature_request,closed
+tkt_0001986,cmp_0118,2025-11-29 10:04:00,2025-11-30 04:04:00,high,feature_request,closed
+tkt_0001987,cmp_0118,2025-12-04 09:57:00,2025-12-04 15:57:00,urgent,call_quality,closed
+tkt_0001988,cmp_0118,2025-12-08 17:25:00,2025-12-11 00:25:00,medium,onboarding,closed
+tkt_0001989,cmp_0118,2025-12-14 16:33:00,2025-12-18 22:33:00,low,call_quality,closed
+tkt_0001990,cmp_0118,2025-12-14 14:39:00,2025-12-16 12:39:00,medium,feature_request,closed
+tkt_0001991,cmp_0118,2025-12-16 15:56:00,2025-12-20 13:56:00,low,feature_request,closed
+tkt_0001992,cmp_0118,2025-12-25 13:59:00,2025-12-28 08:59:00,medium,billing,closed
+tkt_0001993,cmp_0118,2026-01-06 10:16:00,2026-01-09 05:16:00,medium,integration,closed
+tkt_0001994,cmp_0118,2026-01-11 13:51:00,2026-01-11 21:51:00,high,onboarding,closed
+tkt_0001995,cmp_0118,2026-01-12 13:04:00,2026-01-13 19:04:00,medium,onboarding,closed
+tkt_0001996,cmp_0118,2026-01-23 12:27:00,2026-01-25 10:27:00,medium,billing,closed
+tkt_0001997,cmp_0118,2026-01-28 09:47:00,2026-01-29 06:47:00,medium,onboarding,closed
+tkt_0001998,cmp_0118,2026-02-14 11:27:00,2026-02-17 02:27:00,low,feature_request,closed
+tkt_0001999,cmp_0118,2026-02-18 18:12:00,2026-02-20 11:12:00,medium,account_admin,closed
+tkt_0002000,cmp_0118,2026-03-18 09:36:00,2026-03-19 06:36:00,high,integration,closed
+tkt_0002001,cmp_0118,2026-03-23 17:19:00,2026-03-24 11:19:00,urgent,onboarding,closed
+tkt_0002002,cmp_0118,2026-04-05 12:52:00,2026-04-10 09:52:00,low,account_admin,closed
+tkt_0002003,cmp_0118,2026-05-14 17:17:00,2026-05-16 12:17:00,low,onboarding,closed
+tkt_0002004,cmp_0118,2026-05-27 18:33:00,2026-05-29 12:33:00,medium,onboarding,closed
+tkt_0002005,cmp_0119,2026-02-19 14:09:00,2026-02-22 03:09:00,low,bug,closed
+tkt_0002006,cmp_0119,2026-03-12 11:57:00,2026-03-13 02:57:00,medium,integration,closed
+tkt_0002007,cmp_0119,2026-03-31 10:49:00,2026-04-03 16:49:00,low,bug,closed
+tkt_0002008,cmp_0120,2025-10-24 17:17:00,2025-10-27 14:17:00,low,onboarding,closed
+tkt_0002009,cmp_0120,2025-10-25 18:14:00,2025-10-29 22:14:00,low,call_quality,closed
+tkt_0002010,cmp_0120,2025-11-06 08:19:00,2025-11-09 06:19:00,medium,feature_request,closed
+tkt_0002011,cmp_0120,2025-11-29 10:00:00,2025-12-02 05:00:00,low,bug,closed
+tkt_0002012,cmp_0120,2026-02-10 13:57:00,,medium,onboarding,open
+tkt_0002013,cmp_0120,2026-02-26 18:26:00,2026-02-26 20:26:00,high,billing,closed
+tkt_0002014,cmp_0120,2026-04-27 08:08:00,2026-04-27 18:08:00,high,onboarding,closed
+tkt_0002015,cmp_0120,2026-05-31 14:08:00,2026-06-02 23:08:00,low,integration,closed
+tkt_0002016,cmp_0120,2026-06-01 14:39:00,2026-06-03 14:39:00,high,account_admin,closed
