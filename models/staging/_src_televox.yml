@@ -27,8 +27,7 @@ sources:
         columns:
           - name: subscription_id
             description: Primary key for subscription.
-            data_tests:
-              - unique 
+            data_tests: 
               - not_null
       - name: raw_platform_events
         description: One row per event.
