@@ -60,3 +60,10 @@ sources:
               - unique 
               - not_null 
       - name: raw_cdc_subscription_changes
+        description: One row per subscription data change. 
+        columns:
+          - name: change_id
+            description: Primary key for subscription changes. 
+            data_tests:
+              - unique 
+              - not_null 
