@@ -1,0 +1,69 @@
+version: 2
+
+sources:
+  - name: telavox_raw
+    database: tvox-500517
+    schema: telavox_mock_raw
+    tables:
+      - name: raw_companies
+        description: One row per company.
+        columns:
+          - name: company_id
+            description: Primary key for company data.
+            data_tests:
+              - unique 
+              - not_null 
+      - name: raw_users
+        description: One row per user. 
+        columns:
+          - name: user_id
+            description: Primary key for company user data.
+            data_tests:
+              - unique
+              - not_null
+              
+      - name: raw_subscriptions
+        description: One row per subscription.
+        columns:
+          - name: subscription_id
+            description: Primary key for subscription.
+            data_tests: 
+              - not_null
+      - name: raw_platform_events
+        description: One row per event.
+        columns:
+          - name: event_id
+            description: primary key for events.
+            data_tests:
+              - unique:
+                  config:
+                    severity: warn 
+              - not_null
+                  
+              
+      - name: raw_invoices
+        description: One row per invoice.
+        data_tests:
+        columns:
+          - name: invoice_id
+            description: Primary key for invoice data. 
+            data_tests:
+              - unique
+              - not_null
+        
+      - name: raw_support_tickets
+        description: One row per support ticket.
+        columns:
+          - name: ticket_id
+            description: Primary key for support ticket data. 
+            data_tests:
+              - unique 
+              - not_null 
+      - name: raw_cdc_subscription_changes
+        description: One row per subscription data change. 
+        columns:
+          - name: change_id
+            description: Primary key for subscription changes. 
+            data_tests:
+              - unique 
+              - not_null 
