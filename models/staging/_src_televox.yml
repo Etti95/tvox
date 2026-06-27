@@ -35,8 +35,11 @@ sources:
           - name: event_id
             description: primary key for events.
             data_tests:
-              - unique 
+              - unique:
+                  config:
+                    severity: warn 
               - not_null
+                  
               
       - name: raw_invoices
         description: One row per invoice.

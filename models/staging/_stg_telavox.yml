@@ -1,0 +1,11 @@
+models:
+  - name: stg_companies
+    description: 
+  - name: stg_invoices
+
+  - name: stg_platform_events
+  - name: stg_subscriptions
+  - name: stg_users
+
+
+
