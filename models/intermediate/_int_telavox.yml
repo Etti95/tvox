@@ -18,4 +18,17 @@ models:
         description: One row per company event in the calendar
       - name: date_day
         description: One row per date
+
+  - name: int_daily_platform_usage
+    description: One row per company event on each date
+    columns:
+      - name: event_date
+        description: the date each event takes place on. 
+        data_tests:
+          - not_null
+
+      - name: company_id
+        description: primary key for company id that is responsible for each event.
+        data_tests:
+          - not_null
         

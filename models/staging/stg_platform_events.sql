@@ -11,6 +11,7 @@ renamed as (
         cast(user_id as string) as user_id,
         cast(event_type as string) as event_type,
         cast(event_timestamp as timestamp) as event_timestamp,
+        date(cast(event_timestamp as timestamp)) as event_date,
         cast(quantity as int) as quantity,
         cast(duration_seconds as int64) as duration_seconds,
         cast(source_system as string) as source_system,
