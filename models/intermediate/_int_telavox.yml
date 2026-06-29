@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: int_date_spine
+    description: One row per calendar date
+    columns:
+      - name: date_day
+        description: calendar date.
+        data_tests:
+          - unique 
+          - not_null
+          
