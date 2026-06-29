@@ -9,4 +9,13 @@ models:
         data_tests:
           - unique 
           - not_null
-          
+
+
+  - name: int_company_dates
+    description: One row per company calendar date
+    columns:
+      - name: company_id
+        description: One row per company event in the calendar
+      - name: date_day
+        description: One row per date
+        

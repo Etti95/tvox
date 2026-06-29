@@ -1,11 +1,8 @@
 
 with min_dates as (
     select min(date(created_at)) as min_date
-    from {{ ref('stg_companies')}}
+    from {{ ref('stg_companies') }}
 ),
-
-
-
 
 date_spine as (
     select date_day
