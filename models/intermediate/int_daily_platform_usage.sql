@@ -13,7 +13,7 @@ with events as (
         from {{ ref('stg_platform_events') }}
 
     {% if is_incremental() %}
-    where event_date >= date_sub(current_date(), interval 3 day)
+    where event_date >= date_sub(current_date(), interval 365 day)
     {% endif %}
 ),
 

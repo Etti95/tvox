@@ -10,7 +10,7 @@ renamed as (
     cast(invoice_month as date) as invoice_month,
     cast(invoice_date as timestamp) as invoice_date,
     cast(amount_sek as int) as amount_sek,
-    cast(status as string) as status,
+    cast(status as string) as invoice_status,
     cast(paid_at as timestamp) as paid_at
 
 
