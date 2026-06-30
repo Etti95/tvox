@@ -46,3 +46,32 @@ models:
         description: Date of each month the invoices are related to
         data_tests:
           - not_null 
+
+
+  - name: int_daily_support_tickets
+    description: One row per support ticket status
+    columns:
+      - name: company_id
+        description: the company the support ticket concerns
+        data_tests:
+        - not_null
+          
+      - name: date_day
+        description: the date each invoice takes place on.
+        data_tests:
+          - not_null 
+
+
+  - name: int_active_subscription_days
+    description: One row per company subscription day
+    columns:
+      - name: company_id
+        description: Primary key for the company that has a subscription
+        data_tests:
+          - not_null 
+      - name: date_day
+        description: One row per date of an active subscription
+        data_tests:
+          - not_null 
+
+          
