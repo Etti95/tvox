@@ -1,0 +1,5 @@
+plan_type,list_price_sek,included_users,included_minutes
+Basic,499,5,500
+Growth,1499,20,3000
+Business,3999,75,15000
+Enterprise,9999,250,50000
