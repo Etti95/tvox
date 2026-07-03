@@ -2,6 +2,7 @@ with source as (
     select * from {{ source("telavox_raw", "raw_subscriptions") }}
 ),
 
+
 renamed as (
     select 
         cast(subscription_id as string) as subscription_id,
@@ -14,6 +15,8 @@ renamed as (
         cast(billing_period as string) as billing_period
 
     from source
+
+
 )
 
 select * from renamed
