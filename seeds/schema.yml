@@ -1,0 +1,29 @@
+version: 2
+
+seeds:
+  - name: plan_reference
+    description: Business-defined reference table for Telavox subscription plans.
+    columns:
+      - name: plan_type
+        description: name of the subscription plan
+        data_tests:
+          - unique 
+          - not_null 
+
+      - name: list_price_sek
+        description: price of the respective plans
+        data_tests:
+          - not_null 
+      
+      - name: included_users
+        description: Number of users included in the plan.
+        data_tests:
+          - not_null 
+
+      - name: included_minutes
+        description: Number of voice minutes included in the plan
+        data_tests:
+          - not_null
+
+          
+          

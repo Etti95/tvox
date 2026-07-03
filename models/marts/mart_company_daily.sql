@@ -17,7 +17,7 @@ with company_dates as (
 
 {% if is_incremental() %}
     -- this filter will only be applied on an incremental run
-    where date_day >= date_sub(current_date() - interval 3 day)
+    where date_day >= date_sub(current_date(), - interval 3 day)
 {% endif %}
 ),
 
@@ -48,7 +48,7 @@ final as (
         cd.company_id,
         cd.date_day,
 
-        c.company_id,
+
         c.company_name,
         c.country,
         c.employee_count,
@@ -59,55 +59,46 @@ final as (
         c.total_users,
         c.active_users,
 
-        s.date_day,
-        s.company_id,
-        s.active_subscriptions,
-        s.active_mrr,
+        coalesce(s.active_subscriptions, 0) as active_subscriptions,
+        coalesce(s.active_mrr_sek, 0) as active_mrr,
         s.current_plan_type,
 
-        pu.event_date,
-        pu.company_id,
-        
-        pu.total_events,
-        pu.voice_calls,
-        pu.sms_events,
-        pu.sms_quantity,
-        pu.api_calls,
-        pu.contact_center_events,
-        pu.meetings,
-        pu.pbx_updates,
-        pu.voice_call_seconds,
-        pu.meeting_seconds,
-        pu.active_users,
+        coalesce(pu.total_events, 0) as total_events,
+        coalesce(pu.voice_calls, 0) as voice_calls,
+        coalesce(pu.sms_events, 0) as sms_events,
+        coalesce(pu.sms_quantity, 0) as sms_quantity,
+        coalesce(pu.api_calls, 0) as api_calls,
+        coalesce(pu.contact_center_events, 0) as contact_center_events,
+        coalesce(pu.meetings, 0) as meetings,
+        coalesce(pu.pbx_updates, 0) as pbx_updates,
+        coalesce(pu.voice_call_seconds, 0) as voice_call_seconds,
+        coalesce(pu.meeting_seconds, 0) as meeting_seconds,
+        coalesce(pu.active_users, 0) as daily_active_users,
 
-        sts.date_day,
-        sts.company_id,
-        sts.opened_tickets,
-        sts.high_priority_tickets,
-        sts.open_tickets,
-        sts.closed_tickets,
+        coalesce(sts.opened_tickets, 0) as opened_tickets,
+        coalesce(sts.high_priority_tickets, 0) as high_priority_tickets,
+        coalesce(sts.open_tickets, 0) as open_tickets,
+        coalesce(sts.closed_tickets, 0) as closed_tickets,
 
-        i.invoice_month,
-        i.company_id,
-        i.invoiced_amount_sek,
-        i.total_invoices,
-        i.paid_invoices,
-        i.void_invoices,
-        i.paid_late_invoices,
-        i.overdue_invoices,
+        coalesce(i.invoiced_amount_sek, 0) as invoiced_amount_sek,
+        coalesce(i.total_invoices, 0) as total_invoices,
+        coalesce(i.paid_invoices, 0) as paid_invoices,
+        coalesce(i.void_invoices, 0) as void_invoices,
+        coalesce(i.paid_late_invoices, 0) as paid_late_invoices,
+        coalesce(i.overdue_invoices, 0) as overdue_invoices,
 
-    case 
-        when coalesce(s.active_mrr, 0) = 0 then 'inactive'
-        when coalesce(i.overdue_invoices, 0) > 0 then 'billing risk'
-        when coalesce(sts.high_priority_tickets, 0) > 2 then 'high risk'
-        when coalesce(pu.total_events, 0) = 0 then 'usage risk'
-    else 'healthy'
-    end as customer_health_status
+        case 
+            when coalesce(s.active_mrr_sek, 0) = 0 then 'inactive'
+            when coalesce(i.overdue_invoices, 0) > 0 then 'billing risk'
+            when coalesce(sts.high_priority_tickets, 0) > 2 then 'high risk'
+            when coalesce(pu.total_events, 0) = 0 then 'usage risk'
+        else 'healthy'
+        end as customer_health_status
 
 
     from company_dates as cd
 
-    left join company as cd on cd.company_id = c.company_id
+    left join company as c on cd.company_id = c.company_id
 
     left join subscriptions as s on cd.company_id = s.company_id 
         and cd.date_day = s.date_day
