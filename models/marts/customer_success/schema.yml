@@ -1,0 +1,13 @@
+models:
+  - name: fct_daily_support_tickets
+    description: One row per support ticket status
+    columns:
+      - name: company_id
+        description: the company the support ticket concerns
+        data_tests:
+        - not_null
+          
+      - name: date_day
+        description: the date each invoice takes place on.
+        data_tests:
+          - not_null 

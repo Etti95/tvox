@@ -1,0 +1,20 @@
+models:
+  - name: fct_daily_subscription_revenue
+    description: One row per company subscription day
+    columns:
+      - name: company_id
+        description: Primary key for the company that has a subscription
+        data_tests:
+          - not_null 
+      - name: date_day
+        description: One row per date of an active subscription
+        data_tests:
+          - not_null 
+
+  - name: fct_monthly_invoice_status
+    description: One row per invoice status per company
+    columns:
+      - name: company_id
+        description: primary key for each company the invoices concern.
+        data_tests:
+          - not_null 

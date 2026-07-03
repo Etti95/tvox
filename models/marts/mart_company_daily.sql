@@ -27,19 +27,19 @@ company as (
 ),
 
 subscriptions as (
-    select * from {{ ref('int_active_subscription_days') }}
+    select * from {{ ref('fct_daily_subscription_revenue') }}
 ),
 
 platform_usage as (
-    select * from {{ ref('int_daily_platform_usage') }}
+    select * from {{ ref('fct_daily_platform_usage') }}
 ),
 
 support_ticket_signals as (
-    select * from {{ ref('int_daily_support_tickets') }}
+    select * from {{ ref('fct_daily_support_tickets') }}
 ),
 
 invoices as (
-    select * from {{ ref('int_daily_invoice_status') }}
+    select * from {{ ref('fct_monthly_invoice_status') }}
 ),
 
 final as (
@@ -97,10 +97,12 @@ final as (
         i.overdue_invoices,
 
     case 
-        when coalesce(s.active_mrr, 0) = 0 then 'inactive',
-        when coalesce(i.overdue_invoices, 0) > 0 then 'billing risk',
-        when coalesce(sts.high_priority_tickets, 0) > 2 then 'high risk',
-        when coalesce(pu.total_events, 0) = 0 then "usage risk"
+        when coalesce(s.active_mrr, 0) = 0 then 'inactive'
+        when coalesce(i.overdue_invoices, 0) > 0 then 'billing risk'
+        when coalesce(sts.high_priority_tickets, 0) > 2 then 'high risk'
+        when coalesce(pu.total_events, 0) = 0 then 'usage risk'
+    else 'healthy'
+    end as customer_health_status
 
 
     from company_dates as cd

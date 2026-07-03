@@ -10,6 +10,8 @@ users as(
         countif(deactivated_at is null) as active_users
 
     from {{ ref('stg_users') }}
+
+    group by 1
 )
 
 select  
