@@ -1,3 +1,5 @@
+-- Grain: One row per subscription
+
 with subs as (
     select * from {{ ref('stg_subscriptions') }}
 ),
