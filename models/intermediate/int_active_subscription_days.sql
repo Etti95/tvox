@@ -17,9 +17,9 @@ active_subscription_days as (
         max(s.plan_type) as current_plan_type
 
 
-    from subs as s
+    from company_dates as cd
     left join
-        company_dates as cd on s.company_id = cd.company_id
+        subs as s on cd.company_id = s.company_id
         and cd.date_day >= date(s.valid_from)
         and (s.valid_to is null or date(s.valid_to) > cd.date_day)
         and s.status = 'active'
@@ -31,9 +31,9 @@ active_subscription_days as (
     select 
         date_day,
         company_id,
-        coalesce(active_subscriptions, 0) as active_subscriptions,
         active_mrr as active_mrr_sek,
-        current_plan_type
+        current_plan_type,
+        coalesce(active_subscriptions, 0) as active_subscriptions
 
     from 
         active_subscription_days
