@@ -16,6 +16,14 @@ models:
       +materialized: table
     marts:
       +materialized: table
+      core:
+        +schema: core
+      customer_success:
+        +schema: customer_success
+      product:
+        +schema: product
+      finance:
+        +schema: finance
 
 seeds:
   telavox_mock:

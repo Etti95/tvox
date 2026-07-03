@@ -11,6 +11,7 @@ select
     cast(country as string) as country,
     cast(industry as string) as industry,
     cast(employee_count as int) as employee_count,
+    cast(sales_segment as string) as sales_segment,
     cast(account_owner as string) as account_owner,
     cast(created_at as timestamp) as created_at,
     cast(is_test_account as bool) as is_test_account

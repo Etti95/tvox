@@ -1,0 +1,13 @@
+models:
+  - name: dim_companies
+    description: Company dimension enriched with user counts
+    columns:
+      - name: company_id
+        description: Primary key for company level data
+        data_tests:
+          - unique 
+          - not_null
+
+  - name: mart_company_daily
+    description: gold mart with the grain one row company_id per date_day
+          
