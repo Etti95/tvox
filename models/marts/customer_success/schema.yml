@@ -1,13 +1,29 @@
 models:
   - name: fct_daily_support_tickets
-    description: One row per support ticket status
+    description: Company-level fact table that provides information of the current health of company support tickets. The grain is one row per support ticket status. The table informs which supports tickets remain opened and have been closed and whether there are high_priority_tickets that remain unsolved. 
     columns:
       - name: company_id
         description: the company the support ticket concerns
         data_tests:
         - not_null
-          
+        - relationships:
+            arguments: 
+              to: ref('dim_companies')
+              field: company_id
+
       - name: date_day
         description: the date each invoice takes place on.
         data_tests:
           - not_null 
+
+      - name: opened_tickets
+        description: Tickets that have been opened by the customer success team. 
+
+      - name: high_priority_tickets
+        description: Tickets with higher importance than standard customer tickets. 
+
+      - name: open_tickets
+        description: Tickets that remain open.
+      - name: closed_tickets
+        description: Tickets that have been closed and dealt with. 
+         

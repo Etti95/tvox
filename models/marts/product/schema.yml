@@ -1,6 +1,9 @@
+version: 2
+
+
 models:
   - name: fct_daily_platform_usage
-    description: One row per company event on each date
+    description: Daily company level platform usage. The grain is one row per company_id on each event_date. Includes selected product usage events such as voice calls, SMS, meetings, API-calls, customer-center events, and PBX updates. 
     columns:
       - name: event_date
         description: the date each event takes place on. 
@@ -12,4 +15,43 @@ models:
         data_tests:
           - not_null 
   
-    
+
+      - name: total_events
+        description: Total number of included platform events for the company on event_date.
+
+
+      - name: voice_calls
+        description: Count of voice_call_started events.
+
+
+      - name: sms_events
+        description: Count of sms_sent events.
+
+
+      - name: sms_quantity
+        description: Total SMS quantity sent, based on the quantity field for sms_sent events.
+
+
+      - name: api_calls
+        description: Count of api_call events.
+
+      - name: contact_center_events
+        description: Count of contact_center_events
+
+
+      - name: meetings
+        description: Total amount of meetings on date_day for the company.
+
+
+      - name: pbx_updates
+        description: Count of pbx_ubdates on date_day for the company.
+
+      - name: voice_call_seconds
+        description: Total amount of voice_call_seconds on date_day per company
+
+      - name: meeting_seconds
+        description: Total amount of meeting_seconds on date_day per company
+
+
+      - name: active_users
+        description: Distinct amount of active_users for the company on date_day.

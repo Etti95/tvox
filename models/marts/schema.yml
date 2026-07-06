@@ -2,14 +2,14 @@ version: 2
 
 models:
   - name: mart_company_daily
-    description: Company-level daily mart that combines revenue, product usage, support-ticket, invoice and customer health signals.
-    The grain is one company per row per date_day. This model is intended for executive reporting, customer health monitoring, and cross-functional self-service analytics.
+    description: Company-level daily mart that combines revenue, product usage, support-ticket, invoice and customer health signals. The grain is one company per row per date_day. This model is intended for executive reporting, customer health monitoring, and cross-functional self-service analytics.
 
     data_tests:
       - dbt_utils.unique_combination_of_columns:
-        combination_of_columns:
-        - date_day
-        - company_id
+          arguments: 
+            combination_of_columns:
+            - date_day
+            - company_id
 
     columns:
       - name: date_day
@@ -22,8 +22,9 @@ models:
         data_tests:
           - not_null 
           - relationships:
-              to: ref('dim_companies')
-              field: company_id
+              arguments: 
+                to: ref('dim_companies')
+                field: company_id
 
       - name: company_name
         description: Name of the company/account.
@@ -76,4 +77,5 @@ models:
           high_risk, usage_risk, or healthy.
         data_tests:
           - accepted_values:
-              values: ['inactive', 'billing_risk', 'high_risk', 'usage_risk', 'healthy']
+              arguments: 
+                values: ['inactive', 'billing_risk', 'high_risk', 'usage_risk', 'healthy']

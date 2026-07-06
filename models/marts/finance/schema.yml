@@ -1,20 +1,57 @@
 models:
   - name: fct_daily_subscription_revenue
-    description: One row per company subscription day
+    description: Daily company-level subscription revenue fact table. The grain is one row per company_id per date_day. Converts subscription validity windows into daily active subscription and MRR values.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            - company_id
+            - date_day
     columns:
       - name: company_id
         description: Primary key for the company that has a subscription
         data_tests:
           - not_null 
+          - relationships:
+              arguments: 
+                to: ref('dim_companies')
+                field: company_id
+        
       - name: date_day
         description: One row per date of an active subscription
         data_tests:
           - not_null 
 
+      - name: active_mrr_sek
+        description: Sum of monthly_price_sek for subscriptions active on date_day.
+
+      - name: current_plan_type
+        description: Active plan type on date_day, if available.
+
+      - name: active_subscriptions
+        description: Count of subscriptions active for the company on date_day.
+
+
+
+
   - name: fct_monthly_invoice_status
-    description: One row per invoice status per company
+    description: Monthly company-level invoice health status fact table. The grain is one invoiced company_id per month. It turns invoice data into monthly invoice status and gives an insight into the health of each related invoice.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments: 
+          - company_id
+          - invoice_month
+
     columns:
       - name: company_id
         description: primary key for each company the invoices concern.
+        data_tests:
+          - not_null 
+          - relationships:
+              arguments: 
+                to: ref('dim_companies')
+                field: company_id 
+
+      - name: invoice_month
+        description: Provides the date of each month the company invoice concerns. 
         data_tests:
           - not_null 
