@@ -66,6 +66,15 @@ models:
 
   - name: fct_monthly_invoice_status
     description: Monthly company-level invoice health status fact table. The grain is one invoiced company_id per month. It turns invoice data into monthly invoice status and gives an insight into the health of each related invoice.
+
+    semantic_model: 
+      enabled: true
+
+
+    primary_entity: company_invoice_month
+    agg_time_dimension: date_day
+
+
     data_tests:
       - dbt_utils.unique_combination_of_columns:
           arguments: 
@@ -76,6 +85,10 @@ models:
     columns:
       - name: company_id
         description: primary key for each company the invoices concern.
+        entity: 
+          name: company
+          type: foreign
+
         data_tests:
           - not_null 
           - relationships:
@@ -85,5 +98,35 @@ models:
 
       - name: invoice_month
         description: Provides the date of each month the company invoice concerns. 
+        dimension: 
+          type: time
+        granularity: month
         data_tests:
           - not_null 
+
+
+      - name: invoiced_amount_sek
+        description: The amount of SEK invoiced per company per month.
+
+      - name: total_invoices
+        description: The amount of invoices the company has received for the month. 
+
+      - name: paid_invoices
+        description: The amount of paid invoices.
+
+      - name: void_invoices
+        description: The number of void invoices.
+
+      - name: paid_late_invoices
+        description: Invoices paid late. 
+
+      - name: overdue_invoices
+        description: Invoices that are overdue.
+
+    metrics: 
+
+    - name: invoiced_amount_sek
+      description: The amount in SEK that has been invoiced to a company for the month. 
+      type: simple
+      agg: sum
+      expr: invoiced_amount_sek

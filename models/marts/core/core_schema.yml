@@ -1,9 +1,20 @@
 models:
   - name: dim_companies
     description: Company dimension table containing one row per company/account. This model provides descriptive company attributes such as company name, country, industry, employee count, sales segment, account owner, creation timestamp, and user counts. It is used to enrich company-level fact tables and marts.
+
+    semantic_model: 
+      enabled: true
+
+    agg_time_dimension: created_at
+
     columns:
       - name: company_id
         description: Primary key for company level data and acts as a unique identifier of the account. 
+        entity: 
+          name: company
+          type: primary
+          
+
         data_tests:
           - unique 
           - not_null
@@ -11,10 +22,14 @@ models:
 
       - name: company_name
         description: Name of the company/account.
+        dimension: 
+          type: categorical
 
 
       - name: country
         description: Country associated with the account
+        dimension: 
+          type: categorical
 
       - name: employee_count
         description: Number of employees associated the account. 
@@ -25,11 +40,20 @@ models:
 
       - name: sales_segment
         description: Sales segments connected to the account. 
+        dimension: 
+          type: categorical
 
       - name: account_owner
         description: Name of the account owner.
+        dimension: 
+          type: categorical 
+
       - name: created_at
         description: Date the account was created at. 
+        dimension: 
+          type: time
+        granularity: day 
+
       - name: is_test_account
         description: Boolean value that checks whether it is a test account or professional account. 
 
@@ -46,3 +70,24 @@ models:
           - dbt_utils.expression_is_true:
               arguments: 
                 expression: " >= 0"
+
+
+    metrics:
+      - name: active_users
+        description: Active users per company account.
+        type: simple
+        agg: sum 
+        expr: active_users 
+
+      - name: total_users
+        description: The total amount of users associated with the account.
+        type: simple
+        agg: sum
+        expr: total_users
+
+      - name: employee_count
+        description: The amount of employees working within the company.
+        type: simple
+        agg: sum
+        expr: employee_count
+
