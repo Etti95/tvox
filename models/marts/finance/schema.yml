@@ -1,6 +1,13 @@
 models:
   - name: fct_daily_subscription_revenue
     description: Daily company-level subscription revenue fact table. The grain is one row per company_id per date_day. Converts subscription validity windows into daily active subscription and MRR values.
+
+    semantic_model:
+      enabled: true
+
+    primary_entity: company_revenue_day
+    agg_time_dimension: date_day
+
     data_tests:
       - dbt_utils.unique_combination_of_columns:
           arguments:
@@ -10,6 +17,9 @@ models:
     columns:
       - name: company_id
         description: Primary key for the company that has a subscription
+        entity: 
+          name: company
+          type: foreign
         data_tests:
           - not_null 
           - relationships:
@@ -19,17 +29,37 @@ models:
         
       - name: date_day
         description: One row per date of an active subscription
+        dimension: 
+          type: time
+        granularity: day
         data_tests:
           - not_null 
 
       - name: active_mrr_sek
         description: Sum of monthly_price_sek for subscriptions active on date_day.
 
+
       - name: current_plan_type
         description: Active plan type on date_day, if available.
+        dimension: 
+          type: categorical
 
       - name: active_subscriptions
         description: Count of subscriptions active for the company on date_day.
+
+
+    metrics: 
+      - name: active_mrr_sek
+        description: Total active monthly recurring revenue in SEK.
+        type: simple 
+        agg: sum 
+        expr: active_mrr_sek
+
+      - name: active_subscriptions
+        description: Total active subscriptions.
+        type: simple
+        agg: sum 
+        expr: active_subscriptions
 
 
 
