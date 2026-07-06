@@ -3,9 +3,15 @@ version: 2
 models:
   - name: int_date_spine
     description: One row per calendar date
+
+
+    time_spine: 
+      standard_granularity_column: date_day
+
     columns:
       - name: date_day
         description: calendar date.
+        granularity: day
         data_tests:
           - unique 
           - not_null

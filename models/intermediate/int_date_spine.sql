@@ -1,3 +1,4 @@
+{{ config(materialized="table")}}
 
 with min_dates as (
     select min(date(created_at)) as min_date

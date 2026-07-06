@@ -1,13 +1,29 @@
-with company_dates as (
+with companies as (
+
+    select *
+    from {{ ref('stg_companies') }}
+
+),
+
+date_spine as (
+
+    select *
+    from {{ ref('int_date_spine') }}
+
+),
+
+company_dates as (
 
     select 
         c.company_id,
         d.date_day
 
-    from
-        {{ ref('stg_companies') }} as c
-    
-    left join {{ ref('int_date_spine') }} as d on d.date_day >= date(c.created_at)
+    from companies as c
+
+    cross join date_spine as d
+
+    where d.date_day >= date(c.created_at)
+
 )
 
 select * from company_dates
