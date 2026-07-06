@@ -17,7 +17,7 @@ with company_dates as (
 
 {% if is_incremental() %}
     -- this filter will only be applied on an incremental run
-    where date_day >= date_sub(current_date(), - interval 3 day)
+    where date_day >= date_sub(current_date(), interval 3 day)
 {% endif %}
 ),
 
@@ -89,9 +89,9 @@ final as (
 
         case 
             when coalesce(s.active_mrr_sek, 0) = 0 then 'inactive'
-            when coalesce(i.overdue_invoices, 0) > 0 then 'billing risk'
-            when coalesce(sts.high_priority_tickets, 0) > 2 then 'high risk'
-            when coalesce(pu.total_events, 0) = 0 then 'usage risk'
+            when coalesce(i.overdue_invoices, 0) > 0 then 'billing_risk'
+            when coalesce(sts.high_priority_tickets, 0) > 2 then 'high_risk'
+            when coalesce(pu.total_events, 0) = 0 then 'usage_risk'
         else 'healthy'
         end as customer_health_status
 

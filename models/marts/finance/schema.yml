@@ -4,8 +4,9 @@ models:
     data_tests:
       - dbt_utils.unique_combination_of_columns:
           arguments:
-            - company_id
-            - date_day
+            combination_of_columns:
+              - company_id
+              - date_day
     columns:
       - name: company_id
         description: Primary key for the company that has a subscription
@@ -38,8 +39,9 @@ models:
     data_tests:
       - dbt_utils.unique_combination_of_columns:
           arguments: 
-          - company_id
-          - invoice_month
+            combination_of_columns:
+            - company_id
+            - invoice_month
 
     columns:
       - name: company_id
