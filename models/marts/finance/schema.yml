@@ -72,7 +72,7 @@ models:
 
 
     primary_entity: company_invoice_month
-    agg_time_dimension: date_day
+    agg_time_dimension: invoice_month
 
 
     data_tests:
