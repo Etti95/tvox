@@ -4,14 +4,30 @@ version: 2
 models:
   - name: fct_daily_platform_usage
     description: Daily company level platform usage. The grain is one row per company_id on each event_date. Includes selected product usage events such as voice calls, SMS, meetings, API-calls, customer-center events, and PBX updates. 
+
+
+    semantic_model: 
+      enabled: true
+
+
+    primary_entity: company_event_date
+    agg_time_dimension: event_date
+
+
     columns:
       - name: event_date
         description: the date each event takes place on. 
+        dimension: 
+          type: time
+        granularity: day
         data_tests:
           - not_null
 
       - name: company_id
         description: primary key for company id that is responsible for each event.
+        entity: 
+          name: company
+          type: foreign
         data_tests:
           - not_null 
   
@@ -55,3 +71,14 @@ models:
 
       - name: active_users
         description: Distinct amount of active_users for the company on date_day.
+
+
+    metrics:
+      - hidden: false
+        name: total_events
+        description: The total amount of platform events for one company
+        type: simple
+        agg: sum
+        expr: total_events
+
+        
