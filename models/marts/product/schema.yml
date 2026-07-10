@@ -74,11 +74,77 @@ models:
 
 
     metrics:
-      - hidden: false
-        name: total_events
+      - name: total_events
         description: The total amount of platform events for one company
         type: simple
         agg: sum
         expr: total_events
 
-        
+      - name: voice_calls
+        description: Counted number of voice calls for one company
+        type: simple
+        agg: count
+        expr: voice_calls
+
+      - name: sms_events
+        description: Counted number of voice calls for one company
+        type: simple
+        agg: count
+        expr: sms_events
+
+      - name: sms_quantity
+        description: Total amount of SMS's sent by one company
+        type: simple
+        agg: sum
+        expr: sms_quantity
+
+
+      - name: api_calls
+        description: Counted total of API calls made by one company
+        type: simple
+        agg: count
+        expr: api_calls
+
+
+      - name: contact_center_events
+        description: Counted total of different contact center events made by one company
+        type: simple
+        agg: count
+        expr: contact_center_events
+
+
+      - name: meetings
+        description: Total amount of meetings on the specific date by one company
+        type: simple
+        agg: sum
+        expr: meetings
+
+
+      - name: pbx_updates
+        description: Counted number of different pbx updates on the specific date by one company
+        type: simple
+        agg: count
+        expr: pbx_updates
+
+      - name: voice_call_seconds
+        description: Total amount of voice call seconds on the specific date by one company
+        type: simple
+        agg: sum
+        expr: voice_call_seconds
+
+
+      - name: meeting_seconds
+        description: Total amount of meetings seconds on the specific date by one company
+        type: simple
+        agg: sum
+        expr: meeting_seconds
+
+
+
+      - name: active_users
+        description: Unique amount of active users on the specific date by one company
+        type: simple
+        agg: count_distinct
+        expr: active_users
+
+
