@@ -17,7 +17,7 @@ with company_dates as (
 
 {% if is_incremental() %}
     -- this filter will only be applied on an incremental run
-    where date_day >= date_sub(current_date(), - interval 3 day)
+    where date_day >= date_sub(current_date(), interval 3 day)
 {% endif %}
 ),
 

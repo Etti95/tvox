@@ -1,6 +1,6 @@
 models:
   - name: stg_companies
-    description: 
+    description: Cleaned and standardized company records from the Telavox raw source.
   - name: stg_invoices
 
   - name: stg_platform_events

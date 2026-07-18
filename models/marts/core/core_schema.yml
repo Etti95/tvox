@@ -5,9 +5,56 @@ models:
       - name: company_id
         description: Primary key for company level data
         data_tests:
-          - unique 
+          - unique
           - not_null
 
   - name: mart_company_daily
     description: gold mart with the grain one row company_id per date_day
-          
+
+semantic_models:
+  - name: company_daily
+    description: >
+      Daily company-level Telavox performance, including recurring revenue,
+      platform usage, support activity, invoices, and company attributes.
+    model: ref('mart_company_daily')
+
+    defaults:
+      agg_time_dimension: date_day
+
+    entities:
+      - name: company_date
+        type: primary
+        expr: concat(cast(company_id as string), '-', cast(date_day as string))
+
+      - name: company
+        type: foreign
+        expr: company_id
+
+    dimensions:
+      - name: date_day
+        type: time
+        type_params:
+          time_granularity: day
+
+      - name: company_name
+        type: categorical
+
+      - name: country
+        type: categorical
+
+      - name: sales_segment
+        type: categorical
+
+    measures:
+      - name: active_mrr_sek
+        description: Active monthly recurring revenue in SEK.
+        agg: sum
+        expr: active_mrr
+
+metrics:
+  - name: active_mrr
+    label: Active MRR
+    description: Total active monthly recurring revenue in SEK.
+    type: simple
+    type_params:
+      measure: active_mrr_sek
