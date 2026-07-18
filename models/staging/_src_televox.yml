@@ -43,7 +43,6 @@ sources:
               
       - name: raw_invoices
         description: One row per invoice.
-        data_tests:
         columns:
           - name: invoice_id
             description: Primary key for invoice data. 

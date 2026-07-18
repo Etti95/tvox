@@ -3,11 +3,17 @@ version: 2
 models:
   - name: int_date_spine
     description: One row per calendar date
+
+
+    time_spine:
+        standard_granularity_column: date_day
+
     columns:
       - name: date_day
-        description: calendar date.
+        description: One calendar date per row.
+        granularity: day
         data_tests:
-          - unique 
+          - unique
           - not_null
 
 
@@ -25,18 +31,18 @@ models:
       - name: company_id
         description: Primary key for related company
         data_tests:
-          - not_null 
+          - not_null
 
       - name: subscription_id
         description: The specific subscription the information relates to.
-        data_tests: 
-          - not_null 
+        data_tests:
+          - not_null
 
   # - name: int_daily_platform_usage
   #   description: One row per company event on each date
   #   columns:
   #     - name: event_date
-  #       description: the date each event takes place on. 
+  #       description: the date each event takes place on.
   #       data_tests:
   #         - not_null
 
@@ -44,7 +50,7 @@ models:
   #       description: primary key for company id that is responsible for each event.
   #       data_tests:
   #         - not_null
-        
+
 
 
   # - name: int_daily_invoice_status
@@ -53,12 +59,12 @@ models:
   #     - name: company_id
   #       description: primary key for each company the invoices concern.
   #       data_tests:
-  #         - not_null 
+  #         - not_null
 
   #     - name: invoice_month
   #       description: Date of each month the invoices are related to
   #       data_tests:
-  #         - not_null 
+  #         - not_null
 
 
   # - name: int_daily_support_tickets
@@ -68,11 +74,11 @@ models:
   #       description: the company the support ticket concerns
   #       data_tests:
   #       - not_null
-          
+
   #     - name: date_day
   #       description: the date each invoice takes place on.
   #       data_tests:
-  #         - not_null 
+  #         - not_null
 
 
   # - name: int_active_subscription_days
@@ -81,9 +87,9 @@ models:
   #     - name: company_id
   #       description: Primary key for the company that has a subscription
   #       data_tests:
-  #         - not_null 
+  #         - not_null
   #     - name: date_day
   #       description: One row per date of an active subscription
   #       data_tests:
-  #         - not_null 
+  #         - not_null
 
