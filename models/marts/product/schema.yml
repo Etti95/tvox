@@ -1,15 +1,88 @@
 models:
   - name: fct_daily_platform_usage
-    description: One row per company event on each date
+    description: Daily company-level platform usage fact table. The grain is one row per company_id per event_date. Includes usage events such as voice calls, API calls, meetings, contact-center events and PBX updates.
+
+    semantic_model:
+      enabled: true
+
+    primary_entity: company_event_date
+    agg_time_dimension: event_date
+
+    data_tests:
+      - dbt_utils_unique_combination_of_columns:
+          combination_of_columns:
+            - event_date
+            - company_id
+
+
     columns:
       - name: event_date
         description: the date each event takes place on. 
+        granularity: day
         data_tests:
           - not_null
 
       - name: company_id
         description: primary key for company id that is responsible for each event.
+        entity: 
+          name: company
+          type: foreign
         data_tests:
           - not_null 
+          - relationships:
+              to: ref('dim_companies')
+              field: company_id
   
     
+      - name: voice_calls
+        description: the number of voice calls made by the company on the event_date.
+
+      - name: api_calls
+        description: the number of API calls made by the company on the event_date.
+
+      - name: meetings
+        description: the number of meetings made by the company on the event_date.
+
+      - name: contact_center_events
+        description: the number of contact center events made by the company on the event_date.
+
+      - name: pbx_updates
+        description: the number of PBX updates made by the company on the event_date.
+
+
+    metrics:
+      - name: total_voice_calls
+        label: Total Voice Calls
+        description: The total number of voice calls made by the company on the event_date.
+        type: simple
+        agg: sum
+        expression: voice_calls
+
+      - name: total_api_calls
+        label: Total API Calls
+        description: The total number of API calls made by the company on the event_date.
+        type: simple
+        agg: sum
+        expression: api_calls
+
+      - name: total_meetings
+        label: Total Meetings
+        description: The total number of meetings made by the company on the event_date.
+        type: simple
+        agg: sum
+        expression: meetings
+
+      - name: total_contact_center_events
+        label: Total Contact Center Events
+        description: The total number of contact center events made by the company on the event_date.
+        type: simple
+        agg: sum
+        expression: contact_center_events
+
+      - name: total_pbx_updates
+        label: Total PBX Updates
+        description: The total number of PBX updates made by the company on the event_date.
+        type: simple
+        agg: sum
+        expression: pbx_updates
+
